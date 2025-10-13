@@ -1,0 +1,28 @@
+		(1)	(2)	(3)	(4)	(5)	(6)	(7)	(8)
+VARIABLES	LABELS	Excessive trading	Excessive trading	Excessive trading	Excessive trading	Excessive trading	Excessive trading	Excessive trading	Excessive trading
+									
+gamified	Gamified	0.03*	0.00	0.08**	0.01	0.00	0.01	0.01	0.16***
+		(1.82)	(0.16)	(2.61)	(0.25)	(0.07)	(0.38)	(0.25)	(3.83)
+salient	Salient purchase price	-0.01	0.00	-0.02	0.01	0.03	0.01	-0.01	-0.06
+		(-0.65)	(0.12)	(-0.54)	(0.48)	(0.64)	(0.39)	(-0.28)	(-1.22)
+age_std	Age	-0.01	-0.09**	0.11	-0.07	-0.14	0.02	-0.04	0.19*
+		(-0.27)	(-2.33)	(1.65)	(-1.42)	(-1.24)	(0.36)	(-0.56)	(1.69)
+d_gender	Gender (female)	-0.03	-0.02	-0.10	-0.02	-0.12	-0.12*	0.08	-0.08
+		(-0.78)	(-0.37)	(-1.34)	(-0.29)	(-1.46)	(-1.88)	(0.89)	(-0.52)
+finquiz_std	Financial quiz score	-0.05**	0.03	-0.11***	0.05	-0.00	-0.02	-0.09*	-0.03
+		(-2.12)	(1.06)	(-3.41)	(0.87)	(-0.04)	(-0.46)	(-1.98)	(-0.60)
+finknowledge_std	Self-assessed financial literacy	0.03	0.03	0.02	0.01	-0.08	0.02	0.07	0.04
+		(1.53)	(1.36)	(0.47)	(0.30)	(-1.21)	(0.74)	(1.50)	(0.84)
+playertrading_experience	Trading experience	0.11**	0.09*	0.14*	-0.01	0.14*	0.14*	0.24**	-0.02
+		(2.38)	(1.72)	(1.79)	(-0.12)	(1.88)	(1.96)	(2.51)	(-0.11)
+playercourse_financial	Finance course taken	-0.00	-0.10	0.09	0.03	0.08	-0.10	-0.26**	0.44**
+		(-0.03)	(-1.39)	(0.98)	(0.33)	(0.58)	(-1.01)	(-2.35)	(2.17)
+prediction_accuracy_std	Standardized values of prediction_accuracy	-0.02	-0.00	-0.03	0.01	-0.02	-0.03	-0.01	0.00
+		(-1.22)	(-0.28)	(-1.29)	(0.64)	(-0.74)	(-1.15)	(-0.46)	(0.03)
+Constant	Constant	0.58***	0.53***	0.64***	0.46***	0.58***	0.59***	0.56***	0.75***
+		(15.52)	(12.26)	(10.36)	(6.12)	(6.71)	(11.57)	(6.27)	(6.29)
+									
+Observations		1,063	601	462	228	134	260	246	195
+Adjusted R-squared		0.03	0.04	0.07	0.01	0.07	0.04	0.09	0.12
+Robust t-statistics in parentheses									
+*** p<0.01, ** p<0.05, * p<0.1									

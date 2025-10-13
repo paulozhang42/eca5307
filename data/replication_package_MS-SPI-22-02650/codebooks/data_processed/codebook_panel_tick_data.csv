@@ -1,0 +1,36 @@
+variable_name,description
+player.inner_name,Internal (abbreviated) treatment name
+participant_code,Unique participant code
+round_number,Indicates the round number of the experiment or activity the participant was engaged in at the time of the page visit.
+price,Stock price at a given tick
+tick_number,The specific tick (time point) in the trading day (round) when the event occurred.
+filtered_prob,the probability of a price movement in a favorable direction as determined by a Markovian model of price changes.
+red_alert,"A binary indicator that flags a sequence where the price has decreased for three consecutive ticks within the same round. It is set to 1 only for the first tick in such a sequence, indicating the initiation of a downward trend."
+green_alert,"Similar to red_alert, but for upward trends. It flags when the price has increased for three consecutive ticks within a round. The indicator is set to 1 only for the first tick in such a sequence, signaling the start of an upward price movement."
+optimal_trade_sign,"Adjusted trade sign, neutralized at the first instance when cumulative position equals or exceeds 2, then follows original trade sign."
+name,"The name or type of the event (e.g. GAME_STARTS, GAME_ENDS)."
+position_delta,"Reflects position change: 1 for a 'buy' (increase), -1 for a 'sell' (decrease), and 0 for no change."
+position,"Cumulative trading position per participant per round, based on net buys and sells."
+position_lag,Previous tick's trading position for each participant and round.
+purchase_price,"Price at which the current position was taken, carried forward until the next position change."
+capital_gains,"The financial gain calculated for each transaction, determined by subtracting the purchase price of an asset from its selling price"
+red_alert_L1,Indicates if a red alert (downward price trend signal) was triggered in the previous tick for the same participant and round.
+red_alert_L2,Indicates if a red alert was triggered two ticks ago for the same participant and round.
+red_alert_L3,Indicates if a red alert was triggered three ticks ago for the same participant and round.
+green_alert_L1,Indicates if a green alert (upward price trend signal) was triggered in the previous tick for the same participant and round.
+green_alert_L2,Indicates if a green alert was triggered two ticks ago for the same participant and round.
+green_alert_L3,Indicates if a green alert was triggered three ticks ago for the same participant and round.
+player.block_name,name of the block (specific experimental condition for this round/trading day)
+player.age,Age of the player.
+player.payoff,Payoff for the player in this round
+player.gender,Gender of the player.
+player.course_financial,Did you take any course focused on financial markets
+player.trading_experience,Do you have any trading experience?
+player.online_trading_experience,Do you use mobile trading apps?
+ingame_experience,"A binary indicator where 1 represents participants who were in specific game blocks (""block 3 (G second)"" or ""block 4 (G second)"") or 0 otherwise"
+gamified,"Indicates if a round is gamified (1) or not (0), based on round and block criteria."
+salient,"Marks a round as salient (1) or non-salient (0), depending on the specific round and block combination."
+prediction,"A participant's assessment of the likelihood of the stock price increasing, provided both before trading begins and midway through the trading day, in response to the question ""How likely is the stock to go up next?"""
+prediction_accuracy,Normalized measure of how closely a participant's prediction aligns with the perceived probability.
+player.knowledge,Self-reported assessment of the player's knowledge in trading
+accuracy_pred_zero,Participant's average normalized accuracy of first-tick predictions.

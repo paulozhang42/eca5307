@@ -1,0 +1,100 @@
+- label: Suppose you had $100 in a savings account and the interest rate was 3% per year. After 4 years, how much do you think you would have in the account if you left the money to grow?
+  choices:
+    - More than $112
+    - Exactly $112
+    - Less than $112
+    - Don't know
+    - Prefer not to say
+  correct: 0
+- label: Imagine that the interest rate on your savings account was 1% per year and inflation was 2% per year. After 1 year, with the money in this account, would you be able to buy
+  choices:
+    - More than today
+    - Exactly the same as today
+    - Less than today
+    - Don't know / Not sure
+    - Prefer not to say
+  correct: 2
+- label: Do you think that the following statement is true or false? "Bonds are normally riskier than stocks."
+  choices:
+    - True
+    - False
+    - They will stay the same
+    - Don't know / Not sure
+    - Prefer not to say
+  correct: 1
+- label: A 15-year mortgage typically requires higher monthly payments than a 30-year mortgage, but the total interest paid over the life of the loan will be less.
+  choices:
+    - True
+    - False
+    - Don't know / Not sure
+    - Prefer not to say
+  correct: 0
+- label: Normally, which asset described below displays the highest fluctuations over time?
+  choices:
+    - Savings accounts
+    - Stocks
+    - Bonds
+    - Don't know / Not sure
+    - Prefer not to say
+  correct: 1
+- label: When an investor spreads his money among different assets, does the risk of losing a lot of money
+  choices:
+    - Increase
+    - Stay the same
+    - Decrease
+    - Don't know / Not sure
+    - Prefer not to say
+  correct: 2
+- label: Considering  a  long  time  period  (for  example,  10  or 20  years),  which  asset  described  below  normally  gives  the highest return?
+  choices:
+    - Savings accounts
+    - Stocks
+    - Bonds
+    - Don't know / Not sure
+    - Prefer not to say
+  correct: 1
+- label: Do you think that the following statement is true or false? "If you were to invest $1,000 in a stock mutual fund, it  would  be  possible  to  have  less  than $1,000  when  you withdraw your money."
+  choices:
+    - True
+    - False
+    - They will stay the same
+    - Don't know / Not sure
+    - Prefer not to say
+  correct: 0
+- label: Do you think that the following statement is true or false?  "A stock mutual fund combines the money of many investors to buy a variety of stocks."
+  choices:
+    - True
+    - False
+    - They will stay the same
+    - Don't know / Not sure
+    - Prefer not to say
+  correct: 0
+- label: Which of the following statements is correct?
+  choices:
+    - Once one invests in a mutual fund, one cannot withdraw the money in the first year
+    - Mutual funds can invest in several assets, for example invest in both stocks and bonds
+    - Mutual funds pay a guaranteed rate of return which depends on their past performance
+    - None of the above
+    - Don't know / Not sure
+    - Prefer not to say
+  correct: 1
+- label: Which  of  the  following  statements  is  correct? If somebody buys a bond of firm B
+  choices:
+    - She owns a part of firm B
+    - She is liable for the company's debts
+    - She has lent money to firm B
+    - None of the above
+    - Prefer not to say
+  correct: 2
+- label: Suppose  you  owe  $3,000  on  your  credit  card.  You pay a minimum payment of $30 each month. At an annual percentage rate of 12% (or 1% per month), how many years would it take to eliminate your credit card debt if you made no additional new charges?
+  choices:
+    - Less than 5 years
+    - Between 5 and 10 years
+    - Between 10 and 15 years
+    - Never
+    - None of the above
+    - Prefer not to say
+  correct: 3
+
+
+

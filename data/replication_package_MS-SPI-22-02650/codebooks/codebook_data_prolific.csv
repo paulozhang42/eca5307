@@ -1,0 +1,207 @@
+filename,variable_name,description
+trader_metadata.csv,participant.id_in_session,Identifier for the participant within the session.
+trader_metadata.csv,participant.code,Unique code for the participant in the study.
+trader_metadata.csv,participant.label,label - used for storing and associating with prolific user id
+trader_metadata.csv,participant._is_bot,Not used; internal otree
+trader_metadata.csv,participant._index_in_pages,page index reached by a particiapnt
+trader_metadata.csv,participant._max_page_index,Not used; internal otree;
+trader_metadata.csv,participant._current_app_name,app reached by a participant
+trader_metadata.csv,participant._current_page_name,page name reached by a particiapnt
+trader_metadata.csv,participant.time_started,Timestamp when the participant started the session (internally measured by oTree)
+trader_metadata.csv,participant.visited,Not used; internal otree
+trader_metadata.csv,participant.mturk_worker_id,Not used; internal otree
+trader_metadata.csv,participant.mturk_assignment_id,Not used; internal otree
+trader_metadata.csv,participant.payoff,Total payoff for the participant in the study.
+trader_metadata.csv,player.id_in_group,Identifier for the player within their group; Not used; internal otree;
+trader_metadata.csv,player.role,Role assigned to the player in the study; Not used; internal otree
+trader_metadata.csv,player.payoff,Payoff for the player in this round
+trader_metadata.csv,player.block_name,name of the block (specific experimental condition for this round/trading day)
+trader_metadata.csv,player.treatment_name,Treatment name
+trader_metadata.csv,player.inner_name,Internal (abbreviated) treatment name
+trader_metadata.csv,player.notifications,Boolean: whether a player gets notifications about price changes
+trader_metadata.csv,player.hedonic,Boolean: hedonic dimension of gamification in platfrom
+trader_metadata.csv,player.sr_prefs,"If you could trade again, would you rather trade on a platform with Design #1 or Design #2?"
+trader_metadata.csv,player.sr_better_decs,"If you could trade again, would you expect to make better decisions when the market looks as in Design #1 or #2?"
+trader_metadata.csv,player.sr_better_have_option,"If you could trade again, would you prefer to be given an option between Design #1 and Design #2, or only trade on Design #1"
+trader_metadata.csv,player.sr_notifications,Please rate the following trading app features on a scale from 1 (strongly dislike) to 5 (strongly like): Price notifications
+trader_metadata.csv,player.sr_badges,Please rate the following trading app features on a scale from 1 (strongly dislike) to 5 (strongly like): Achievement badges
+trader_metadata.csv,player.sr_confetti,Please rate the following trading app features on a scale from 1 (strongly dislike) to 5 (strongly like): Achievement messages and confetti
+trader_metadata.csv,player.gender,Gender of the player.
+trader_metadata.csv,player.age,Age of the player.
+trader_metadata.csv,player.nationality,Nationality of the player.
+trader_metadata.csv,player.education,Educational background of the player.
+trader_metadata.csv,player.study_major,The major or field of study of the player.
+trader_metadata.csv,player.course_financial,Did you take any course focused on financial markets
+trader_metadata.csv,player.experiment_before,Have you been taken part in an experiment before?
+trader_metadata.csv,player.trading_experience,Do you have any trading experience?
+trader_metadata.csv,player.online_trading_experience,Do you use mobile trading apps?
+trader_metadata.csv,player.trading_frequency,How often do you trade online?
+trader_metadata.csv,player.portfolio_frequency,How often do you check the value of your portfolio?
+trader_metadata.csv,player.asset_class,Which asset class do you trade the most?
+trader_metadata.csv,player.use_leverage,"Do you use leverage (e.g., trading on margin)?"
+trader_metadata.csv,player.purpose,What do you think is the purpose of this study?
+trader_metadata.csv,player.difficulty,Did you encounter any difficulty throughout the experiment?
+trader_metadata.csv,player.vars_dump,Dump of various runtime variables associated with the  participant
+trader_metadata.csv,group.id_in_subsession,Identifier for the group within the subsession; ; Not used; internal otree;
+trader_metadata.csv,subsession.round_number,Round number
+trader_metadata.csv,session.code,Unique code identifying the session.
+trader_metadata.csv,session.label,Label  of the session.
+trader_metadata.csv,session.mturk_HITId,Not used; internal otree;
+trader_metadata.csv,session.mturk_HITGroupId,Not used; internal otree;
+trader_metadata.csv,session.comment,Not used; internal otree;
+trader_metadata.csv,session.is_demo,"Boolean: true if it is not a real session, but has been run for testing or demo purposes"
+trader_metadata.csv,cad_payoff,Final payoff in CAD
+pretrade_data_uoft.csv,participant.id_in_session,Identifier for the participant within the session.
+pretrade_data_uoft.csv,participant.code,Unique code for the participant in the study.
+pretrade_data_uoft.csv,participant.label,label - used for storing and associating with prolific user id
+pretrade_data_uoft.csv,participant._is_bot,Not used; internal otree
+pretrade_data_uoft.csv,participant._index_in_pages,page index reached by a particiapnt
+pretrade_data_uoft.csv,participant._max_page_index,Not used; internal otree;
+pretrade_data_uoft.csv,participant._current_app_name,app reached by a participant
+pretrade_data_uoft.csv,participant._current_page_name,page name reached by a particiapnt
+pretrade_data_uoft.csv,participant.time_started,Timestamp when the participant started the session (internally measured by oTree)
+pretrade_data_uoft.csv,participant.visited,Not used; internal otree
+pretrade_data_uoft.csv,participant.mturk_worker_id,Not used; internal otree
+pretrade_data_uoft.csv,participant.mturk_assignment_id,Not used; internal otree
+pretrade_data_uoft.csv,participant.payoff,Total payoff for the participant in the study.
+pretrade_data_uoft.csv,player.id_in_group,Identifier for the player within their group; Not used; internal otree;
+pretrade_data_uoft.csv,player.role,Role assigned to the player in the study; Not used; internal otree
+pretrade_data_uoft.csv,player.payoff,Payoff for the player in this round
+pretrade_data_uoft.csv,player.treatment,The treatment  applied during the session/event.
+pretrade_data_uoft.csv,player.martingale,Informs if the martingale pricing method was employed to generate the price
+pretrade_data_uoft.csv,player.consent,Confirmation of the player's consent to participate in the study.
+pretrade_data_uoft.csv,player.knowledge,Self-reported assessment of the player's knowledge in trading
+pretrade_data_uoft.csv,player.cq1,Comprehension check: question 1
+pretrade_data_uoft.csv,player.cq2,Comprehension check: question 2
+pretrade_data_uoft.csv,player.cq4,Comprehension check: question 4
+pretrade_data_uoft.csv,player.cq5,Comprehension check: question 5
+pretrade_data_uoft.csv,group.id_in_subsession,Identifier for the group within the subsession; ; Not used; internal otree;
+pretrade_data_uoft.csv,subsession.round_number,Round number
+pretrade_data_uoft.csv,session.code,Unique code identifying the session.
+pretrade_data_uoft.csv,session.label,Label  of the session.
+pretrade_data_uoft.csv,session.mturk_HITId,Not used; internal otree;
+pretrade_data_uoft.csv,session.mturk_HITGroupId,Not used; internal otree;
+pretrade_data_uoft.csv,session.comment,Not used; internal otree;
+pretrade_data_uoft.csv,session.is_demo,"Boolean: true if it is not a real session, but has been run for testing or demo purposes"
+trader_actions_uoft.csv,id,Unique identifier for each event recorded in the file.
+trader_actions_uoft.csv,round_number,Indicates the round number of the experiment or activity the participant was engaged in at the time of the page visit.
+trader_actions_uoft.csv,owner,The entity (likely the participant or system component) responsible for the event.
+trader_actions_uoft.csv,name,"The name or type of the event (e.g. GAME_STARTS, GAME_ENDS)."
+trader_actions_uoft.csv,timestamp,The exact time when the event occurred.
+trader_actions_uoft.csv,body,Detailed description or content of the event (specifics may vary depending on the event type).
+trader_actions_uoft.csv,balance,The participant's balance at the time of the event.
+trader_actions_uoft.csv,tick_number,The specific tick (time point) in the trading day (round) when the event occurred.
+trader_actions_uoft.csv,n_transactions,The number of transactions completed by the participant up to the point of this event.
+trader_actions_uoft.csv,participant_code,Unique participant code
+trader_actions_uoft.csv,session_code,Unique code identifying the experimental session during which the event occurred.
+trader_actions_uoft.csv,treatment,The treatment  applied during the session/event.
+trader_actions_uoft.csv,player.intermediary_payoff,player's payoff in specific round (it becomes his/her actual payoff if this round is selected for payment)
+markov_trade_flags.csv,round_number,Indicates the round number of the experiment or activity the participant was engaged in at the time of the page visit.
+markov_trade_flags.csv,tick_number,The specific tick (time point) in the trading day (round) when the event occurred.
+markov_trade_flags.csv,filtered_prob,the probability of a price movement in a favorable direction as determined by a Markovian model of price changes.
+markov_trade_flags.csv,trade_flag,a binary indicator (1 or 0) to signal whether a trade should be executed based on changes in the optimal trading position. 
+markov_trade_flags.csv,optimal_trade_count,"The total number of trades indicated as optimal within a specific round, calculated based on the trade_flag values. "
+markov_trade_flags.csv,price,Price level at this tick (time point)
+pretrade_data.csv,participant.id_in_session,Identifier for the participant within the session.
+pretrade_data.csv,participant.code,Unique code for the participant in the study.
+pretrade_data.csv,participant.label,label - used for storing and associating with prolific user id
+pretrade_data.csv,participant._is_bot,Not used; internal otree
+pretrade_data.csv,participant._index_in_pages,page index reached by a particiapnt
+pretrade_data.csv,participant._max_page_index,Not used; internal otree;
+pretrade_data.csv,participant._current_app_name,app reached by a participant
+pretrade_data.csv,participant._current_page_name,page name reached by a particiapnt
+pretrade_data.csv,participant.time_started,Timestamp when the participant started the session (internally measured by oTree)
+pretrade_data.csv,participant.visited,Not used; internal otree
+pretrade_data.csv,participant.mturk_worker_id,Not used; internal otree
+pretrade_data.csv,participant.mturk_assignment_id,Not used; internal otree
+pretrade_data.csv,participant.payoff,Total payoff for the participant in the study.
+pretrade_data.csv,player.id_in_group,Identifier for the player within their group; Not used; internal otree;
+pretrade_data.csv,player.role,Role assigned to the player in the study; Not used; internal otree
+pretrade_data.csv,player.payoff,Payoff for the player in this round
+pretrade_data.csv,player.treatment,The treatment  applied during the session/event.
+pretrade_data.csv,player.martingale,Informs if the martingale pricing method was employed to generate the price
+pretrade_data.csv,player.consent,Confirmation of the player's consent to participate in the study.
+pretrade_data.csv,player.knowledge,Self-reported assessment of the player's knowledge in trading
+pretrade_data.csv,player.cq1,Comprehension check: question 1
+pretrade_data.csv,player.cq2,Comprehension check: question 2
+pretrade_data.csv,player.cq4,Comprehension check: question 4
+pretrade_data.csv,player.cq5,Comprehension check: question 5
+pretrade_data.csv,group.id_in_subsession,Identifier for the group within the subsession; ; Not used; internal otree;
+pretrade_data.csv,subsession.round_number,Round number
+pretrade_data.csv,session.code,Unique code identifying the session.
+pretrade_data.csv,session.label,Label  of the session.
+pretrade_data.csv,session.mturk_HITId,Not used; internal otree;
+pretrade_data.csv,session.mturk_HITGroupId,Not used; internal otree;
+pretrade_data.csv,session.comment,Not used; internal otree;
+pretrade_data.csv,session.is_demo,"Boolean: true if it is not a real session, but has been run for testing or demo purposes"
+trader_actions.csv,id,Unique identifier for each event recorded in the file.
+trader_actions.csv,round_number,Indicates the round number of the experiment or activity the participant was engaged in at the time of the page visit.
+trader_actions.csv,owner,The entity (likely the participant or system component) responsible for the event.
+trader_actions.csv,name,"The name or type of the event (e.g. GAME_STARTS, GAME_ENDS)."
+trader_actions.csv,timestamp,The exact time when the event occurred.
+trader_actions.csv,body,Detailed description or content of the event (specifics may vary depending on the event type).
+trader_actions.csv,balance,The participant's balance at the time of the event.
+trader_actions.csv,tick_number,The specific tick (time point) in the trading day (round) when the event occurred.
+trader_actions.csv,n_transactions,The number of transactions completed by the participant up to the point of this event.
+trader_actions.csv,participant_code,Unique participant code
+trader_actions.csv,session_code,Unique code identifying the experimental session during which the event occurred.
+trader_actions.csv,treatment,The treatment  applied during the session/event.
+trader_actions.csv,player.intermediary_payoff,player's payoff in specific round (it becomes his/her actual payoff if this round is selected for payment)
+trader_metadata_uoft.csv,participant.id_in_session,Identifier for the participant within the session.
+trader_metadata_uoft.csv,participant.code,Unique code for the participant in the study.
+trader_metadata_uoft.csv,participant.label,label - used for storing and associating with prolific user id
+trader_metadata_uoft.csv,participant._is_bot,Not used; internal otree
+trader_metadata_uoft.csv,participant._index_in_pages,page index reached by a particiapnt
+trader_metadata_uoft.csv,participant._max_page_index,Not used; internal otree;
+trader_metadata_uoft.csv,participant._current_app_name,app reached by a participant
+trader_metadata_uoft.csv,participant._current_page_name,page name reached by a particiapnt
+trader_metadata_uoft.csv,participant.time_started,Timestamp when the participant started the session (internally measured by oTree)
+trader_metadata_uoft.csv,participant.visited,Not used; internal otree
+trader_metadata_uoft.csv,participant.mturk_worker_id,Not used; internal otree
+trader_metadata_uoft.csv,participant.mturk_assignment_id,Not used; internal otree
+trader_metadata_uoft.csv,participant.payoff,Total payoff for the participant in the study.
+trader_metadata_uoft.csv,player.id_in_group,Identifier for the player within their group; Not used; internal otree;
+trader_metadata_uoft.csv,player.role,Role assigned to the player in the study; Not used; internal otree
+trader_metadata_uoft.csv,player.payoff,Payoff for the player in this round
+trader_metadata_uoft.csv,player.block_name,name of the block (specific experimental condition for this round/trading day)
+trader_metadata_uoft.csv,player.treatment_name,Treatment name
+trader_metadata_uoft.csv,player.inner_name,Internal (abbreviated) treatment name
+trader_metadata_uoft.csv,player.notifications,Boolean: whether a player gets notifications about price changes
+trader_metadata_uoft.csv,player.hedonic,Boolean: hedonic dimension of gamification in platfrom
+trader_metadata_uoft.csv,player.sr_prefs,"If you could trade again, would you rather trade on a platform with Design #1 or Design #2?"
+trader_metadata_uoft.csv,player.sr_better_decs,"If you could trade again, would you expect to make better decisions when the market looks as in Design #1 or #2?"
+trader_metadata_uoft.csv,player.sr_better_have_option,"If you could trade again, would you prefer to be given an option between Design #1 and Design #2, or only trade on Design #1"
+trader_metadata_uoft.csv,player.sr_notifications,Please rate the following trading app features on a scale from 1 (strongly dislike) to 5 (strongly like): Price notifications
+trader_metadata_uoft.csv,player.sr_badges,Please rate the following trading app features on a scale from 1 (strongly dislike) to 5 (strongly like): Achievement badges
+trader_metadata_uoft.csv,player.sr_confetti,Please rate the following trading app features on a scale from 1 (strongly dislike) to 5 (strongly like): Achievement messages and confetti
+trader_metadata_uoft.csv,player.gender,Gender of the player.
+trader_metadata_uoft.csv,player.age,Age of the player.
+trader_metadata_uoft.csv,player.nationality,Nationality of the player.
+trader_metadata_uoft.csv,player.education,Educational background of the player.
+trader_metadata_uoft.csv,player.study_major,The major or field of study of the player.
+trader_metadata_uoft.csv,player.course_financial,Did you take any course focused on financial markets
+trader_metadata_uoft.csv,player.experiment_before,Have you been taken part in an experiment before?
+trader_metadata_uoft.csv,player.trading_experience,Do you have any trading experience?
+trader_metadata_uoft.csv,player.online_trading_experience,Do you use mobile trading apps?
+trader_metadata_uoft.csv,player.trading_frequency,How often do you trade online?
+trader_metadata_uoft.csv,player.portfolio_frequency,How often do you check the value of your portfolio?
+trader_metadata_uoft.csv,player.asset_class,Which asset class do you trade the most?
+trader_metadata_uoft.csv,player.use_leverage,"Do you use leverage (e.g., trading on margin)?"
+trader_metadata_uoft.csv,player.purpose,What do you think is the purpose of this study?
+trader_metadata_uoft.csv,player.difficulty,Did you encounter any difficulty throughout the experiment?
+trader_metadata_uoft.csv,player.vars_dump,Dump of various runtime variables associated with the  participant
+trader_metadata_uoft.csv,group.id_in_subsession,Identifier for the group within the subsession; ; Not used; internal otree;
+trader_metadata_uoft.csv,subsession.round_number,Round number
+trader_metadata_uoft.csv,session.code,Unique code identifying the session.
+trader_metadata_uoft.csv,session.label,Label  of the session.
+trader_metadata_uoft.csv,session.mturk_HITId,Not used; internal otree;
+trader_metadata_uoft.csv,session.mturk_HITGroupId,Not used; internal otree;
+trader_metadata_uoft.csv,session.comment,Not used; internal otree;
+trader_metadata_uoft.csv,session.is_demo,"Boolean: true if it is not a real session, but has been run for testing or demo purposes"
+trader_metadata_uoft.csv,cad_payoff,Final payoff in CAD
+optimal_trade_flags.csv,round_number,Indicates the round number of the experiment or activity the participant was engaged in at the time of the page visit.
+optimal_trade_flags.csv,tick_number,The specific tick (time point) in the trading day (round) when the event occurred.
+optimal_trade_flags.csv,filtered_prob,the probability of a price movement in a favorable direction as determined by a Markovian model of price changes.
+optimal_trade_flags.csv,trade_flag,a binary indicator (1 or 0) to signal whether a trade should be executed based on changes in the optimal trading position. 
+optimal_trade_flags.csv,optimal_trade_count,"The total number of trades indicated as optimal within a specific round, calculated based on the trade_flag values. "
+optimal_trade_flags.csv,price,Price level at this tick (time point)

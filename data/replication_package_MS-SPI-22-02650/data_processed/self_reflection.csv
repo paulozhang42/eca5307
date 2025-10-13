@@ -1,0 +1,952 @@
+,participant_code,player.inner_name,profit_nongamified,profit_gamified,accuracy_pred_zero_mean,prediction_accuracy_mean,player.knowledge,overconfidence,player.age,player.payoff,player.gender,player.course_financial,player.trading_experience,player.online_trading_experience,player.sr_prefs,player.sr_better_decs,player.sr_better_have_option,player.sr_notifications,player.sr_badges,player.sr_confetti
+0,00368em6,s3,182.5,217.5,0.5,0.625,3.0,-0.2833333333333334,35.0,7.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,3.0,3.0
+4,00f41hif,s2,185.0,225.0,0.25,0.75,2.0,-0.6333333333333333,34.0,10.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+6,00pdsni3,s2,215.0,,0.5,1.0,1.0,-0.8166666666666667,68.0,11.0,Female,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,3.0,,
+7,00x79kxm,s1,175.0,162.5,0.5,1.0,8.0,-0.11666666666666659,54.0,11.0,Female,0.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,,3.0,3.0
+11,025619n8,s4,197.5,195.0,0.25,0.8125,7.0,-0.30000000000000004,61.0,12.0,Female,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+15,02c5xzpq,s2,220.0,167.5,0.5,0.5625,5.0,-0.5,34.0,12.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+19,03a0alqr,s2,100.0,160.0,0.75,0.75,3.0,0.04999999999999998,36.0,3.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+21,048nxn54,s2,205.0,175.0,0.25,1.0,9.0,-0.016666666666666607,25.0,11.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+23,05ql5twx,s3,180.0,192.5,0.5,0.6875,6.0,-0.15000000000000002,32.0,9.0,Male,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,4.0,4.0
+27,05sh2kt3,s3,202.5,205.0,0.0,0.75,8.0,-0.19999999999999996,70.0,12.0,Male,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",4.0,2.0,3.0
+31,082eh4as,s3,,135.0,0.5,0.5,5.0,-0.33333333333333337,42.0,10.0,Male,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,4.0,3.0,4.0
+32,08x4d9yo,s1,160.0,205.0,0.5,0.75,4.0,-0.3499999999999999,25.0,9.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,3.0,2.0
+35,0aqvrav8,s1,155.0,197.5,0.16666666666666666,0.6666666666666666,1.0,-0.7333333333333334,61.0,10.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,4.0,4.0
+38,0b8crlqg,s3,160.0,220.0,0.5,0.8333333333333334,5.0,-0.33333333333333337,26.0,10.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,3.0,4.0
+41,0c4c5dnf,s1,202.5,175.0,0.0,0.75,2.0,-0.6333333333333333,24.0,10.0,Female,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,,1.0,1.0
+45,0c50marp,s1,175.0,190.0,0.16666666666666666,0.8333333333333334,7.0,-0.21666666666666667,60.0,11.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,4.0,4.0
+48,0d88h9ec,s2,90.0,155.0,0.6666666666666666,0.5833333333333334,5.0,-0.33333333333333337,33.0,10.0,Male,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",4.0,,
+51,0ie8fi28,s2,235.0,162.5,0.16666666666666666,0.8333333333333334,4.0,-0.6,50.0,12.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+54,0j2cnjuc,s1,167.5,187.5,0.25,0.5,7.0,-0.050000000000000044,33.0,9.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,5.0,4.0
+58,0kpdug7u,s1,200.0,195.0,0.5,0.75,2.0,-0.4666666666666666,27.0,8.0,Male,0.0,0.0,1.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",,5.0,5.0
+62,0mendpyl,s4,170.0,195.0,0.5,0.75,7.0,-0.13333333333333341,53.0,10.0,Female,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+65,0nts58x6,s4,180.0,215.0,0.375,0.75,8.0,-0.19999999999999996,19.0,12.0,Other,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+69,0pe8wve3,s2,205.0,,0.0,0.75,8.0,-0.19999999999999996,57.0,12.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+71,0s89hgxq,s4,175.0,195.0,0.5,0.5,3.0,-0.45,28.0,9.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+73,0vid4drt,s2,,155.0,0.5,0.5,6.0,-0.2333333333333334,42.0,10.0,Male,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+74,0vsn80li,s4,245.0,185.0,0.25,0.75,6.0,-0.2333333333333334,20.0,10.0,Male,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+76,0wj2uhxg,s4,167.5,202.5,0.25,0.75,6.0,0.43333333333333335,38.0,2.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+80,0wvol8bq,s2,165.0,,1.0,0.75,7.0,-0.050000000000000044,76.0,9.0,Male,1.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",2.0,,
+81,0z0q3uil,s1,165.0,105.0,0.5,0.75,4.0,-0.09999999999999998,39.0,6.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,2.0,3.0
+84,10cfooir,s4,142.5,192.5,0.5,0.75,7.0,-0.13333333333333341,42.0,10.0,Male,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",1.0,,
+88,10x5cynt,s1,,135.0,0.5,0.5,5.0,-0.41666666666666663,58.0,11.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,5.0,2.0
+89,12b1bilr,s3,125.0,205.0,0.5,0.8333333333333334,7.0,0.033333333333333326,46.0,8.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,4.0,5.0
+92,13la8jfr,s1,102.5,197.5,0.625,0.4166666666666667,3.0,-0.1166666666666667,39.0,5.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,5.0,5.0
+96,15kwfp4z,s2,210.0,177.5,0.5,0.8333333333333334,4.0,-0.43333333333333335,49.0,10.0,Female,0.0,0.0,0.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",3.0,,
+99,16ojd2s3,s2,212.5,230.0,0.5,0.75,2.0,-0.3,74.0,6.0,Male,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,2.0,,
+103,17d9yb0w,s2,137.5,170.0,0.5,0.75,5.0,-0.16666666666666663,55.0,8.0,Male,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+107,187wj09a,s2,135.0,165.0,0.25,0.75,6.0,-0.06666666666666665,22.0,8.0,Male,1.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+109,18a1lzfe,s1,192.5,190.0,0.5,0.8333333333333334,5.0,-0.41666666666666663,54.0,11.0,Female,1.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,,1.0,1.0
+112,19jldzh4,s2,185.0,142.5,0.375,0.6875,6.0,-0.31666666666666665,63.0,11.0,Male,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,3.0,,
+116,19qnu8mh,s2,210.0,250.0,0.5,0.6666666666666666,1.0,-0.7333333333333334,62.0,10.0,Male,0.0,0.0,0.0,Design 2,Design 2,Only trade on Design #1,4.0,,
+119,1avivymf,s1,,210.0,0.5,1.0,7.0,-0.13333333333333341,60.0,10.0,Male,0.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,,1.0,1.0
+120,1ce2piun,s1,210.0,140.0,0.5,0.5,5.0,-0.33333333333333337,61.0,10.0,Female,0.0,0.0,0.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",,2.0,3.0
+122,1cuuwpce,s1,240.0,227.5,0.5,0.5,6.0,-0.06666666666666665,27.0,8.0,Male,1.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,3.0,4.0
+125,1dqxq2w8,s4,195.0,210.0,0.5,0.6875,2.0,-0.6333333333333334,43.0,10.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+129,1ib2t6t7,s1,190.0,255.0,0.0,0.75,5.0,0.0,31.0,6.0,Male,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,,2.0,2.0
+132,1l29zeof,s1,187.5,192.5,0.375,0.75,7.0,-0.21666666666666667,43.0,11.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,3.0,3.0
+136,1md7hquw,s4,150.0,207.5,0.0,0.75,8.0,-0.11666666666666659,19.0,11.0,Male,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+140,1mow4g3h,s3,220.0,162.5,0.5,0.5,7.0,-0.21666666666666667,61.0,11.0,Male,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,5.0,2.0
+143,1ohcgnlw,s1,190.0,190.0,0.5,0.875,5.0,-0.5,62.0,12.0,Female,1.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,2.0,1.0
+147,1q5aq4r1,s2,215.0,212.5,0.0,0.75,6.0,-0.06666666666666665,36.0,8.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+151,1r8r7j3j,s2,170.0,175.0,0.375,0.625,7.0,-0.13333333333333341,72.0,10.0,Female,0.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,3.0,,
+155,1sm5vu93,s3,180.0,170.0,0.3333333333333333,0.8333333333333334,6.0,-0.06666666666666665,65.0,8.0,Male,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,4.0,2.0
+158,1t0auzsd,s1,182.5,245.0,0.3333333333333333,1.0,4.0,-0.5166666666666666,23.0,11.0,Female,1.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,5.0,4.0
+161,1ygj177m,s1,,187.5,0.0,0.5,4.0,0.06666666666666671,23.0,4.0,Female,0.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,,1.0,1.0
+163,1zxkvcbn,s1,147.5,207.5,0.0,0.875,5.0,-0.25,28.0,9.0,Male,1.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,1.0,1.0
+167,23mcgt8u,s1,137.5,167.5,0.25,0.8125,5.0,0.16666666666666669,28.0,4.0,Female,0.0,0.0,0.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",,5.0,3.0
+171,24limr6m,s2,195.0,182.5,0.5,0.75,4.0,-0.2666666666666666,43.0,8.0,Male,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,,
+175,29go8wqj,s3,170.0,165.0,0.375,0.75,8.0,-0.19999999999999996,29.0,12.0,Male,1.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,1.0,1.0,1.0
+179,2egnm8kk,s2,150.0,162.5,0.5,0.625,4.0,-0.35,75.0,9.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+183,2eqe9qnn,s3,212.5,132.5,0.375,0.8125,7.0,0.44999999999999996,33.0,3.0,Male,0.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,1.0,1.0,1.0
+187,2fgcsbk0,s3,67.5,120.0,0.5,0.875,3.0,-0.2,27.0,6.0,Female,0.0,1.0,1.0,Design 1,Design 2,"Have an option between Design #1 and Design #2,",3.0,2.0,3.0
+191,2iwb1vfj,s4,225.0,180.0,0.5,0.75,7.0,-0.13333333333333341,61.0,10.0,Female,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+193,2joeyoiu,s1,222.5,130.0,0.3333333333333333,0.6666666666666666,7.0,-0.21666666666666667,58.0,11.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,2.0,4.0
+196,2jyv1clr,s4,155.0,197.5,0.3333333333333333,0.75,4.0,-0.2666666666666666,21.0,8.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+199,2kkm2b64,s3,147.5,97.5,0.5,0.5625,7.0,-0.050000000000000044,26.0,9.0,Female,0.0,0.0,1.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",5.0,4.0,4.0
+203,2mmdbbf5,s2,205.0,207.5,0.625,0.75,2.0,-0.6333333333333333,57.0,10.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+207,2nkxv3cx,s1,205.0,172.5,0.0,0.875,7.0,-0.30000000000000004,32.0,12.0,Female,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,3.0,2.0
+211,2npv9a7l,s1,,180.0,0.5,0.75,2.0,-0.4666666666666666,60.0,8.0,Female,0.0,0.0,0.0,Design 2,Design 1,Only trade on Design #1,,2.0,1.0
+213,2o3t9jh3,s4,170.0,182.5,0.6666666666666666,0.75,9.0,-0.016666666666666607,64.0,11.0,Male,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+216,2ojue9om,s1,187.5,187.5,0.5,0.625,8.0,-0.19999999999999996,33.0,12.0,Male,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,4.0,3.0
+220,2pnr6ur7,s1,187.5,115.0,0.5,0.8333333333333334,7.0,-0.21666666666666667,57.0,11.0,Male,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,4.0,4.0
+223,2r7994tb,s2,147.5,190.0,0.5,0.5,8.0,-0.11666666666666659,64.0,11.0,Male,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,4.0,,
+226,2smz8tqf,s1,140.0,215.0,0.0,0.8333333333333334,3.0,-0.5333333333333334,39.0,10.0,Male,1.0,1.0,1.0,Design 1,Design 2,"Have an option between Design #1 and Design #2,",,4.0,3.0
+229,2ulo0zxv,s3,,170.0,0.5,1.0,5.0,-0.33333333333333337,51.0,10.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",2.0,1.0,1.0
+230,2vk77sgj,s1,180.0,165.0,0.5,0.75,4.0,0.15000000000000002,44.0,3.0,Female,0.0,0.0,0.0,Design 2,Design 1,Only trade on Design #1,,3.0,3.0
+234,2yjag2zc,s1,165.0,135.0,0.5,0.6666666666666666,5.0,0.0,71.0,6.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,5.0,5.0
+237,2zqhig9u,s1,172.5,192.5,0.5,1.0,6.0,-0.06666666666666665,47.0,8.0,Female,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,,1.0,1.0
+241,30bpdg9o,s4,200.0,125.0,0.5,0.8333333333333334,1.0,-0.65,32.0,9.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,,
+244,31thqnet,s4,200.0,165.0,0.625,0.75,6.0,-0.2333333333333334,27.0,10.0,Female,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",2.0,,
+248,33c9cqtk,s3,207.5,197.5,0.5,0.6875,0.0,-0.5833333333333334,32.0,7.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,3.0,4.0
+252,3asr1qbw,s2,185.0,255.0,0.16666666666666666,0.75,3.0,-0.36666666666666664,21.0,8.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+255,3bsz1sp7,s4,167.5,200.0,0.25,0.8125,4.0,-0.4333333333333333,59.0,10.0,Other,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+259,3buq3ggx,s3,165.0,125.0,0.5,0.5833333333333334,2.0,-0.4666666666666666,22.0,8.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,3.0,3.0
+262,3cib9mvi,s1,182.5,180.0,0.5,0.875,5.0,-0.33333333333333337,44.0,10.0,Female,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,,3.0,3.0
+266,3d56h9sa,s2,205.0,225.0,0.5,0.8333333333333334,7.0,-0.2166666666666667,51.0,11.0,Male,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+269,3flaaaww,s2,220.0,185.0,0.5,0.875,7.0,-0.21666666666666667,64.0,11.0,Male,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",4.0,,
+273,3ghml26z,s2,180.0,215.0,0.5,0.6666666666666666,6.0,-0.31666666666666665,61.0,11.0,Female,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+276,3go08v6n,s3,175.0,222.5,0.375,0.75,6.0,-0.2333333333333334,29.0,10.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,4.0,5.0
+280,3gu5is4p,s1,232.5,190.0,0.5,0.625,7.0,0.033333333333333326,31.0,8.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,4.0,5.0
+284,3jijj4nq,s1,150.0,175.0,0.3333333333333333,0.5833333333333334,1.0,-0.4833333333333334,25.0,7.0,Female,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,,5.0,1.0
+287,3kf1b1rk,s2,190.0,192.5,0.5,1.0,7.0,-0.30000000000000004,61.0,12.0,Female,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,2.0,,
+291,3manu9wu,s2,232.5,142.5,0.625,0.75,3.0,-0.6166666666666667,63.0,11.0,Male,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",2.0,,
+295,3mxdov9g,s2,177.5,190.0,0.25,0.875,2.0,-0.3,22.0,6.0,Female,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",1.0,,
+299,3nquj08m,s1,222.5,147.5,0.375,0.6875,4.0,-0.2666666666666666,20.0,8.0,Male,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,1.0,1.0
+303,3o76985j,s3,232.5,175.0,0.375,0.625,3.0,-0.6999999999999998,66.0,12.0,Male,1.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,2.0,2.0
+307,3opzcx0x,s2,220.0,117.5,0.0,0.8333333333333334,5.0,0.08333333333333331,27.0,5.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+310,3r7qnwlx,s1,197.5,197.5,0.5,0.625,1.0,-0.9,61.0,12.0,Female,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,,3.0,3.0
+314,3ta82h4d,s2,197.5,197.5,0.375,0.75,7.0,-0.30000000000000004,35.0,12.0,Male,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,2.0,,
+318,3topin2z,s2,195.0,220.0,0.5,0.875,6.0,0.016666666666666607,39.0,7.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+322,3tpm31px,s2,165.0,200.0,0.0,0.6666666666666666,8.0,-0.19999999999999996,27.0,12.0,Male,1.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,1.0,,
+325,3vhhjydy,s2,190.0,190.0,0.5,0.75,7.0,-0.21666666666666667,65.0,11.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+329,3vqu73mf,s1,197.5,185.0,0.5,0.8125,5.0,-0.33333333333333337,64.0,10.0,Male,0.0,0.0,0.0,Design 1,Design 2,"Have an option between Design #1 and Design #2,",,4.0,4.0
+333,3walmnez,s1,202.5,235.0,0.0,0.5833333333333334,5.0,-0.33333333333333337,41.0,10.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,3.0,1.0
+336,3y49104x,s1,185.0,145.0,0.375,0.875,3.0,-0.5333333333333334,21.0,10.0,Female,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,,5.0,4.0
+340,417tezz2,s3,175.0,185.0,0.5,0.5,4.0,-0.18333333333333335,40.0,7.0,Female,0.0,0.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,4.0,4.0
+343,464dch7u,s3,170.0,162.5,0.0,0.875,8.0,-0.11666666666666659,67.0,11.0,Female,0.0,1.0,0.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",3.0,2.0,5.0
+347,4bwgyciw,s4,175.0,135.0,0.5,0.75,7.0,-0.13333333333333341,55.0,10.0,Male,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",4.0,,
+349,4dbgn7wq,s2,177.5,170.0,0.5,0.6666666666666666,4.0,-0.09999999999999998,58.0,6.0,Female,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,3.0,,
+353,4eui218c,s2,185.0,150.0,0.16666666666666666,0.75,0.0,0.0,50.0,0.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,,
+356,4fpo0j2s,s4,220.0,155.0,0.5,0.75,6.0,-0.15000000000000005,65.0,9.0,Male,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,2.0,,
+358,4gn9bb4x,s2,202.5,212.5,0.625,0.9375,6.0,-0.2333333333333334,26.0,10.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+362,4imu3ud7,s1,217.5,205.0,0.75,0.875,6.0,-0.15000000000000002,55.0,9.0,Male,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,2.0,4.0
+366,4imzaxsx,s2,185.0,160.0,0.0,0.75,5.0,-0.41666666666666663,40.0,11.0,Male,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+368,4lfptx5v,s4,190.0,245.0,0.6666666666666666,0.5833333333333334,4.0,-0.18333333333333338,58.0,7.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+371,4mrglkfd,s2,185.0,182.5,0.5,0.875,7.0,-0.13333333333333341,64.0,10.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+375,4n6vdqb0,s1,72.5,187.5,0.5,0.75,6.0,0.6,34.0,0.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,3.0,4.0
+379,4nqxavdq,s1,205.0,,0.5,0.5,5.0,-0.08333333333333337,74.0,7.0,Male,1.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,,3.0,5.0
+381,4ogbkl47,s3,175.0,202.5,0.75,0.6875,4.0,-0.18333333333333335,63.0,7.0,Female,0.0,1.0,0.0,Design 1,Design 2,"Have an option between Design #1 and Design #2,",5.0,3.0,3.0
+385,4qav77pr,s2,195.0,270.0,0.5,0.5833333333333334,8.0,-0.11666666666666659,62.0,11.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",2.0,,
+388,4qmk16b8,s3,222.5,150.0,0.125,0.75,6.0,-0.2333333333333334,50.0,10.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,1.0,3.0
+392,4t94dja8,s4,160.0,192.5,0.125,0.75,3.0,-0.2,58.0,6.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+396,4w8si5lz,s1,112.5,,0.5,0.75,8.0,0.30000000000000004,36.0,6.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,5.0,5.0
+398,506vrdqw,s1,185.0,207.5,0.25,0.6875,4.0,-0.5166666666666666,65.0,11.0,Female,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,2.0,3.0
+402,51tlabla,s2,192.5,225.0,0.5,0.75,5.0,-0.5,25.0,12.0,Female,0.0,1.0,1.0,Design 1,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+406,5341e1og,s2,100.0,170.0,0.5,0.75,7.0,-0.21666666666666667,40.0,11.0,Male,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+408,53e9uro5,s1,175.0,205.0,0.5,0.6666666666666666,7.0,-0.30000000000000004,53.0,12.0,Male,1.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,,1.0,1.0
+411,55n27klu,s1,190.0,215.0,0.5,1.0,3.0,-0.6166666666666667,59.0,11.0,Male,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,,2.0,2.0
+414,57nx8h6f,s1,190.0,195.0,0.16666666666666666,0.8333333333333334,6.0,-0.4,64.0,12.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,4.0,3.0
+417,57vqyypw,s3,172.5,135.0,0.0,0.8333333333333334,6.0,-0.15000000000000002,51.0,9.0,Female,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,5.0,3.0,1.0
+420,57xl4nij,s2,225.0,145.0,0.0,0.5833333333333334,7.0,-0.30000000000000004,44.0,12.0,Male,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,2.0,,
+423,58dpwfzb,s2,195.0,150.0,0.6666666666666666,0.9166666666666666,1.0,-0.5666666666666667,61.0,8.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+426,5bobhvnc,s3,217.5,202.5,0.375,0.75,1.0,-0.5666666666666667,26.0,8.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",2.0,2.0,1.0
+430,5edsyqsh,s1,145.0,170.0,0.5,1.0,3.0,-0.5333333333333334,58.0,10.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,4.0,4.0
+432,5fnzedyg,s2,180.0,187.5,0.5,0.8333333333333334,4.0,-0.35,64.0,9.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+435,5h2zemhq,s1,145.0,237.5,0.375,1.0,5.0,-0.4166666666666667,58.0,11.0,Female,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,3.0,4.0
+439,5kpxchrr,s2,155.0,185.0,0.5,0.6666666666666666,8.0,-0.11666666666666659,74.0,11.0,Male,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,,
+442,5l6sbrxp,s2,205.0,230.0,0.5,0.8125,8.0,-0.19999999999999998,69.0,12.0,Male,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+446,5lcxrim0,s2,80.0,185.0,0.5,0.875,9.0,0.4833333333333333,70.0,5.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+448,5nwwwj04,s1,180.0,185.0,0.5,0.5,6.0,-0.31666666666666665,65.0,11.0,Male,1.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,,1.0,1.0
+451,5pnbd47z,s2,215.0,172.5,0.5,0.8333333333333334,8.0,0.21666666666666667,56.0,7.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+454,5q9gc1za,s4,200.0,,0.0,1.0,5.0,-0.33333333333333337,58.0,10.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+456,5wvhw8hp,s2,177.5,225.0,0.0,0.8125,7.0,0.19999999999999996,50.0,6.0,Male,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+460,5z5at3ck,s2,,192.5,0.25,0.5,2.0,-0.55,59.0,9.0,Male,0.0,0.0,0.0,Design 2,Design 2,Only trade on Design #1,5.0,,
+462,619i7s6k,s1,212.5,210.0,0.0,0.8333333333333334,9.0,0.06666666666666665,45.0,10.0,Male,1.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,,1.0,1.0
+465,61ult9ip,s4,197.5,200.0,0.375,0.8125,7.0,-0.050000000000000044,56.0,9.0,Male,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,5.0,,
+469,63g8qr1d,s1,197.5,197.5,0.5,0.75,8.0,-0.033333333333333326,36.0,10.0,Female,1.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,3.0,3.0
+473,63yu6238,s3,177.5,230.0,0.0,0.75,3.0,-0.033333333333333326,50.0,4.0,Male,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,2.0,1.0,1.0
+477,65q8soh4,s3,240.0,200.0,0.0,0.875,8.0,-0.19999999999999996,26.0,12.0,Male,1.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,4.0,1.0,1.0
+481,661sy8xj,s3,175.0,217.5,0.25,0.75,5.0,-0.4166666666666667,45.0,11.0,Male,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",4.0,1.0,1.0
+485,672wu1n8,s4,225.0,182.5,0.5,0.75,2.0,-0.55,65.0,9.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+489,67twueaz,s1,212.5,167.5,1.0,0.5,10.0,0.6666666666666667,33.0,4.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,5.0,5.0
+493,69jeczla,s2,180.0,142.5,0.5,0.875,8.0,-0.033333333333333326,60.0,10.0,Female,1.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",2.0,,
+497,6dtroir0,s1,255.0,190.0,0.5,0.75,8.0,0.050000000000000044,65.0,9.0,Female,0.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,,3.0,2.0
+501,6g5px0xt,s1,170.0,195.0,0.5,0.8333333333333334,3.0,-0.36666666666666664,34.0,8.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,3.0,5.0
+504,6gmf8gmj,s2,230.0,190.0,0.0,1.0,0.0,-0.8333333333333334,64.0,10.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",2.0,,
+506,6h7k3xa1,s1,222.5,192.5,0.0,0.75,6.0,-0.4,57.0,12.0,Male,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,,3.0,3.0
+510,6lg96xzw,s1,180.0,157.5,0.8333333333333334,0.8333333333333334,2.0,-0.04999999999999999,38.0,3.0,Male,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,,5.0,4.0
+513,6m42mvsb,s4,200.0,147.5,0.0,0.875,3.0,-0.1166666666666667,59.0,5.0,Female,1.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+517,6o7y8xf2,s3,210.0,187.5,0.5,0.5625,2.0,-0.38333333333333336,28.0,7.0,Female,0.0,0.0,0.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",3.0,5.0,1.0
+521,6o86nct7,s4,140.0,175.0,1.0,0.6666666666666666,6.0,0.016666666666666607,49.0,7.0,Female,1.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,,
+524,6p7fgysp,s1,172.5,225.0,0.125,0.75,1.0,-0.15,32.0,3.0,Female,0.0,0.0,1.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",,3.0,5.0
+528,6plg7gbc,s2,,175.0,0.5,1.0,7.0,-0.21666666666666667,72.0,11.0,Male,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,1.0,,
+529,6qbm3skf,s1,180.0,185.0,0.3333333333333333,0.5,2.0,-0.6333333333333334,34.0,10.0,Male,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,3.0,1.0
+532,6r8p8q7q,s2,210.0,180.0,0.375,0.8125,7.0,0.11666666666666659,65.0,7.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",1.0,,
+536,6sqhw7f0,s4,205.0,190.0,0.0,0.9166666666666666,8.0,-0.1166666666666666,48.0,11.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+539,6st8yhz5,s1,192.5,167.5,0.375,0.8125,3.0,-0.36666666666666664,25.0,8.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,1.0,2.0
+543,6tz2g1ru,s3,167.5,155.0,0.3333333333333333,0.75,3.0,-0.5333333333333334,45.0,10.0,Female,0.0,0.0,0.0,Design 1,Design 2,"Have an option between Design #1 and Design #2,",3.0,1.0,1.0
+546,6uuvk383,s2,185.0,202.5,0.5,0.75,3.0,-0.2833333333333334,24.0,7.0,Male,1.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",4.0,,
+550,6v0pvx7w,s2,220.0,185.0,0.375,0.8125,3.0,-0.2833333333333334,32.0,7.0,Male,0.0,0.0,0.0,Design 1,Design 2,"Have an option between Design #1 and Design #2,",2.0,,
+554,6va165hn,s4,212.5,175.0,0.5,0.6875,8.0,-0.033333333333333326,71.0,10.0,Female,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,,
+558,6w42mhkj,s1,192.5,182.5,0.5,0.625,5.0,-0.08333333333333337,54.0,7.0,Male,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,2.0,1.0
+562,6y3fcpqc,s2,182.5,195.0,0.5,0.75,7.0,-0.30000000000000004,28.0,12.0,Male,1.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,4.0,,
+566,6yvwn9lz,s1,140.0,,0.0,1.0,8.0,-0.11666666666666657,26.0,11.0,Male,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,,2.0,1.0
+568,6zgbnv8w,s1,135.0,225.0,0.5,1.0,6.0,-0.31666666666666665,59.0,11.0,Male,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,,1.0,1.0
+571,6zgx99xn,s3,145.0,207.5,0.5,0.8333333333333334,3.0,-0.45,63.0,9.0,Female,1.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,3.0,4.0
+574,70pwtc1u,s1,177.5,182.5,0.5,0.75,4.0,-0.016666666666666663,45.0,5.0,Male,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,3.0,1.0
+578,719fsc4m,s1,197.5,180.0,0.25,0.625,3.0,-0.5333333333333334,23.0,10.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,5.0,4.0
+582,71qepyo0,s2,172.5,172.5,0.5,0.625,4.0,-0.4333333333333334,61.0,10.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+586,71rv8ilv,s2,170.0,162.5,0.5,0.75,4.0,-0.18333333333333332,32.0,7.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+590,7669d94u,s2,192.5,200.0,0.125,0.75,6.0,-0.15000000000000002,28.0,9.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+594,7746bxgt,s3,197.5,155.0,0.375,0.875,4.0,-0.2666666666666666,27.0,8.0,Male,0.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,3.0,1.0,1.0
+598,77p9zjql,s1,180.0,90.0,0.5,0.8333333333333334,6.0,0.09999999999999998,56.0,6.0,Male,1.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,4.0,4.0
+601,78kpldtj,s1,160.0,180.0,0.25,0.5,8.0,-0.11666666666666659,67.0,11.0,Female,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,,1.0,1.0
+603,78txyag0,s2,182.5,187.5,0.5,0.6875,6.0,-0.31666666666666665,44.0,11.0,Female,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,2.0,,
+607,78x65z4g,s1,175.0,175.0,0.5,0.625,4.0,-0.6,44.0,12.0,Male,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,,1.0,1.0
+611,79850ve7,s4,210.0,177.5,0.625,0.75,6.0,0.26666666666666666,24.0,4.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",2.0,,
+615,79tp5z77,s2,182.5,237.5,0.375,1.0,8.0,-0.19999999999999996,63.0,12.0,Male,1.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+619,7avcx8i9,s1,177.5,242.5,0.25,0.75,6.0,-0.31666666666666665,57.0,11.0,Male,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,,2.0,1.0
+623,7gucxpn9,s3,220.0,170.0,0.16666666666666666,0.8333333333333334,8.0,-0.19999999999999996,66.0,12.0,Male,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,5.0,1.0,1.0
+626,7iqvr5vx,s1,192.5,190.0,0.0,0.6666666666666666,6.0,-0.15000000000000002,42.0,9.0,Male,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,,1.0,1.0
+629,7lgvau40,s1,197.5,217.5,0.5,0.875,3.0,-0.6166666666666667,47.0,11.0,Male,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,3.0,1.0
+633,7ljjrjev,s4,182.5,185.0,0.625,0.625,7.0,-0.21666666666666667,68.0,11.0,Male,0.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,1.0,,
+637,7lpcr8ly,s3,202.5,200.0,0.5,0.875,6.0,0.09999999999999998,33.0,6.0,Female,1.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",4.0,2.0,2.0
+641,7mbg2n0k,s1,200.0,215.0,0.5,0.75,6.0,-0.4000000000000001,44.0,12.0,Female,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,4.0,5.0
+645,7n8hmj4n,s1,195.0,207.5,0.125,0.75,1.0,-0.4833333333333334,53.0,7.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,1.0,1.0
+649,7pufx88s,s1,192.5,,0.5,0.625,7.0,-0.13333333333333341,23.0,10.0,Male,1.0,1.0,0.0,Design 2,Design 1,Only trade on Design #1,,4.0,3.0
+651,7q4hg37s,s2,222.5,170.0,0.0,0.75,3.0,-0.20000000000000004,50.0,6.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",1.0,,
+655,7r2gfgi8,s1,95.0,,0.5,1.0,7.0,-0.13333333333333341,62.0,10.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,3.0,5.0
+656,7sukpral,s2,202.5,205.0,0.625,0.75,8.0,-0.19999999999999996,38.0,12.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+660,7yszzoye,s3,165.0,195.0,0.5,0.6875,4.0,-0.3499999999999999,61.0,9.0,Female,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,5.0,3.0,4.0
+664,7zz4wq8n,s4,195.0,130.0,0.5,0.6875,1.0,-0.31666666666666665,56.0,5.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+668,81158lru,s2,177.5,185.0,0.5,0.75,9.0,-0.09999999999999998,73.0,12.0,Male,1.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+672,81iztf6a,s1,125.0,200.0,0.8333333333333334,0.8333333333333334,5.0,-0.25,42.0,9.0,Female,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,,4.0,1.0
+675,84ki9s09,s2,170.0,250.0,0.5,0.75,3.0,-0.2833333333333334,70.0,7.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",4.0,,
+677,84kuancg,s2,165.0,225.0,0.625,0.75,7.0,-0.21666666666666665,34.0,11.0,Male,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,4.0,,
+681,85q2mnx4,s2,167.5,212.5,0.5,0.5625,8.0,-0.033333333333333326,38.0,10.0,Female,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+685,89p3spwv,s4,220.0,240.0,0.5,0.75,5.0,0.4166666666666667,39.0,1.0,Female,0.0,0.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+687,8b26utcw,s3,185.0,,0.5,0.75,7.0,-0.30000000000000004,65.0,12.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,3.0,1.0
+689,8bm87toe,s4,205.0,190.0,0.0,0.9166666666666666,5.0,-0.41666666666666663,54.0,11.0,Male,1.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",2.0,,
+692,8gmumrea,s2,170.0,150.0,0.3333333333333333,0.75,6.0,0.09999999999999998,27.0,6.0,Female,0.0,0.0,1.0,Design 1,Design 1,Only trade on Design #1,4.0,,
+695,8i0fmv7v,s4,175.0,202.5,0.16666666666666666,0.8333333333333334,5.0,-0.5,51.0,12.0,Male,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,,
+698,8ls3vc1n,s2,175.0,190.0,0.5,0.75,0.0,-0.75,41.0,9.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+702,8qk47b1u,s2,215.0,197.5,0.375,0.75,7.0,-0.30000000000000004,56.0,12.0,Female,0.0,0.0,0.0,Design 1,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+706,8uzabifw,s1,195.0,210.0,0.5,0.6875,8.0,0.30000000000000004,56.0,6.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,4.0,5.0
+710,8veahl0t,s2,190.0,232.5,0.375,0.75,3.0,-0.5333333333333334,68.0,10.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+714,8vr9x9l8,s4,162.5,167.5,0.125,0.75,2.0,-0.6333333333333333,25.0,10.0,Male,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+718,8wbul1lo,s1,170.0,172.5,0.5,0.75,7.0,-0.21666666666666667,34.0,11.0,Male,1.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,,1.0,1.0
+722,8x4uvovf,s3,197.5,150.0,1.0,0.5,10.0,0.6666666666666667,36.0,4.0,Male,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",5.0,5.0,5.0
+726,8xqv3p03,s1,165.0,165.0,0.6666666666666666,0.6666666666666666,2.0,-0.8000000000000002,39.0,12.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,1.0,1.0
+729,8y7toj6d,s2,145.0,130.0,0.5,1.0,5.0,-0.16666666666666663,60.0,8.0,Female,1.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+731,8ywi8mz6,s2,,180.0,0.5,0.75,2.0,-0.4666666666666666,67.0,8.0,Female,1.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+733,9286d5oo,s3,167.5,207.5,0.375,0.75,3.0,-0.36666666666666664,27.0,8.0,Male,0.0,0.0,0.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",5.0,2.0,3.0
+737,936ovxtr,s4,220.0,167.5,0.75,0.75,8.0,0.38333333333333336,41.0,5.0,Female,1.0,1.0,1.0,Design 1,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+741,948db3pz,s2,170.0,,0.5,0.5,5.0,-0.5,62.0,12.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+742,95spozkd,s2,165.0,185.0,0.0,0.75,6.0,-0.4,51.0,12.0,Male,0.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,1.0,,
+746,95t7zj9u,s4,180.0,175.0,0.5,0.6666666666666666,7.0,-0.13333333333333341,58.0,10.0,Female,0.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,2.0,,
+749,966gue3r,s2,185.0,185.0,0.625,0.6875,1.0,-0.4,54.0,6.0,Female,0.0,0.0,0.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",4.0,,
+753,96o6hitp,s1,200.0,160.0,0.5,0.6666666666666666,3.0,-0.20000000000000004,49.0,6.0,Female,0.0,1.0,0.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",,3.0,2.0
+756,97ckhs3m,s1,175.0,162.5,0.5,0.8333333333333334,7.0,-0.13333333333333341,38.0,10.0,Female,1.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,,3.0,3.0
+759,9f4zagle,s3,122.5,22.5,0.5,0.9375,0.0,-0.75,57.0,9.0,Male,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,5.0,5.0,5.0
+763,9fikja9s,s3,170.0,,0.5,0.5,1.0,-0.3166666666666667,20.0,5.0,Male,0.0,0.0,0.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",5.0,2.0,4.0
+765,9g07hkcy,s1,227.5,195.0,0.375,0.625,4.0,-0.43333333333333335,36.0,10.0,Male,0.0,0.0,0.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",,2.0,2.0
+769,9gand350,s1,215.0,160.0,0.5,0.375,7.0,-0.21666666666666667,23.0,11.0,Male,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,2.0,4.0
+771,9inew8o8,s4,185.0,180.0,0.5,0.625,6.0,0.09999999999999998,42.0,6.0,Female,0.0,0.0,0.0,Design 1,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+775,9ircg9y5,s3,177.5,235.0,0.16666666666666666,0.8333333333333334,9.0,-0.09999999999999998,65.0,12.0,Male,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",4.0,1.0,2.0
+778,9jyrpd2v,s1,165.0,,0.0,0.625,8.0,-0.19999999999999996,69.0,12.0,Male,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,3.0,1.0
+780,9kc1q540,s1,195.0,245.0,0.3333333333333333,0.8333333333333334,7.0,0.033333333333333326,64.0,8.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,3.0,1.0
+783,9let6alt,s3,180.0,200.0,0.125,0.75,3.0,-0.1166666666666667,47.0,5.0,Male,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,2.0,2.0,1.0
+787,9nvkw16z,s1,145.0,232.5,0.5,0.8333333333333334,1.0,-0.7333333333333334,53.0,10.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,2.0,2.0
+790,9o4kpgfy,s1,,155.0,0.5,1.0,7.0,0.36666666666666664,60.0,4.0,Female,1.0,1.0,1.0,Design 2,Design 2,Only trade on Design #1,,3.0,3.0
+791,9ph1p4li,s1,152.5,135.0,0.625,0.8125,6.0,0.26666666666666666,24.0,4.0,Female,0.0,1.0,1.0,Design 1,Design 2,Only trade on Design #1,,4.0,1.0
+795,9pmbbqod,s4,150.0,197.5,0.5,0.75,1.0,-0.8166666666666667,27.0,11.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+799,9r7m5spx,s2,207.5,195.0,0.5,0.75,6.0,-0.06666666666666665,71.0,8.0,Female,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+803,9uufvb75,s2,207.5,232.5,0.5,0.75,5.0,0.08333333333333331,42.0,5.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+807,9vxejrsa,s1,195.0,132.5,0.375,0.75,5.0,-0.41666666666666663,63.0,11.0,Female,0.0,1.0,1.0,Design 1,Design 2,"Have an option between Design #1 and Design #2,",,3.0,3.0
+811,9wn44ocj,s4,177.5,215.0,0.25,0.75,5.0,-0.41666666666666663,62.0,11.0,Female,0.0,1.0,0.0,Design 1,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+815,9xxnyucm,s3,195.0,190.0,0.16666666666666666,0.6666666666666666,3.0,-0.2833333333333334,46.0,7.0,Female,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,1.0,1.0,1.0
+818,a1t5cstl,s1,,112.5,0.5,0.625,7.0,-0.050000000000000044,28.0,9.0,Male,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,1.0,1.0
+820,a4k3filt,s1,125.0,90.0,0.75,0.8125,5.0,0.08333333333333331,43.0,5.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,4.0,4.0
+824,a53oq8m2,s4,207.5,177.5,0.5,0.75,2.0,-0.6333333333333333,50.0,10.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+828,a6e0vd8a,s2,182.5,125.0,0.5,0.6666666666666666,5.0,-0.3333333333333333,38.0,10.0,Male,1.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,3.0,,
+831,a7dufstq,s3,230.0,165.0,0.8333333333333334,0.75,8.0,0.38333333333333336,32.0,5.0,Male,0.0,1.0,1.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",4.0,1.0,1.0
+834,a9he32r1,s1,180.0,225.0,0.5,0.9166666666666666,3.0,-0.033333333333333326,68.0,4.0,Male,0.0,0.0,0.0,Design 2,Design 2,Only trade on Design #1,,3.0,3.0
+837,a9or55m2,s4,162.5,245.0,0.5,0.75,1.0,-0.8166666666666667,61.0,11.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",4.0,,
+840,aatoorta,s2,150.0,147.5,0.75,0.75,7.0,0.28333333333333327,35.0,5.0,Female,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",4.0,,
+844,aazk67o3,s3,187.5,187.5,0.5,0.875,2.0,-0.38333333333333336,18.0,7.0,Other,0.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,2.0,1.0,2.0
+848,ab3hiagq,s1,170.0,160.0,0.16666666666666666,0.6666666666666666,4.0,-0.016666666666666663,54.0,5.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,1.0,1.0
+851,ae6u9oyy,s4,125.0,,0.5,0.75,8.0,0.55,48.0,3.0,Female,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+852,ae7xvckl,s1,132.5,180.0,0.375,0.875,2.0,-0.38333333333333336,47.0,7.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,4.0,4.0
+856,aejz4tz2,s3,130.0,210.0,1.0,0.4375,6.0,0.26666666666666666,40.0,4.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,4.0,4.0
+860,af6q22y8,s3,132.5,165.0,0.5,0.75,6.0,-0.31666666666666665,74.0,11.0,Male,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,3.0,3.0
+864,afa9rhcj,s3,65.0,110.0,0.5,0.8333333333333334,8.0,0.46666666666666673,66.0,4.0,Male,1.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,3.0,5.0,4.0
+867,afan4w14,s1,172.5,175.0,0.5,0.75,7.0,-0.13333333333333341,33.0,10.0,Female,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,4.0,4.0
+871,afel6hgk,s4,205.0,210.0,0.375,0.75,4.0,-0.2666666666666666,38.0,8.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+875,affhk7da,s2,222.5,222.5,0.375,0.6875,7.0,0.19999999999999998,56.0,6.0,Male,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+879,aijfilsh,s1,137.5,210.0,0.5,0.5625,5.0,0.0,27.0,6.0,Female,0.0,0.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,4.0,4.0
+883,ajcry3ze,s2,217.5,242.5,0.0,0.75,5.0,-0.5,43.0,12.0,Male,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+887,akxmzag0,s2,195.0,210.0,0.5,0.5,3.0,-0.45,63.0,9.0,Male,0.0,0.0,0.0,Design 1,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+889,apb7kwzy,s2,185.0,195.0,0.75,0.625,6.0,0.09999999999999998,34.0,6.0,Male,1.0,1.0,1.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",5.0,,
+893,assh1xqn,s1,120.0,205.0,0.5,0.75,8.0,0.46666666666666673,50.0,4.0,Female,0.0,0.0,0.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",,4.0,5.0
+895,at5wiksf,s2,135.0,190.0,0.5,0.8333333333333334,7.0,-0.13333333333333341,44.0,10.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+898,avktyqa1,s1,182.5,180.0,0.5,0.8333333333333334,2.0,-0.6333333333333333,60.0,10.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,5.0,5.0
+901,aw0kvcqj,s2,160.0,175.0,0.5,0.8333333333333334,4.0,-0.016666666666666663,26.0,5.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+904,awaobb07,s1,205.0,,0.5,0.375,4.0,-0.18333333333333335,23.0,7.0,Female,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,5.0,5.0
+906,axh5qla7,s2,240.0,175.0,0.125,0.6875,3.0,-0.2833333333333334,34.0,7.0,Female,0.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,2.0,,
+910,azksu4qm,s4,185.0,150.0,0.5,0.5833333333333334,8.0,-0.19999999999999996,25.0,12.0,Male,1.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,1.0,,
+913,b10cebxh,s2,210.0,212.5,0.5,0.6666666666666666,4.0,-0.2666666666666666,30.0,8.0,Female,0.0,1.0,1.0,Design 1,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+916,b2b8iy25,s1,200.0,215.0,0.625,0.75,6.0,-0.15000000000000002,20.0,9.0,Female,1.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,,1.0,1.0
+920,b2lyx61m,s2,,155.0,0.5,0.75,6.0,0.43333333333333335,37.0,2.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+922,b6hi0868,s2,85.0,170.0,0.8333333333333334,0.5833333333333334,10.0,0.5,23.0,6.0,Female,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+925,b716vsu8,s2,160.0,182.5,0.0,1.0,4.0,-0.35,61.0,9.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+928,b83chy81,s3,170.0,220.0,0.0,0.6666666666666666,5.0,-0.33333333333333337,22.0,10.0,Male,1.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,2.0,1.0,2.0
+931,b85f8qco,s4,217.5,165.0,0.375,0.75,3.0,-0.5333333333333334,50.0,10.0,Female,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,5.0,,
+935,b9pmn40c,s2,210.0,195.0,0.25,0.5625,3.0,-0.7,63.0,12.0,Male,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+939,b9znm38f,s1,165.0,162.5,0.6666666666666666,0.8333333333333334,5.0,-0.08333333333333337,52.0,7.0,Female,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,5.0,4.0
+942,bbaommrg,s3,217.5,230.0,0.0,0.5,7.0,-0.30000000000000004,21.0,12.0,Male,1.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,3.0,1.0,1.0
+945,bbxs02f3,s1,190.0,212.5,0.3333333333333333,0.75,6.0,-0.2333333333333334,49.0,10.0,Male,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,,1.0,1.0
+949,bcynkbnp,s1,112.5,115.0,0.5,0.75,9.0,-0.016666666666666607,71.0,11.0,Female,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,,4.0,2.0
+953,bdligbw2,s2,182.5,225.0,0.375,0.625,7.0,-0.13333333333333341,25.0,10.0,Male,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+957,bggnaeht,s3,205.0,235.0,0.5,0.5,7.0,-0.050000000000000044,54.0,9.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,3.0,4.0
+959,bll1fx3g,s4,175.0,185.0,0.5,0.75,8.0,0.46666666666666673,40.0,4.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+962,bnshdbk9,s4,195.0,165.0,0.25,0.9166666666666666,1.0,-0.31666666666666665,66.0,5.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",2.0,,
+966,boofzp0u,s1,182.5,145.0,0.3333333333333333,0.8333333333333334,6.0,-0.31666666666666665,63.0,11.0,Female,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,4.0,3.0
+969,bp8ub64w,s1,230.0,175.0,0.0,1.0,7.0,-0.13333333333333341,55.0,10.0,Female,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,5.0,2.0
+971,bs1vkwjz,s2,180.0,225.0,0.5,0.75,8.0,0.13333333333333341,42.0,8.0,Female,0.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,3.0,,
+975,bud5u87q,s1,162.5,172.5,0.5,0.8125,5.0,-0.33333333333333337,72.0,10.0,Female,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,4.0,3.0
+979,bvq5sp9r,s2,197.5,197.5,0.25,0.75,6.0,-0.31666666666666665,38.0,11.0,Female,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",2.0,,
+983,bzrzf9px,s1,195.0,205.0,0.625,0.5625,8.0,-0.11666666666666657,44.0,11.0,Female,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,1.0,3.0
+987,c2f5gapq,s1,187.5,147.5,0.5,0.875,6.0,-0.15000000000000002,57.0,9.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,2.0,1.0
+991,c2vm3xtb,s2,162.5,155.0,0.5,0.8333333333333334,6.0,0.016666666666666607,55.0,7.0,Male,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,5.0,,
+994,c3vhqy7n,s2,140.0,190.0,0.5,0.875,1.0,-0.6500000000000001,72.0,9.0,Female,0.0,0.0,0.0,Design 1,Design 2,Only trade on Design #1,4.0,,
+998,c50t8vnx,s1,172.5,225.0,0.375,0.75,1.0,-0.4833333333333334,32.0,7.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,4.0,4.0
+1002,c60ez4qf,s4,190.0,170.0,0.6666666666666666,0.75,0.0,-0.08333333333333333,22.0,1.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+1005,c82eufke,s1,172.5,157.5,0.625,0.6875,4.0,-0.4333333333333334,39.0,10.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,3.0,3.0
+1009,c9ohsdtv,s1,165.0,200.0,0.0,0.625,6.0,-0.31666666666666665,29.0,11.0,Male,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,,2.0,1.0
+1013,ccbwt6kt,s2,160.0,230.0,0.5,0.875,6.0,-0.06666666666666665,61.0,8.0,Male,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,,
+1017,cdccqtiz,s4,210.0,190.0,0.5,0.75,6.0,0.35,67.0,3.0,Female,0.0,1.0,0.0,Design 1,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+1019,cdvwu94r,s4,212.5,142.5,0.375,0.75,6.0,-0.2333333333333334,39.0,10.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+1023,ce7xyxff,s1,175.0,140.0,0.5,0.75,9.0,0.65,35.0,3.0,Female,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,,2.0,1.0
+1027,cee73xs6,s1,130.0,110.0,0.75,0.625,4.0,-0.6,60.0,12.0,Female,0.0,1.0,0.0,Design 2,Design 2,Only trade on Design #1,,4.0,5.0
+1029,chbm7523,s4,157.5,177.5,0.75,0.6875,7.0,0.36666666666666664,59.0,4.0,Male,0.0,1.0,1.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",3.0,,
+1033,ciwv28ze,s1,202.5,222.5,0.375,0.6875,7.0,0.19999999999999996,26.0,6.0,Female,1.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,4.0,4.0
+1037,cizfdkjl,s2,167.5,217.5,0.5,0.6875,7.0,-0.30000000000000004,55.0,12.0,Male,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",5.0,,
+1041,ckoz9wnj,s1,142.5,200.0,0.5,0.6875,4.0,-0.5166666666666666,18.0,11.0,Male,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,4.0,2.0
+1045,cojrxzwd,s1,200.0,187.5,0.5,0.8333333333333334,5.0,0.08333333333333331,55.0,5.0,Male,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,,1.0,1.0
+1048,cp7hdj6v,s2,125.0,110.0,0.5,0.8333333333333334,8.0,0.6333333333333334,50.0,2.0,Male,1.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+1051,cpg9s41r,s3,197.5,162.5,0.375,0.75,3.0,0.21666666666666667,49.0,1.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,4.0,4.0
+1055,cpj5p8a7,s1,182.5,210.0,0.5,0.75,5.0,-0.41666666666666663,50.0,11.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,4.0,2.0
+1059,cquy9vk8,s3,240.0,222.5,0.5,0.6666666666666666,7.0,-0.21666666666666667,64.0,11.0,Female,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",2.0,1.0,1.0
+1062,cs8eb4ts,s1,185.0,232.5,0.375,0.625,6.0,-0.4000000000000001,66.0,12.0,Male,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,1.0,1.0
+1066,ct6pavqe,s1,177.5,255.0,0.6666666666666666,0.3333333333333333,6.0,-0.31666666666666665,24.0,11.0,Male,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,5.0,5.0
+1069,ctwhxcss,s4,152.5,220.0,0.5,0.6875,2.0,-0.1333333333333333,34.0,4.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",2.0,,
+1073,cufja4ao,s2,200.0,187.5,0.5,0.8333333333333334,8.0,0.21666666666666667,81.0,7.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+1076,cwfk8fvm,s2,182.5,150.0,0.5,0.75,2.0,-0.3,39.0,6.0,Other,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+1079,cxg1kriq,s2,207.5,200.0,0.5,0.75,7.0,-0.13333333333333341,58.0,10.0,Female,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+1083,cze23942,s1,195.0,172.5,0.16666666666666666,0.75,6.0,0.26666666666666666,49.0,4.0,Male,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,,1.0,1.0
+1086,d22cy537,s2,,180.0,0.0,1.0,5.0,-0.5,51.0,12.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+1087,d3dik3hj,s3,155.0,182.5,0.5,0.75,5.0,-0.3333333333333333,30.0,10.0,Male,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,3.0,1.0,1.0
+1091,d3fdibi4,s2,135.0,150.0,0.5,1.0,3.0,-0.45,61.0,9.0,Female,0.0,0.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+1093,d618p5x8,s3,197.5,160.0,0.5,0.8333333333333334,6.0,-0.31666666666666665,85.0,11.0,Male,1.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",1.0,2.0,1.0
+1096,d6s5h1mo,s2,205.0,187.5,0.375,0.6875,8.0,-0.033333333333333326,48.0,10.0,Female,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+1100,d6trmqyz,s1,172.5,222.5,0.0,0.75,6.0,-0.06666666666666665,51.0,8.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,5.0,5.0
+1104,d6x0sl31,s3,195.0,180.0,0.5,0.8333333333333334,3.0,-0.2833333333333334,66.0,7.0,Male,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,3.0,3.0
+1107,d9izgfxy,s2,160.0,165.0,0.625,0.8125,6.0,-0.31666666666666665,55.0,11.0,Male,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",1.0,,
+1111,daz6v3i8,s3,182.5,142.5,0.0,0.75,4.0,-0.2666666666666666,41.0,8.0,Male,1.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,3.0,2.0,2.0
+1115,dflh463h,s1,200.0,55.0,0.5,0.75,5.0,0.08333333333333331,61.0,5.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,4.0,5.0
+1117,dh1jvezl,s2,210.0,167.5,0.0,0.6875,6.0,-0.2333333333333334,55.0,10.0,Male,0.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,2.0,,
+1121,dhgqwtr4,s1,190.0,135.0,0.5,0.875,4.0,-0.016666666666666663,35.0,5.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,5.0,5.0
+1125,dllfhe8q,s4,,195.0,0.5,0.75,3.0,-0.5333333333333334,78.0,10.0,Female,0.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,4.0,,
+1126,dmirenkk,s2,185.0,225.0,0.0,0.5833333333333334,4.0,-0.5166666666666666,67.0,11.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+1129,dn37bew2,s2,167.5,80.0,0.5,0.875,1.0,-0.2333333333333333,33.0,4.0,Female,0.0,0.0,0.0,Design 2,Design 2,Only trade on Design #1,3.0,,
+1133,do3bs0bi,s2,195.0,187.5,0.5,0.75,9.0,0.2333333333333334,41.0,8.0,Male,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",5.0,,
+1137,docc0g7o,s1,147.5,205.0,0.5,0.6666666666666666,2.0,-0.2166666666666667,19.0,5.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,4.0,2.0
+1140,dofohha3,s2,165.0,130.0,0.25,0.6875,2.0,-0.1333333333333333,28.0,4.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+1144,doztziad,s3,135.0,142.5,0.375,0.5625,2.0,-0.4666666666666666,33.0,8.0,Male,1.0,0.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",4.0,1.0,2.0
+1148,dppud5cg,s1,250.0,170.0,0.3333333333333333,0.6666666666666666,5.0,-0.16666666666666663,43.0,8.0,Female,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,2.0,1.0
+1151,ds65nm1v,s3,175.0,147.5,0.375,0.875,7.0,0.11666666666666657,42.0,7.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,5.0,4.0
+1155,dspns9qg,s3,142.5,192.5,0.375,0.75,3.0,-0.1166666666666667,30.0,5.0,Male,0.0,0.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,3.0,2.0
+1159,dt8dyxki,s4,190.0,162.5,0.5,0.75,7.0,0.28333333333333327,40.0,5.0,Male,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,,
+1163,dvi9htah,s1,177.5,170.0,0.5,0.6875,3.0,-0.033333333333333326,20.0,4.0,Male,0.0,0.0,1.0,Design 1,Design 1,Only trade on Design #1,,2.0,2.0
+1167,dwy882wf,s4,212.5,162.5,0.5,0.75,3.0,-0.7,66.0,12.0,Female,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+1171,dyovp5lk,s3,202.5,190.0,0.25,0.5833333333333334,2.0,-0.3,36.0,6.0,Male,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",5.0,1.0,3.0
+1174,dzm1kqpn,s3,235.0,175.0,0.25,0.75,8.0,-0.11666666666666659,51.0,11.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,1.0,1.0
+1178,dzv5jq6g,s3,187.5,190.0,0.5,0.875,6.0,-0.15000000000000002,35.0,9.0,Male,1.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,2.0,1.0,1.0
+1182,e09ycxa0,s4,160.0,182.5,0.5,0.75,3.0,-0.45,76.0,9.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+1186,e2mqcp02,s2,202.5,207.5,0.375,0.75,5.0,0.33333333333333337,58.0,2.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+1190,e4k6w2yp,s1,187.5,215.0,0.5,0.625,0.0,-0.4166666666666667,46.0,5.0,Female,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,,4.0,1.0
+1194,e4uo2jim,s2,170.0,222.5,0.5,0.75,4.0,-0.5166666666666666,38.0,11.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+1198,e4v79tsy,s2,165.0,200.0,0.0,0.9375,4.0,-0.5166666666666666,67.0,11.0,Male,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,,
+1202,e7e5yl3z,s3,167.5,155.0,0.5,0.8333333333333334,6.0,-0.06666666666666665,71.0,8.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",5.0,3.0,4.0
+1205,e80b5692,s2,207.5,210.0,0.5,0.75,6.0,0.26666666666666666,29.0,4.0,Female,1.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,2.0,,
+1208,e8zmi4dp,s2,137.5,202.5,0.0,0.75,3.0,-0.45,51.0,9.0,Female,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+1212,e9ibk6uc,s3,212.5,135.0,0.0,0.8333333333333334,1.0,-0.8166666666666667,28.0,11.0,Male,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,1.0,2.0,1.0
+1215,eahst9t2,s1,192.5,185.0,0.375,0.6875,3.0,-0.2833333333333334,35.0,7.0,Other,0.0,0.0,0.0,Design 1,Design 2,"Have an option between Design #1 and Design #2,",,3.0,3.0
+1219,eal69ltf,s2,180.0,165.0,0.125,0.875,4.0,-0.35,26.0,9.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+1223,eanpqujl,s4,145.0,182.5,0.0,0.8333333333333334,6.0,-0.2333333333333334,45.0,10.0,Other,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",2.0,,
+1226,ed7c8q10,s1,195.0,160.0,0.375,0.75,5.0,-0.16666666666666663,40.0,8.0,Female,0.0,0.0,1.0,Design 1,Design 1,Only trade on Design #1,,2.0,1.0
+1230,eds9k8c3,s3,165.0,185.0,0.0,1.0,3.0,-0.45,32.0,9.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,3.0,3.0
+1233,eed92a9d,s2,195.0,237.5,0.5,0.6875,6.0,-0.4,68.0,12.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+1237,eer5o6wj,s4,187.5,172.5,0.0,1.0,7.0,0.6166666666666666,25.0,1.0,Female,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,,
+1241,efmlqijg,s4,182.5,222.5,0.125,0.6666666666666666,3.0,-0.6166666666666667,32.0,11.0,Female,0.0,0.0,0.0,Design 1,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+1245,eg620y7t,s3,137.5,260.0,0.16666666666666666,0.5833333333333334,3.0,-0.6166666666666667,61.0,11.0,Male,0.0,0.0,0.0,Design 1,Design 2,Only trade on Design #1,2.0,3.0,1.0
+1248,egrs8sbq,s3,192.5,125.0,0.5,0.75,4.0,-0.35,61.0,9.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,4.0,4.0
+1251,eiexz5f0,s3,197.5,170.0,0.5,1.0,6.0,-0.31666666666666665,49.0,11.0,Female,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",4.0,2.0,2.0
+1254,ej641791,s1,232.5,182.5,0.5,0.875,0.0,-0.6666666666666666,63.0,8.0,Male,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,4.0,4.0
+1258,eofc6f3p,s3,225.0,205.0,0.16666666666666666,0.75,4.0,-0.2666666666666666,44.0,8.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",1.0,3.0,1.0
+1261,epsv91w4,s1,217.5,215.0,0.0,0.5,3.0,-0.36666666666666664,40.0,8.0,Male,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,3.0,2.0
+1264,erbskdj6,s1,210.0,200.0,0.0,0.75,7.0,-0.21666666666666667,48.0,11.0,Male,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,3.0,3.0
+1268,esuspciu,s4,195.0,205.0,0.625,0.6875,7.0,0.11666666666666659,51.0,7.0,Female,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,5.0,,
+1272,euwqhdw3,s4,190.0,192.5,0.5,0.6875,8.0,-0.19999999999999996,23.0,12.0,Male,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+1276,ewy1ous0,s3,165.0,80.0,0.5,0.8333333333333334,1.0,-0.15,26.0,3.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,2.0,3.0
+1279,eymgpqmp,s3,190.0,187.5,0.5,0.75,2.0,-0.38333333333333336,24.0,7.0,Female,1.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,5.0,2.0,3.0
+1283,f0xcc9d9,s1,162.5,175.0,0.0,0.75,8.0,0.13333333333333341,61.0,8.0,Male,0.0,1.0,1.0,Design 1,Design 2,Only trade on Design #1,,2.0,2.0
+1286,f1heou9e,s4,172.5,205.0,0.0,0.75,7.0,-0.30000000000000004,38.0,12.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+1289,f3av9gsf,s2,200.0,180.0,0.375,0.75,1.0,-0.4833333333333334,55.0,7.0,Female,0.0,0.0,0.0,Design 1,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+1293,f4c2m2u4,s2,182.5,125.0,0.5,0.8333333333333334,2.0,-0.38333333333333336,20.0,7.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,,
+1296,f4d3twco,s2,187.5,165.0,0.5,0.8333333333333334,1.0,-0.8166666666666667,25.0,11.0,Female,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,1.0,,
+1299,f6i43w4y,s2,235.0,160.0,0.0,0.875,3.0,-0.6166666666666667,61.0,11.0,Male,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+1303,fa3azu62,s4,190.0,155.0,0.5,0.75,8.0,0.13333333333333341,74.0,8.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",4.0,,
+1306,fam5nlit,s2,195.0,182.5,0.3333333333333333,0.6666666666666666,4.0,-0.09999999999999998,30.0,6.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+1309,fap2jp7c,s4,175.0,185.0,0.5,0.75,8.0,-0.11666666666666659,29.0,11.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+1311,fcm7rx0y,s2,105.0,167.5,0.5,0.75,8.0,-0.033333333333333326,60.0,10.0,Male,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+1314,fd0pjpl6,s3,212.5,195.0,0.625,0.5,6.0,0.016666666666666607,27.0,7.0,Female,1.0,0.0,1.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",5.0,4.0,5.0
+1318,fhyd3f39,s3,195.0,180.0,0.5,0.5833333333333334,6.0,-0.31666666666666665,59.0,11.0,Male,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,5.0,4.0
+1321,fid1g02d,s1,132.5,250.0,0.5,0.8333333333333334,6.0,0.3499999999999999,25.0,3.0,Female,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,3.0,3.0
+1324,fiyoqwff,s1,147.5,140.0,0.5,0.6875,3.0,-0.36666666666666664,62.0,8.0,Male,0.0,0.0,0.0,Design 2,Design 2,Only trade on Design #1,,4.0,3.0
+1328,fjg5fe4c,s3,200.0,172.5,0.5,0.6666666666666666,4.0,-0.43333333333333335,28.0,10.0,Female,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,5.0,1.0,1.0
+1331,flro3lbg,s4,207.5,170.0,0.5,0.6666666666666666,7.0,-0.21666666666666667,37.0,11.0,Male,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",4.0,,
+1334,flwbtntv,s3,225.0,155.0,0.375,0.875,4.0,-0.18333333333333335,35.0,7.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,1.0,1.0
+1338,fokn0rz8,s2,167.5,160.0,0.5,0.8333333333333334,7.0,0.19999999999999996,34.0,6.0,Male,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,,
+1341,fqtjjqyn,s4,190.0,190.0,0.5,0.75,6.0,-0.15000000000000002,58.0,9.0,Male,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+1345,fvksatr8,s2,197.5,210.0,0.375,0.875,6.0,-0.2333333333333334,59.0,10.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+1349,fw4ehp4w,s1,155.0,160.0,0.0,0.6666666666666666,5.0,-0.5,43.0,12.0,Male,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,3.0,2.0
+1352,fxb02re5,s2,187.5,212.5,0.5,0.5625,3.0,-0.36666666666666664,33.0,8.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+1356,fxgt4qh8,s2,195.0,192.5,0.375,0.75,7.0,-0.050000000000000044,29.0,9.0,Female,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,3.0,,
+1360,g1ithxu1,s2,192.5,225.0,0.0,0.6666666666666666,8.0,0.13333333333333341,33.0,8.0,Female,0.0,0.0,0.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",3.0,,
+1363,g2exawug,s4,240.0,190.0,0.16666666666666666,0.6666666666666666,8.0,-0.19999999999999996,60.0,12.0,Male,0.0,1.0,1.0,Design 2,Design 2,Only trade on Design #1,5.0,,
+1366,g3n81br1,s1,225.0,212.5,0.5,0.8125,6.0,-0.4,23.0,12.0,Male,1.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,,4.0,3.0
+1370,g49718ku,s2,,202.5,0.5,0.75,5.0,-0.41666666666666663,22.0,11.0,Other,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+1372,g53bwzto,s2,162.5,127.5,0.5,0.5,5.0,-0.08333333333333337,65.0,7.0,Male,0.0,1.0,1.0,Design 1,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+1376,g70j8x4c,s1,150.0,167.5,0.0,0.75,6.0,-0.31666666666666665,40.0,11.0,Male,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,5.0,2.0
+1380,g93ioxli,s3,65.0,167.5,0.5,0.5,6.0,0.016666666666666607,48.0,7.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,5.0,5.0
+1383,g97n14au,s2,165.0,222.5,0.5,0.8333333333333334,7.0,-0.21666666666666667,40.0,11.0,Female,1.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+1386,gar6c0bn,s1,212.5,157.5,0.125,0.75,6.0,-0.06666666666666665,65.0,8.0,Male,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,2.0,1.0
+1390,gblpzjia,s1,202.5,202.5,0.5,0.75,7.0,-0.13333333333333341,40.0,10.0,Male,1.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,,3.0,2.0
+1394,ghrdrpcs,s2,175.0,192.5,0.5,0.75,8.0,-0.19999999999999996,48.0,12.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+1398,ghrq3qlc,s1,170.0,217.5,0.375,0.875,7.0,-0.13333333333333341,51.0,10.0,Male,1.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,4.0,3.0
+1402,giwobhn3,s1,145.0,205.0,0.5,0.6666666666666666,4.0,-0.2666666666666666,66.0,8.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,3.0,3.0
+1406,gk9km0p1,s2,190.0,200.0,1.0,0.5833333333333334,3.0,-0.36666666666666664,23.0,8.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+1409,gk9yjem7,s4,305.0,157.5,0.3333333333333333,0.75,3.0,-0.2833333333333334,47.0,7.0,Female,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",2.0,,
+1412,gkrqft9g,s3,207.5,215.0,0.375,0.875,6.0,-0.2333333333333334,26.0,10.0,Male,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,4.0,2.0,3.0
+1416,gkt1824r,s2,155.0,162.5,0.375,0.75,1.0,-0.15,45.0,3.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+1420,gly88cu1,s1,212.5,225.0,0.5,0.75,6.0,-0.31666666666666665,62.0,11.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,2.0,2.0
+1423,gnmxn8ju,s2,140.0,177.5,0.0,0.9375,3.0,-0.2833333333333334,39.0,7.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+1427,gor5o1lc,s4,180.0,182.5,0.16666666666666666,0.75,6.0,-0.31666666666666665,72.0,11.0,Male,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+1430,gpkp02zi,s3,187.5,152.5,0.5,0.75,1.0,-0.8166666666666667,46.0,11.0,Female,0.0,0.0,0.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",2.0,4.0,1.0
+1434,gqkwu7xu,s3,217.5,202.5,0.5,0.75,4.0,-0.2666666666666666,60.0,8.0,Female,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,4.0,2.0,1.0
+1438,gqp4f6jh,s3,130.0,197.5,0.625,0.625,8.0,-0.11666666666666659,64.0,11.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",5.0,1.0,3.0
+1442,gtjc0m6c,s1,170.0,110.0,0.5,0.5833333333333334,7.0,-0.21666666666666667,48.0,11.0,Female,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,3.0,2.0
+1445,gug446d7,s2,222.5,170.0,0.5,0.8333333333333334,5.0,-0.33333333333333337,59.0,10.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",2.0,,
+1448,gwsyzdnr,s1,177.5,192.5,0.5,0.75,4.0,-0.18333333333333335,37.0,7.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,5.0,5.0
+1452,gxtd244l,s4,165.0,170.0,0.5,0.75,7.0,-0.050000000000000044,26.0,9.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+1455,gyrrdfqq,s1,167.5,230.0,0.5,0.625,5.0,-0.33333333333333337,26.0,10.0,Male,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,5.0,1.0
+1459,gyzt4un6,s2,185.0,187.5,0.0,0.875,5.0,-0.3333333333333333,42.0,10.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+1463,gz9z2gr6,s1,175.0,197.5,0.5,0.6875,3.0,-0.5333333333333334,66.0,10.0,Female,1.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,3.0,4.0
+1467,h0bsiojw,s1,182.5,180.0,0.5,0.9166666666666666,1.0,-0.2333333333333333,28.0,4.0,Male,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,,1.0,1.0
+1471,h0f15vqj,s1,175.0,177.5,0.3333333333333333,0.8333333333333334,5.0,-0.5,60.0,12.0,Male,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,,1.0,1.0
+1474,h1v5xgx7,s2,215.0,215.0,0.5,0.625,8.0,-0.033333333333333326,20.0,10.0,Male,1.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,,
+1476,h4gdox2w,s1,142.5,112.5,0.5,0.6875,1.0,-0.65,23.0,9.0,Female,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,,1.0,2.0
+1480,h9zv3wuc,s1,147.5,195.0,0.375,0.75,6.0,-0.4,66.0,12.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,4.0,4.0
+1484,hb61suo7,s2,185.0,215.0,0.5,0.8333333333333334,8.0,0.21666666666666667,29.0,7.0,Male,1.0,1.0,1.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",5.0,,
+1487,hclkg6iy,s2,197.5,117.5,0.375,0.75,3.0,-0.36666666666666664,67.0,8.0,Female,0.0,0.0,0.0,Design 1,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+1491,hdr1lvts,s2,185.0,217.5,0.5,0.875,7.0,0.19999999999999996,32.0,6.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+1495,hg59thr7,s4,182.5,200.0,0.0,0.8333333333333334,5.0,-0.16666666666666663,36.0,8.0,Male,0.0,0.0,0.0,Design 1,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+1498,hgmfbowp,s2,190.0,182.5,0.25,0.75,6.0,0.09999999999999998,21.0,6.0,Female,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+1502,hhywkdri,s4,197.5,177.5,0.375,0.6875,7.0,-0.21666666666666667,37.0,11.0,Female,0.0,0.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+1506,hj7bae3c,s2,197.5,167.5,0.5,0.8125,6.0,0.18333333333333326,39.0,5.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",2.0,,
+1510,hkn2c3b6,s2,210.0,145.0,0.125,0.75,3.0,-0.6166666666666667,59.0,11.0,Male,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,3.0,,
+1514,hlcu6qpw,s2,200.0,230.0,0.5,0.8333333333333334,2.0,-0.6333333333333333,53.0,10.0,Female,0.0,0.0,0.0,Design 2,Design 2,Only trade on Design #1,5.0,,
+1517,hmbxcl2g,s1,212.5,150.0,0.6666666666666666,0.6666666666666666,4.0,-0.5166666666666666,65.0,11.0,Female,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,,3.0,4.0
+1520,hmpejwti,s2,200.0,,0.5,0.625,7.0,-0.30000000000000004,60.0,12.0,Female,0.0,1.0,0.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",4.0,,
+1522,hn4r9a23,s4,175.0,182.5,0.5,0.75,7.0,0.033333333333333326,52.0,8.0,Male,0.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,2.0,,
+1526,hnbwwzf1,s2,195.0,162.5,0.375,0.75,6.0,-0.2333333333333334,41.0,10.0,Female,0.0,1.0,1.0,Design 1,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+1530,homc4obf,s2,190.0,207.5,0.5,0.5625,3.0,-0.033333333333333326,22.0,4.0,Male,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,,
+1534,hqulmbmv,s3,200.0,162.5,0.0,0.75,7.0,-0.30000000000000004,38.0,12.0,Female,1.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,1.0,1.0,1.0
+1538,hs5epb6h,s1,152.5,182.5,0.0,0.75,5.0,-0.5,29.0,12.0,Female,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,1.0,1.0
+1542,hsgkbfvg,s1,210.0,190.0,0.0,0.75,6.0,-0.2333333333333334,19.0,10.0,Male,0.0,1.0,0.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",,5.0,5.0
+1546,htd52aev,s1,155.0,165.0,0.375,0.5625,1.0,0.016666666666666677,28.0,1.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,3.0,3.0
+1550,hts32afz,s2,172.5,210.0,0.5,0.6875,5.0,-0.25,23.0,9.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,,
+1554,huehbcqy,s2,195.0,192.5,0.0,0.75,3.0,-0.2,19.0,6.0,Female,0.0,0.0,0.0,Design 2,Design 1,Only trade on Design #1,1.0,,
+1558,hvg56h8n,s1,225.0,187.5,0.25,0.75,5.0,-0.08333333333333337,30.0,7.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,4.0,5.0
+1562,hz8gho5a,s4,190.0,210.0,0.375,0.6875,5.0,0.33333333333333337,27.0,2.0,Female,1.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+1566,i0k5ja8d,s2,110.0,200.0,0.3333333333333333,0.8333333333333334,6.0,0.09999999999999998,77.0,6.0,Female,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,4.0,,
+1569,i2amw9ek,s1,207.5,182.5,0.5,0.875,5.0,-0.16666666666666663,48.0,8.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,2.0,2.0
+1573,i2kfx4ij,s4,200.0,142.5,0.5,0.75,7.0,0.033333333333333326,61.0,8.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+1577,i38hvv7r,s3,197.5,202.5,0.25,0.625,3.0,-0.6166666666666667,36.0,11.0,Male,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",5.0,1.0,1.0
+1581,i6qlb161,s4,185.0,200.0,0.0,0.75,5.0,-0.25,39.0,9.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+1583,i75eyhp1,s2,157.5,175.0,0.5,0.4166666666666667,0.0,-0.6666666666666666,20.0,8.0,Female,0.0,0.0,0.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",4.0,,
+1586,i7qq9hva,s1,160.0,115.0,0.16666666666666666,0.8333333333333334,5.0,0.0,66.0,6.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,3.0,3.0
+1589,ib2n69j9,s2,190.0,185.0,0.5,1.0,4.0,0.4,35.0,0.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+1591,idnd9ms2,s4,205.0,175.0,0.5,0.75,6.0,0.016666666666666607,31.0,7.0,Female,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,5.0,,
+1594,ie9xdk60,s2,152.5,210.0,0.125,1.0,1.0,-0.5666666666666667,40.0,8.0,Female,0.0,0.0,0.0,Design 1,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+1598,ieah2wr6,s4,185.0,190.0,0.16666666666666666,0.9375,6.0,-0.31666666666666665,72.0,11.0,Male,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,,
+1602,iexyw3qy,s2,180.0,215.0,0.5,0.75,5.0,-0.33333333333333337,66.0,10.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+1606,igv8tzgg,s3,190.0,187.5,0.5,0.8333333333333334,3.0,-0.36666666666666664,27.0,8.0,Female,1.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",2.0,1.0,1.0
+1609,ih73owh5,s3,155.0,192.5,0.375,0.875,4.0,-0.18333333333333335,23.0,7.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,3.0,3.0
+1613,ihxtil25,s1,235.0,207.5,0.5,0.75,2.0,-0.6333333333333333,58.0,10.0,Female,0.0,0.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,5.0,4.0
+1617,ihy1zosl,s1,217.5,230.0,0.625,0.625,6.0,-0.2333333333333334,21.0,10.0,Male,1.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,5.0,5.0
+1621,ijghidrq,s1,160.0,137.5,0.25,0.75,8.0,-0.19999999999999996,44.0,12.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,4.0,5.0
+1625,ijpefij5,s3,235.0,150.0,0.25,0.625,7.0,-0.13333333333333341,38.0,10.0,Male,0.0,0.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,3.0,4.0
+1627,ime7j3zc,s1,170.0,192.5,0.25,0.6875,2.0,-0.7166666666666665,49.0,11.0,Male,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,4.0,2.0
+1631,iprah49t,s2,197.5,162.5,0.375,0.75,1.0,-0.5666666666666667,23.0,8.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",2.0,,
+1635,ismmyl4s,s2,195.0,197.5,0.0,0.6666666666666666,3.0,-0.45,58.0,9.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+1638,iu92va5m,s2,185.0,195.0,0.0,0.6666666666666666,8.0,-0.19999999999999996,26.0,12.0,Male,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",2.0,,
+1641,ivk8dt83,s4,245.0,145.0,0.5,0.875,5.0,-0.08333333333333337,30.0,7.0,Female,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,2.0,,
+1643,ixpeshvx,s1,195.0,177.5,0.375,0.75,7.0,-0.13333333333333341,57.0,10.0,Female,0.0,0.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,4.0,1.0
+1647,iyvkfvhu,s3,177.5,215.0,0.375,0.5625,7.0,-0.30000000000000004,69.0,12.0,Male,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,4.0,2.0,4.0
+1651,iz104i00,s3,175.0,,0.25,0.75,4.0,-0.6,60.0,12.0,Female,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",2.0,1.0,1.0
+1653,j0uf8wlj,s2,152.5,170.0,0.5,0.5,7.0,-0.050000000000000044,39.0,9.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+1657,j3ceao4h,s3,110.0,107.5,0.375,0.75,3.0,-0.36666666666666664,57.0,8.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,2.0,3.0
+1661,j3gei7ws,s4,192.5,222.5,0.0,0.75,7.0,-0.30000000000000004,29.0,12.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+1665,j3urpt35,s1,162.5,150.0,0.5,0.75,5.0,-0.08333333333333337,27.0,7.0,Male,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,3.0,1.0
+1668,j587hvn4,s2,180.0,187.5,0.0,0.875,7.0,-0.3000000000000001,35.0,12.0,Male,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+1672,j5h9w4bh,s1,170.0,185.0,0.25,0.75,2.0,-0.7166666666666666,45.0,11.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,5.0,5.0
+1674,j6evqhov,s4,150.0,195.0,0.5,0.8333333333333334,3.0,-0.36666666666666664,49.0,8.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+1677,j706w2ou,s1,207.5,227.5,0.75,0.625,6.0,-0.06666666666666665,73.0,8.0,Male,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,,4.0,2.0
+1681,j7e0h0vx,s4,217.5,190.0,0.5,0.5,7.0,-0.13333333333333341,33.0,10.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+1684,j81k6gl7,s1,207.5,200.0,0.0,0.75,8.0,-0.033333333333333326,31.0,10.0,Male,0.0,0.0,1.0,Design 1,Design 1,Only trade on Design #1,,1.0,1.0
+1688,j821ajvf,s3,,170.0,0.5,0.5,4.0,-0.09999999999999998,58.0,6.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,4.0,5.0
+1689,j8ktsq27,s1,,207.5,0.0,0.75,9.0,-0.09999999999999998,57.0,12.0,Female,1.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,,1.0,1.0
+1691,jbii737d,s2,145.0,200.0,0.5,0.8333333333333334,9.0,0.2333333333333334,55.0,8.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+1694,jewjnf49,s1,242.5,205.0,0.5,0.6666666666666666,2.0,-0.4666666666666666,42.0,8.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,3.0,2.0
+1697,jfgnw7ut,s1,182.5,182.5,0.5,0.75,1.0,-0.4,27.0,6.0,Female,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,,3.0,2.0
+1701,jfj3s4tx,s1,205.0,147.5,0.5,0.75,7.0,-0.050000000000000044,25.0,9.0,Female,1.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,4.0,4.0
+1705,jfx2exkk,s2,210.0,227.5,0.5,0.75,7.0,-0.30000000000000004,69.0,12.0,Male,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,2.0,,
+1709,jg7czdnq,s4,212.5,195.0,0.125,0.75,2.0,-0.21666666666666667,44.0,5.0,Female,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",1.0,,
+1713,jipp2kjr,s4,175.0,180.0,0.5,0.75,7.0,-0.13333333333333341,22.0,10.0,Male,1.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+1717,jjrkt3qj,s3,162.5,195.0,0.5,0.4375,7.0,0.28333333333333327,58.0,5.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",5.0,1.0,3.0
+1721,jjty32g1,s2,172.5,175.0,0.375,0.4375,1.0,-0.4833333333333334,28.0,7.0,Male,1.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,4.0,,
+1725,jma7yybh,s2,145.0,92.5,0.5,0.625,6.0,0.1833333333333333,60.0,5.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",1.0,,
+1729,jmr41naa,s1,185.0,95.0,0.5,0.6666666666666666,6.0,0.35,67.0,3.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,5.0,5.0
+1732,jpw60co9,s2,185.0,195.0,0.5,1.0,0.0,-0.25,37.0,3.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+1734,jr8ixs9f,s3,195.0,197.5,0.625,0.75,7.0,-0.13333333333333341,52.0,10.0,Male,1.0,1.0,1.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",5.0,5.0,4.0
+1738,jrb0q01a,s1,187.5,200.0,0.25,0.75,5.0,0.0,51.0,6.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,3.0,2.0
+1742,jrhq69d8,s2,155.0,200.0,0.5,0.75,5.0,0.08333333333333331,23.0,5.0,Male,1.0,1.0,1.0,Design 1,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+1746,jri8nqzk,s1,,230.0,0.0,0.5,3.0,-0.36666666666666664,76.0,8.0,Female,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,,3.0,1.0
+1747,js6w4syh,s1,182.5,170.0,0.5,0.875,10.0,0.33333333333333337,37.0,8.0,Male,0.0,0.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,3.0,5.0
+1751,jslxa1uv,s1,212.5,165.0,0.16666666666666666,0.8333333333333334,3.0,-0.5333333333333334,34.0,10.0,Female,0.0,0.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,5.0,4.0
+1754,jusfyn6g,s1,147.5,195.0,0.6666666666666666,0.8333333333333334,8.0,-0.19999999999999996,27.0,12.0,Male,1.0,1.0,1.0,Design 2,Design 2,Only trade on Design #1,,5.0,5.0
+1757,jv7zcm1n,s3,170.0,125.0,0.5,0.8125,5.0,0.0,69.0,6.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,4.0,5.0
+1761,jwsdyt01,s2,172.5,160.0,0.25,0.75,6.0,0.016666666666666607,49.0,7.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",4.0,,
+1765,jwvvgq1p,s1,137.5,190.0,0.625,0.875,7.0,-0.21666666666666667,33.0,11.0,Male,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,4.0,5.0
+1769,jyo21xzo,s1,235.0,185.0,0.5,0.4166666666666667,1.0,-0.2333333333333333,41.0,4.0,Male,0.0,0.0,1.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",,5.0,5.0
+1772,jytj2obg,s2,200.0,190.0,0.5,0.75,9.0,-0.016666666666666607,58.0,11.0,Male,0.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,1.0,,
+1774,jzin4wu4,s2,210.0,,0.5,0.75,2.0,-0.1333333333333333,26.0,4.0,Male,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",4.0,,
+1775,k18pk6dr,s4,190.0,255.0,0.5,0.75,8.0,-0.11666666666666659,62.0,11.0,Male,1.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,,
+1778,k30m7zzz,s2,200.0,182.5,0.6666666666666666,0.5,4.0,0.15000000000000002,44.0,3.0,Male,1.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+1781,k3a9eeyf,s1,205.0,,0.5,0.5,7.0,0.19999999999999996,55.0,6.0,Female,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,4.0,1.0
+1782,k4gfy3qz,s3,,20.0,0.5,0.5,4.0,0.15000000000000002,58.0,3.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",4.0,4.0,3.0
+1783,k9wbwz4r,s2,217.5,170.0,0.75,0.5,7.0,0.19999999999999993,72.0,6.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+1787,kaoovgtv,s1,,205.0,0.5,0.75,5.0,-0.4166666666666667,24.0,11.0,Female,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,3.0,3.0
+1789,kaqkgt0k,s1,205.0,187.5,0.375,0.75,3.0,0.13333333333333333,37.0,2.0,Male,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,,5.0,4.0
+1793,kb7fono6,s1,195.0,155.0,0.16666666666666666,0.8333333333333334,7.0,-0.21666666666666667,41.0,11.0,Male,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,3.0,1.0
+1796,kc1qhbm5,s2,182.5,,0.5,0.625,9.0,0.06666666666666665,49.0,10.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+1798,kdhxt3yj,s1,195.0,190.0,0.0,0.875,2.0,-0.6333333333333333,44.0,10.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,1.0,1.0
+1802,kdw4hh5k,s4,180.0,260.0,0.5,0.75,6.0,-0.2333333333333334,60.0,10.0,Female,0.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,4.0,,
+1804,kdwe94nw,s4,162.5,180.0,0.0,0.875,9.0,-0.09999999999999998,46.0,12.0,Male,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,,
+1808,kecg2tfx,s1,145.0,192.5,0.5,0.625,4.0,-0.5166666666666666,30.0,11.0,Male,0.0,1.0,1.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",,4.0,3.0
+1812,kg0qgiyw,s1,175.0,170.0,0.5,0.6875,4.0,0.23333333333333336,55.0,2.0,Female,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,,2.0,1.0
+1816,kg181fug,s1,150.0,200.0,0.5,0.75,7.0,0.033333333333333326,51.0,8.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,5.0,5.0
+1818,khbmprj5,s3,192.5,212.5,0.5,0.75,7.0,-0.30000000000000004,43.0,12.0,Male,0.0,1.0,1.0,Design 1,Design 2,Only trade on Design #1,4.0,1.0,1.0
+1822,khdukolm,s4,187.5,155.0,0.5,0.6875,8.0,0.3000000000000001,48.0,6.0,Male,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+1826,kjlzi8oo,s3,150.0,192.5,0.5,0.6666666666666666,6.0,-0.4,67.0,12.0,Female,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",5.0,3.0,3.0
+1829,kkavoh48,s1,140.0,135.0,0.5,0.75,2.0,-0.21666666666666667,48.0,5.0,Female,0.0,0.0,0.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",,5.0,5.0
+1833,kl3jmsa7,s2,217.5,205.0,0.5,0.625,6.0,-0.15000000000000002,28.0,9.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+1837,kl416jvs,s1,230.0,197.5,0.16666666666666666,0.75,6.0,-0.06666666666666665,53.0,8.0,Male,0.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,,2.0,2.0
+1840,klsfkcve,s3,140.0,175.0,0.25,0.875,8.0,0.21666666666666667,25.0,7.0,Female,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,5.0,2.0,2.0
+1842,kn5y1lwe,s3,227.5,210.0,0.5,0.6666666666666666,5.0,-0.3333333333333333,76.0,10.0,Male,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",5.0,3.0,4.0
+1845,knqvbawf,s1,180.0,155.0,0.25,0.6875,8.0,-0.033333333333333326,33.0,10.0,Male,1.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,1.0,1.0
+1849,knt6bs1o,s4,222.5,152.5,0.5,0.75,7.0,-0.050000000000000044,27.0,9.0,Male,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+1853,knzcef5h,s1,167.5,172.5,0.0,1.0,5.0,-0.33333333333333337,34.0,10.0,Male,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,,1.0,1.0
+1857,kta67vou,s2,192.5,145.0,0.75,0.5,3.0,-0.45,26.0,9.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+1860,ktdvdpqv,s4,207.5,180.0,0.0,1.0,10.0,0.16666666666666666,73.0,10.0,Male,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+1864,kw08vi4i,s3,167.5,250.0,0.0,0.75,3.0,-0.36666666666666664,18.0,8.0,Male,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,5.0,1.0,1.0
+1867,kw3yvbc0,s4,120.0,112.5,0.6666666666666666,0.75,8.0,0.38333333333333336,68.0,5.0,Male,1.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,5.0,,
+1870,kx0jkbxa,s2,220.0,202.5,0.25,0.875,4.0,-0.2666666666666666,48.0,8.0,Female,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,2.0,,
+1874,kykby947,s2,210.0,187.5,0.5,0.625,7.0,-0.2166666666666667,67.0,11.0,Male,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",5.0,,
+1878,l20kwzkw,s1,180.0,230.0,0.5,0.75,3.0,0.04999999999999999,69.0,3.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,4.0,4.0
+1881,l2dk0gw5,s2,195.0,165.0,0.5,0.875,1.0,-0.2333333333333333,58.0,4.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+1885,l2e3kmsd,s1,105.0,187.5,0.3333333333333333,0.5,4.0,-0.09999999999999998,23.0,6.0,Male,0.0,1.0,0.0,Design 1,Design 2,Only trade on Design #1,,4.0,1.0
+1888,l3inlj3y,s1,170.0,175.0,0.5,0.625,6.0,-0.2333333333333334,52.0,10.0,Male,1.0,1.0,0.0,Design 1,Design 2,"Have an option between Design #1 and Design #2,",,2.0,2.0
+1890,l5ai5xvx,s4,160.0,,0.5,0.75,7.0,-0.21666666666666667,52.0,11.0,Female,0.0,0.0,0.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",5.0,,
+1891,l62fiusb,s1,190.0,195.0,0.3333333333333333,0.8333333333333334,8.0,0.13333333333333341,68.0,8.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,4.0,2.0
+1894,l6efevdo,s3,170.0,115.0,0.5,0.75,5.0,0.25,30.0,3.0,Female,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,4.0,4.0
+1897,l79qvcph,s1,142.5,225.0,0.625,0.625,7.0,0.11666666666666659,46.0,7.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,4.0,2.0
+1901,l95zx2qj,s4,180.0,192.5,0.375,0.8333333333333334,3.0,-0.1166666666666667,32.0,5.0,Female,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+1905,l9udo61m,s3,202.5,225.0,0.25,0.75,7.0,-0.050000000000000044,60.0,9.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,5.0,5.0
+1909,lcon3t63,s2,175.0,160.0,0.3333333333333333,0.6666666666666666,3.0,-0.2833333333333334,65.0,7.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",4.0,,
+1912,ldygsnkn,s2,120.0,195.0,0.5,0.75,7.0,-0.050000000000000044,29.0,9.0,Female,0.0,0.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+1915,leeyd8oi,s2,112.5,147.5,0.5,0.8125,5.0,0.0,53.0,6.0,Male,1.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,,
+1919,leh8omnl,s4,197.5,150.0,0.125,0.75,7.0,-0.30000000000000004,47.0,12.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+1923,lensqajj,s2,200.0,222.5,0.5,0.8333333333333334,8.0,0.13333333333333341,35.0,8.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+1926,lg739hv2,s3,150.0,242.5,0.3333333333333333,1.0,7.0,0.033333333333333326,38.0,8.0,Female,0.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,2.0,2.0,1.0
+1929,lk5hrizo,s2,212.5,212.5,0.0,0.75,2.0,-0.7166666666666666,68.0,11.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+1933,lk7n8bqx,s2,145.0,180.0,0.75,1.0,7.0,0.033333333333333326,67.0,8.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",5.0,,
+1935,lkevo2kz,s2,190.0,220.0,0.5,0.6666666666666666,7.0,0.033333333333333326,56.0,8.0,Male,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,3.0,,
+1938,lpsg5uf8,s2,215.0,200.0,0.3333333333333333,0.5,2.0,-0.38333333333333336,27.0,7.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+1941,lspq4nax,s1,225.0,187.5,0.3333333333333333,0.75,6.0,-0.15000000000000002,40.0,9.0,Male,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,2.0,2.0
+1944,lt60mrjw,s1,215.0,210.0,0.5,0.5,8.0,-0.11666666666666659,63.0,11.0,Male,0.0,0.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,5.0,5.0
+1946,lvbrrvb5,s3,190.0,72.5,0.5,1.0,3.0,-0.6166666666666667,24.0,11.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,4.0,1.0
+1950,lvpjbl6e,s4,162.5,185.0,0.0,0.875,3.0,-0.7,30.0,12.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+1954,lwi3znr8,s3,75.0,,0.5,1.0,7.0,0.5333333333333333,48.0,2.0,Male,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,4.0,3.0
+1955,lxlvadl7,s3,150.0,195.0,0.16666666666666666,0.8333333333333334,1.0,-0.4,48.0,6.0,Male,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,5.0,5.0
+1958,m0r739ao,s1,215.0,187.5,0.375,0.875,6.0,-0.31666666666666665,63.0,11.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,3.0,2.0
+1962,m1a0i85l,s2,217.5,212.5,0.5,0.75,6.0,-0.31666666666666665,32.0,11.0,Female,1.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+1966,m25lk57p,s3,220.0,207.5,0.0,0.8333333333333334,6.0,-0.06666666666666665,63.0,8.0,Female,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,3.0,3.0
+1969,m37f0uhk,s2,187.5,192.5,0.5,0.625,5.0,-0.3333333333333333,33.0,10.0,Male,1.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+1973,m3w4rmha,s1,230.0,157.5,0.0,0.6666666666666666,6.0,0.26666666666666666,24.0,4.0,Male,0.0,0.0,0.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",,4.0,4.0
+1976,m7aoec9g,s2,222.5,135.0,0.5,0.8333333333333334,4.0,-0.43333333333333335,28.0,10.0,Female,0.0,0.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,,
+1979,ma4qagb4,s4,157.5,200.0,0.5,0.75,6.0,-0.06666666666666665,51.0,8.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+1983,mb10ijsd,s1,,160.0,0.75,0.75,6.0,-0.31666666666666665,66.0,11.0,Male,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,5.0,5.0
+1985,mcw9sv4n,s1,152.5,210.0,0.625,0.75,4.0,0.06666666666666671,42.0,4.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,5.0,5.0
+1989,mhrdxxou,s2,172.5,187.5,0.0,0.6875,8.0,-0.19999999999999996,19.0,12.0,Male,1.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,,
+1993,mhu3c665,s2,175.0,165.0,0.625,0.75,0.0,-0.5,40.0,6.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",5.0,,
+1997,mik20yvh,s2,202.5,220.0,0.5,0.8333333333333334,5.0,-0.41666666666666663,53.0,11.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2000,ml6ammx8,s1,170.0,105.0,0.5,0.625,9.0,-0.016666666666666607,62.0,11.0,Male,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,5.0,5.0
+2004,mlcnp33l,s1,227.5,215.0,0.0,0.6666666666666666,8.0,-0.19999999999999996,34.0,12.0,Female,1.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,,1.0,1.0
+2007,mlgenm7d,s2,167.5,155.0,0.0,0.875,4.0,-0.18333333333333335,49.0,7.0,Female,0.0,0.0,0.0,Design 1,Design 2,"Have an option between Design #1 and Design #2,",2.0,,
+2011,mln2mxp4,s4,165.0,192.5,0.5,0.9166666666666666,6.0,0.016666666666666607,57.0,7.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2014,mm672o6t,s2,160.0,190.0,0.5,0.6666666666666666,7.0,0.36666666666666664,30.0,4.0,Male,1.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,4.0,,
+2017,mmb84885,s1,175.0,197.5,0.5,0.625,5.0,-0.16666666666666663,64.0,8.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,4.0,5.0
+2021,mp349oqd,s1,167.5,135.0,0.5,0.75,5.0,-0.25,51.0,9.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,5.0,4.0
+2025,mpmkasf6,s1,187.5,237.5,0.0,0.75,7.0,-0.30000000000000004,58.0,12.0,Female,0.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,,3.0,1.0
+2029,mppgmep9,s2,185.0,207.5,0.125,0.75,5.0,-0.25,58.0,9.0,Female,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2033,mpw8w627,s1,150.0,172.5,0.16666666666666666,0.75,5.0,-0.25,47.0,9.0,Female,1.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,,3.0,3.0
+2036,mr0ekbq4,s1,152.5,165.0,0.5,0.75,8.0,-0.11666666666666659,46.0,11.0,Female,1.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,,3.0,3.0
+2039,mttg9p8v,s3,172.5,155.0,0.5,0.75,4.0,-0.18333333333333335,33.0,7.0,Female,0.0,0.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,5.0,5.0
+2043,mu88d9m7,s3,130.0,195.0,0.5,0.8333333333333334,8.0,0.21666666666666667,38.0,7.0,Male,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,4.0,4.0
+2046,mup3wutv,s2,200.0,242.5,0.3333333333333333,0.6666666666666666,7.0,-0.050000000000000044,62.0,9.0,Male,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,1.0,,
+2049,mv60aa8p,s2,152.5,175.0,0.25,0.8125,3.0,-0.36666666666666664,71.0,8.0,Female,0.0,0.0,0.0,Design 2,Design 1,Only trade on Design #1,4.0,,
+2053,my164i2o,s2,130.0,190.0,0.5,0.8125,3.0,-0.6166666666666667,39.0,11.0,Male,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2057,mzzm1nsj,s1,190.0,185.0,0.5,0.5,5.0,-0.16666666666666663,56.0,8.0,Male,0.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,,3.0,3.0
+2060,n5vjtqwg,s4,235.0,200.0,0.16666666666666666,0.5833333333333334,7.0,0.033333333333333326,66.0,8.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2063,n7o95gyd,s4,100.0,142.5,0.5,0.75,9.0,0.06666666666666665,64.0,10.0,Male,1.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2066,nch1h11g,s2,215.0,145.0,0.5,0.75,5.0,-0.33333333333333337,44.0,10.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2068,ne2tg8rj,s4,245.0,155.0,0.25,0.875,7.0,-0.050000000000000044,37.0,9.0,Male,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",2.0,,
+2070,nehvsk8t,s1,200.0,162.5,0.16666666666666666,0.75,6.0,0.18333333333333326,42.0,5.0,Male,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,4.0,2.0
+2073,newepstp,s2,182.5,197.5,0.125,0.8125,3.0,-0.5333333333333334,24.0,10.0,Male,0.0,0.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2077,nexec6c5,s1,210.0,190.0,0.5,0.75,9.0,-0.09999999999999998,40.0,12.0,Male,1.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,1.0,1.0
+2081,nhnej7c9,s4,157.5,175.0,0.0,1.0,7.0,-0.21666666666666667,59.0,11.0,Male,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",4.0,,
+2085,nih1xa82,s1,95.0,185.0,0.5,0.625,5.0,-0.25,39.0,9.0,Female,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,4.0,3.0
+2089,njs29c9p,s1,187.5,220.0,0.16666666666666666,0.6666666666666666,6.0,-0.15000000000000002,53.0,9.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,5.0,4.0
+2092,njurk7ql,s2,130.0,100.0,0.0,0.8125,8.0,-0.19999999999999996,67.0,12.0,Male,1.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,1.0,,
+2096,nkaq2nwi,s1,170.0,182.5,0.16666666666666666,0.8333333333333334,8.0,-0.033333333333333326,25.0,10.0,Male,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,,1.0,1.0
+2099,nniwfrwq,s1,215.0,175.0,0.5,0.75,7.0,-0.21666666666666667,53.0,11.0,Female,0.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,,1.0,1.0
+2103,not7cymr,s2,182.5,220.0,0.5,0.75,4.0,-0.2666666666666666,34.0,8.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2107,nqnd19ug,s2,250.0,185.0,0.8333333333333334,0.8333333333333334,6.0,0.35,33.0,3.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2110,nr4tcmij,s2,160.0,220.0,0.0,0.75,7.0,-0.30000000000000004,41.0,12.0,Male,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2114,nuxs7w13,s1,95.0,175.0,0.0,0.875,3.0,0.21666666666666667,33.0,1.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,5.0,3.0
+2116,nvrmqqna,s4,152.5,140.0,0.75,0.625,7.0,0.033333333333333326,32.0,8.0,Male,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,5.0,,
+2120,nx4t7zd5,s3,130.0,185.0,0.5,0.8125,2.0,-0.4666666666666666,25.0,8.0,Female,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",5.0,1.0,2.0
+2124,nymxk6oo,s1,155.0,202.5,0.5,0.875,2.0,-0.21666666666666667,64.0,5.0,Male,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,,5.0,3.0
+2128,nzjiwcxq,s3,177.5,147.5,0.375,0.875,5.0,0.16666666666666669,22.0,4.0,Male,0.0,0.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,4.0,3.0
+2132,o08io7y0,s2,197.5,160.0,0.5,0.8333333333333334,6.0,0.016666666666666607,44.0,7.0,Male,0.0,0.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2135,o0ch7wco,s4,165.0,260.0,0.5,0.6666666666666666,5.0,-0.5,38.0,12.0,Male,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2138,o0efbpxt,s4,142.5,185.0,0.375,0.9375,5.0,-0.08333333333333337,64.0,7.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2142,o2fjbqep,s2,192.5,162.5,0.5,0.6875,4.0,-0.2666666666666666,39.0,8.0,Female,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",4.0,,
+2146,o3g86c4q,s2,202.5,200.0,0.16666666666666666,0.75,5.0,-0.41666666666666663,61.0,11.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2150,o407ciu9,s3,210.0,205.0,0.25,0.8125,9.0,-0.016666666666666607,61.0,11.0,Male,1.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,2.0,1.0,1.0
+2154,o43gjgob,s4,187.5,185.0,0.5,0.75,3.0,-0.1166666666666667,67.0,5.0,Female,0.0,0.0,0.0,Design 1,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2157,o60qcpwh,s2,,175.0,0.0,1.0,7.0,-0.30000000000000004,53.0,12.0,Female,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2158,o7f5wtql,s2,207.5,202.5,0.25,0.75,6.0,-0.2333333333333334,57.0,10.0,Female,0.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,3.0,,
+2162,o8ittj09,s1,210.0,,0.5,0.5,7.0,0.033333333333333326,34.0,8.0,Female,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,1.0,3.0
+2163,o913zwg8,s2,187.5,190.0,0.25,0.75,6.0,-0.4,57.0,12.0,Male,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+2167,o9fexw9j,s3,167.5,210.0,0.0,0.75,1.0,-0.4,59.0,6.0,Female,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,2.0,1.0,1.0
+2171,o9zhl4go,s1,187.5,205.0,0.5,0.75,3.0,-0.45,56.0,9.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,1.0,1.0
+2175,oa2xi8oh,s2,172.5,192.5,0.375,0.75,1.0,-0.7333333333333334,59.0,10.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2179,ob2uqetv,s1,207.5,232.5,0.5,0.625,6.0,-0.06666666666666665,57.0,8.0,Male,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,4.0,2.0
+2183,of29rfjf,s2,205.0,252.5,0.25,0.75,3.0,-0.6166666666666667,38.0,11.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2187,og99p3wf,s1,235.0,265.0,0.25,0.5,8.0,-0.19999999999999996,52.0,12.0,Male,1.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,1.0,1.0
+2189,oglnrnr2,s1,177.5,195.0,0.375,0.75,5.0,-0.33333333333333337,55.0,10.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,5.0,5.0
+2193,oii5trtq,s2,200.0,212.5,0.16666666666666666,0.6666666666666666,2.0,-0.7166666666666666,55.0,11.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+2196,ok3swa17,s1,225.0,200.0,0.5,0.6666666666666666,5.0,-0.25,38.0,9.0,Male,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,,3.0,1.0
+2199,onhesb9i,s3,162.5,242.5,0.125,0.8333333333333334,7.0,-0.21666666666666667,53.0,11.0,Male,0.0,1.0,0.0,Design 1,Design 2,"Have an option between Design #1 and Design #2,",5.0,1.0,1.0
+2203,opt9bsti,s1,225.0,155.0,0.125,0.75,8.0,-0.033333333333333326,27.0,10.0,Male,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,5.0,4.0
+2207,oq3z7twl,s1,120.0,,0.5,0.5,8.0,-0.11666666666666659,59.0,11.0,Female,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,3.0,3.0
+2208,oqajdyhi,s4,207.5,177.5,0.0,0.75,6.0,-0.4,25.0,12.0,Male,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",2.0,,
+2212,oqtlejqx,s2,220.0,195.0,0.0,1.0,9.0,-0.09999999999999998,50.0,12.0,Male,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2215,oxruymzn,s1,255.0,,0.5,0.5,3.0,-0.5333333333333334,58.0,10.0,Female,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,,1.0,1.0
+2216,p2b5yeu0,s1,215.0,100.0,0.5,0.8333333333333334,6.0,-0.3166666666666667,30.0,11.0,Female,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,1.0,1.0
+2219,p4944w8u,s3,185.0,140.0,0.0,0.8125,4.0,-0.6,26.0,12.0,Male,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",4.0,1.0,1.0
+2223,p598x5a9,s2,180.0,160.0,0.5,0.75,5.0,0.16666666666666666,42.0,4.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+2227,p5rcq3i8,s3,225.0,230.0,0.5,0.75,7.0,-0.21666666666666665,29.0,11.0,Male,0.0,0.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,5.0,5.0
+2229,p8emdktl,s1,185.0,202.5,0.5,0.875,4.0,-0.5166666666666666,59.0,11.0,Female,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,3.0,4.0
+2233,p8qg4sh0,s1,80.0,195.0,0.5,0.8333333333333334,3.0,-0.1166666666666667,57.0,5.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,5.0,5.0
+2236,pa2kf7mm,s1,77.5,77.5,0.0,1.0,10.0,0.0,44.0,12.0,Male,0.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,,1.0,1.0
+2240,paxg5dw6,s4,180.0,182.5,0.5,0.8333333333333334,5.0,0.16666666666666669,24.0,4.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2243,pjp1lque,s2,190.0,195.0,0.3333333333333333,0.6666666666666666,1.0,-0.5666666666666667,20.0,8.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",2.0,,
+2246,pkguo06n,s3,225.0,205.0,0.16666666666666666,0.6666666666666666,3.0,-0.2833333333333334,38.0,7.0,Female,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,1.0,1.0,1.0
+2249,pl0yvc4r,s4,177.5,170.0,0.0,0.75,3.0,-0.7,47.0,12.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+2252,pl5cn8rw,s2,162.5,170.0,0.5,0.6666666666666666,7.0,-0.30000000000000004,68.0,12.0,Male,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,2.0,,
+2255,poyrt7mw,s4,152.5,190.0,0.375,0.875,5.0,0.08333333333333331,40.0,5.0,Male,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,,
+2259,punmb7td,s2,192.5,185.0,0.5,0.75,5.0,-0.33333333333333337,70.0,10.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2263,pvofigno,s2,180.0,182.5,0.0,0.9166666666666666,5.0,-0.5,33.0,12.0,Male,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,,
+2266,pxakoqpn,s1,175.0,192.5,0.5,0.625,1.0,-0.5666666666666667,2.0,8.0,Female,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,,4.0,5.0
+2270,q0tpevrm,s2,190.0,155.0,0.6666666666666666,0.6666666666666666,2.0,-0.1333333333333333,24.0,4.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2273,q1ljacdo,s1,177.5,172.5,0.375,0.75,4.0,-0.43333333333333335,45.0,10.0,Female,0.0,1.0,1.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",,1.0,3.0
+2277,q2g7lq56,s2,175.0,197.5,0.375,0.8125,10.0,0.08333333333333337,61.0,11.0,Male,1.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,5.0,,
+2281,q3sn5z5z,s4,227.5,145.0,0.125,0.75,5.0,-0.41666666666666663,44.0,11.0,Male,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",2.0,,
+2285,q6w2vs9m,s2,210.0,202.5,0.5,0.75,6.0,-0.31666666666666665,21.0,11.0,Male,1.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",2.0,,
+2289,q835gg1p,s4,170.0,205.0,0.125,0.75,4.0,-0.2666666666666666,19.0,8.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2293,qab5ojsz,s1,200.0,157.5,0.5,0.75,2.0,-0.8000000000000002,53.0,12.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,5.0,5.0
+2297,qc0fyf53,s4,212.5,187.5,0.5,0.6875,4.0,-0.4333333333333334,52.0,10.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2301,qce4k4ri,s4,210.0,165.0,0.25,0.75,7.0,0.28333333333333327,26.0,5.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2305,qf34anpg,s1,207.5,190.0,0.5,0.75,8.0,-0.19999999999999996,32.0,12.0,Male,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,3.0,3.0
+2309,qh7x4txt,s1,172.5,220.0,0.3333333333333333,0.9166666666666666,6.0,-0.31666666666666665,29.0,11.0,Male,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,,1.0,2.0
+2312,qihm28ir,s1,267.5,145.0,0.375,0.75,2.0,-0.21666666666666667,31.0,5.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,3.0,4.0
+2316,qjwcljrj,s4,185.0,190.0,0.5,0.75,8.0,0.050000000000000044,29.0,9.0,Male,0.0,0.0,0.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",4.0,,
+2320,qjxmzedu,s2,185.0,182.5,0.375,0.875,3.0,0.13333333333333333,25.0,2.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2324,qkqk3bpl,s1,185.0,190.0,0.6666666666666666,0.75,2.0,0.033333333333333354,39.0,2.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,4.0,3.0
+2327,qmiqnmi1,s3,205.0,157.5,0.5,0.75,4.0,-0.6,68.0,12.0,Male,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,2.0,1.0,2.0
+2331,qmoge751,s1,130.0,180.0,0.3333333333333333,0.6666666666666666,1.0,-0.5666666666666667,21.0,8.0,Female,1.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,2.0,4.0
+2334,qnfhniaq,s4,230.0,180.0,0.0,0.9166666666666666,9.0,-0.016666666666666607,67.0,11.0,Male,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2337,qoaucdy0,s2,200.0,190.0,0.5,0.8333333333333334,4.0,-0.2666666666666666,56.0,8.0,Female,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+2340,qpcty2nf,s3,192.5,185.0,0.3333333333333333,0.6666666666666666,7.0,-0.21666666666666667,65.0,11.0,Male,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",1.0,2.0,3.0
+2343,qrvznbl3,s3,165.0,195.0,0.5,0.75,5.0,0.0,39.0,6.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,3.0,4.0
+2347,qtvaob1u,s4,180.0,230.0,0.3333333333333333,0.75,5.0,-0.08333333333333337,57.0,7.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2350,qw5zwdfx,s2,167.5,210.0,0.625,0.6875,8.0,-0.033333333333333326,42.0,10.0,Male,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2354,qwjc25k3,s2,,217.5,0.5,0.75,7.0,-0.30000000000000004,58.0,12.0,Female,1.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",2.0,,
+2356,qwk1i567,s1,175.0,170.0,0.5,0.5,7.0,-0.21666666666666667,60.0,11.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,2.0,2.0
+2358,qwykjr3a,s2,150.0,215.0,0.5,0.8333333333333334,6.0,-0.31666666666666665,59.0,11.0,Female,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2361,qx8ddz1n,s1,180.0,160.0,0.5,0.8333333333333334,6.0,-0.06666666666666665,88.0,8.0,Female,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,,1.0,1.0
+2364,qya2eg07,s2,135.0,207.5,0.16666666666666666,0.9166666666666666,0.0,-0.5,50.0,6.0,Male,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,,
+2367,qz37893j,s2,192.5,205.0,0.5,0.75,1.0,-0.7333333333333334,33.0,10.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2371,qzabyiut,s1,152.5,227.5,0.625,0.5625,1.0,-0.7333333333333334,81.0,10.0,Male,0.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,,1.0,5.0
+2375,qzarpu99,s1,165.0,117.5,0.5,0.875,3.0,-0.1166666666666667,59.0,5.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,4.0,4.0
+2379,qzkmrjyu,s2,,197.5,0.5,1.0,1.0,-0.4,61.0,6.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",4.0,,
+2381,r0lk02u0,s3,185.0,165.0,0.375,0.75,3.0,-0.033333333333333326,30.0,4.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,3.0,3.0
+2385,r0nziv50,s2,217.5,180.0,0.5,0.875,1.0,-0.5666666666666667,58.0,8.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",5.0,,
+2389,r22o457f,s4,,200.0,0.75,0.75,7.0,0.44999999999999996,26.0,3.0,Female,1.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2391,r3inmrdn,s2,192.5,175.0,0.5,0.6875,5.0,-0.3333333333333333,60.0,10.0,Female,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",4.0,,
+2395,r5uikmdp,s4,162.5,182.5,0.5,0.75,3.0,-0.5333333333333334,75.0,10.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2399,r685zv5i,s4,165.0,230.0,0.3333333333333333,0.9166666666666666,4.0,-0.4333333333333334,77.0,10.0,Male,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,,
+2402,r6kg3u61,s4,120.0,197.5,0.5,0.75,2.0,-0.8000000000000002,26.0,12.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+2405,rbmxl6pc,s1,197.5,205.0,0.0,0.75,3.0,-0.6999999999999998,46.0,12.0,Female,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,,1.0,1.0
+2409,rc74jogj,s4,60.0,100.0,0.25,0.875,5.0,0.08333333333333331,33.0,5.0,Female,1.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,5.0,,
+2411,rdeb4vr0,s2,170.0,155.0,0.25,0.6875,7.0,0.19999999999999996,28.0,6.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2415,rey5112o,s4,170.0,167.5,0.5,0.75,4.0,-0.016666666666666663,61.0,5.0,Male,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2419,rgbz29ab,s1,177.5,122.5,0.375,0.75,7.0,-0.30000000000000004,50.0,12.0,Female,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,,1.0,1.0
+2423,rgol6o20,s2,75.0,195.0,0.5,0.8333333333333334,3.0,-0.11666666666666671,19.0,5.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",5.0,,
+2426,rlqh7t1q,s3,150.0,145.0,0.5,1.0,6.0,-0.31666666666666665,21.0,11.0,Female,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,4.0,4.0,2.0
+2428,rplzl9r8,s3,225.0,275.0,0.5,1.0,7.0,0.28333333333333327,54.0,5.0,Male,1.0,1.0,1.0,Design 1,Design 2,Only trade on Design #1,4.0,5.0,4.0
+2430,rpsn1ad2,s3,195.0,142.5,0.375,0.5625,6.0,-0.2333333333333334,22.0,10.0,Male,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,5.0,2.0,1.0
+2434,rpsq0czc,s2,130.0,235.0,0.5,0.75,10.0,0.08333333333333337,59.0,11.0,Male,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2436,rq982ont,s3,202.5,147.5,0.5,0.6875,5.0,0.08333333333333331,24.0,5.0,Male,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,5.0,5.0
+2440,rs1rhsjt,s1,177.5,180.0,0.625,0.6875,3.0,-0.44999999999999996,28.0,9.0,Female,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,,1.0,1.0
+2444,rs84251k,s2,170.0,177.5,0.125,0.6875,6.0,0.26666666666666666,30.0,4.0,Female,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,2.0,,
+2448,rscxb307,s2,195.0,217.5,0.375,0.625,6.0,-0.15000000000000002,43.0,9.0,Male,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2452,rtzbeu70,s2,225.0,180.0,0.5,0.5,4.0,-0.6,58.0,12.0,Male,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+2454,rwt0toh0,s1,252.5,230.0,0.25,0.75,4.0,-0.4333333333333334,66.0,10.0,Female,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,2.0,2.0
+2458,rx2w0qlh,s3,225.0,130.0,0.75,0.75,5.0,-0.41666666666666663,45.0,11.0,Male,0.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,5.0,5.0,4.0
+2460,ry89bdpa,s2,160.0,190.0,0.5,0.75,7.0,0.36666666666666664,32.0,4.0,Female,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2464,rzt7c3zw,s1,182.5,160.0,0.5,0.5,6.0,0.09999999999999999,36.0,6.0,Male,0.0,1.0,1.0,Design 2,Design 1,Only trade on Design #1,,3.0,1.0
+2467,s26mym3f,s4,180.0,175.0,0.3333333333333333,0.75,6.0,-0.15000000000000002,30.0,9.0,Female,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,,
+2470,s31rghh0,s2,190.0,242.5,0.25,0.8125,5.0,-0.41666666666666663,29.0,11.0,Other,1.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,,
+2474,s3whdprm,s3,245.0,145.0,0.0,1.0,6.0,-0.2333333333333334,61.0,10.0,Male,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,2.0,2.0,1.0
+2476,s5bw6e96,s4,180.0,177.5,0.625,0.6875,2.0,-0.55,42.0,9.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2480,s5cr4o77,s3,,200.0,0.0,0.75,7.0,0.033333333333333326,30.0,8.0,Male,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,3.0,1.0,1.0
+2482,s7a4n4jx,s3,202.5,237.5,0.125,0.75,2.0,-0.7166666666666666,23.0,11.0,Male,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",5.0,1.0,1.0
+2486,s8o8kyfw,s4,177.5,175.0,0.5,0.75,5.0,-0.25,62.0,9.0,Female,0.0,0.0,0.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",4.0,,
+2490,s8q1c9kg,s3,227.5,152.5,0.375,0.8333333333333334,4.0,-0.2666666666666666,20.0,8.0,Male,1.0,1.0,1.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",2.0,5.0,4.0
+2494,s9p02vh7,s2,185.0,180.0,0.125,0.875,5.0,-0.4166666666666667,42.0,11.0,Male,0.0,1.0,1.0,Design 1,Design 2,"Have an option between Design #1 and Design #2,",2.0,,
+2498,safm6fqe,s3,205.0,150.0,0.5,0.875,8.0,-0.033333333333333326,62.0,10.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",5.0,3.0,4.0
+2500,sam6lird,s1,177.5,200.0,0.375,0.875,7.0,-0.21666666666666667,62.0,11.0,Female,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,1.0,1.0
+2504,sbdb0z0i,s2,230.0,170.0,0.375,0.625,7.0,-0.050000000000000044,24.0,9.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2508,scxqjinc,s1,210.0,137.5,0.5,0.5,5.0,0.0,31.0,6.0,Male,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,,1.0,1.0
+2512,sdncn2e2,s3,250.0,175.0,0.5,0.5833333333333334,7.0,-0.21666666666666665,41.0,11.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,2.0,1.0
+2515,sgv83ass,s2,187.5,225.0,0.625,0.6875,5.0,-0.41666666666666663,39.0,11.0,Female,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2519,sie3zmow,s3,215.0,187.5,0.0,0.75,3.0,-0.45,26.0,9.0,Male,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",2.0,4.0,2.0
+2523,sji1wv2p,s2,200.0,185.0,0.5,0.75,4.0,-0.35,41.0,9.0,Male,0.0,0.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2525,sl35abcq,s1,192.5,170.0,0.375,0.875,6.0,-0.31666666666666665,38.0,11.0,Male,1.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,,1.0,1.0
+2529,slsme237,s2,180.0,175.0,0.5,0.5833333333333334,4.0,-0.2666666666666666,55.0,8.0,Male,0.0,0.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2532,sma8bcki,s1,180.0,200.0,0.5,0.6666666666666666,2.0,-0.7166666666666666,59.0,11.0,Female,0.0,0.0,0.0,Design 2,Design 1,Only trade on Design #1,,3.0,2.0
+2535,srymhkzr,s1,,160.0,0.5,0.75,3.0,-0.6166666666666667,44.0,11.0,Male,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,2.0,2.0
+2537,ssytbx96,s1,160.0,192.5,0.625,0.5,0.0,-0.75,36.0,9.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,5.0,5.0
+2541,stozm69v,s3,180.0,217.5,0.5,0.8333333333333334,3.0,-0.1166666666666667,44.0,5.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,3.0,3.0
+2544,stx4wd44,s4,192.5,192.5,0.25,0.8125,1.0,-0.6500000000000001,65.0,9.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2548,stxxlsek,s1,165.0,207.5,0.0,0.75,0.0,-0.3333333333333333,69.0,4.0,Female,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,,1.0,1.0
+2551,sutq15mn,s2,202.5,225.0,0.375,0.8125,7.0,-0.21666666666666667,62.0,11.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2555,sv4xh7o7,s1,190.0,207.5,0.5,1.0,5.0,-0.33333333333333337,66.0,10.0,Female,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,,4.0,5.0
+2558,svgqaee8,s3,,192.5,0.0,0.75,2.0,-0.6333333333333333,19.0,10.0,Other,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",4.0,2.0,1.0
+2560,sxblm71c,s2,187.5,217.5,0.5,0.8125,3.0,-0.2833333333333334,35.0,7.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2564,sxmvplil,s2,225.0,150.0,0.0,0.75,6.0,-0.2333333333333334,73.0,10.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2567,sz92gqom,s1,150.0,197.5,0.5,0.9166666666666666,2.0,-0.3,34.0,6.0,Female,0.0,0.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,5.0,3.0
+2570,szvauh5h,s1,170.0,220.0,0.375,0.6875,4.0,-0.43333333333333335,38.0,10.0,Female,1.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,,3.0,1.0
+2574,t4geur6o,s2,190.0,177.5,0.625,0.6875,8.0,-0.19999999999999996,30.0,12.0,Male,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",1.0,,
+2578,t7h3nj2d,s2,227.5,200.0,0.3333333333333333,0.8333333333333334,6.0,-0.31666666666666665,27.0,11.0,Male,0.0,0.0,1.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",5.0,,
+2581,t8mthsac,s1,200.0,172.5,0.0,0.8125,7.0,-0.2166666666666667,48.0,11.0,Female,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,2.0,2.0
+2585,t9mxdtqf,s1,232.5,200.0,0.5,0.8333333333333334,5.0,0.08333333333333331,25.0,5.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,5.0,2.0
+2588,tapuxz1r,s4,172.5,167.5,0.75,0.5,7.0,-0.050000000000000044,19.0,9.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2592,tbb9zwn0,s3,200.0,240.0,0.3333333333333333,0.5,6.0,-0.31666666666666665,48.0,11.0,Male,1.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,4.0,1.0,1.0
+2595,tcvz6e68,s4,200.0,212.5,0.5,0.75,7.0,0.5333333333333333,66.0,2.0,Male,1.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2599,td8tr45a,s1,150.0,197.5,0.5,0.6875,9.0,0.06666666666666665,30.0,10.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,5.0,5.0
+2603,th58r71x,s2,190.0,190.0,0.0,0.6666666666666666,5.0,-0.41666666666666663,40.0,11.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2606,th5cf5ps,s3,162.5,155.0,0.0,0.875,7.0,-0.050000000000000044,43.0,9.0,Male,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",5.0,2.0,1.0
+2610,thnmlxt4,s1,227.5,145.0,0.5,0.6875,5.0,-0.3333333333333333,24.0,10.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,2.0,3.0
+2614,ti8h9ar0,s2,175.0,195.0,0.5,0.75,5.0,-0.41666666666666663,27.0,11.0,Male,0.0,1.0,0.0,Design 2,Design 2,Only trade on Design #1,4.0,,
+2618,tiaqxwi6,s4,195.0,175.0,0.875,0.6875,8.0,-0.11666666666666659,72.0,11.0,Female,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2622,tmxdndo7,s3,185.0,90.0,0.5,0.75,1.0,-0.06666666666666665,32.0,2.0,Female,0.0,0.0,0.0,Design 2,Design 2,Only trade on Design #1,3.0,3.0,4.0
+2624,tna30wqj,s2,100.0,157.5,0.5,0.5833333333333334,5.0,-0.33333333333333337,74.0,10.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2627,tnqj6yvd,s4,205.0,162.5,0.5,0.75,0.0,-0.5833333333333334,71.0,7.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2631,tnuwul6k,s1,165.0,222.5,0.375,0.6875,7.0,-0.21666666666666667,22.0,11.0,Male,1.0,1.0,1.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",,1.0,5.0
+2635,to98l99m,s1,237.5,165.0,0.5,0.8333333333333334,9.0,-0.016666666666666607,48.0,11.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,3.0,3.0
+2638,todx7qo5,s2,205.0,190.0,0.5,0.625,6.0,-0.2333333333333334,27.0,10.0,Male,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",2.0,,
+2642,twqrcmz1,s2,187.5,230.0,0.16666666666666666,0.6666666666666666,5.0,-0.3333333333333333,62.0,10.0,Male,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,1.0,,
+2645,txcwkpgm,s4,150.0,235.0,0.5,0.75,1.0,-0.31666666666666665,39.0,5.0,Female,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,1.0,,
+2648,tykyt28f,s2,175.0,240.0,0.6666666666666666,0.75,7.0,0.11666666666666659,67.0,7.0,Male,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,3.0,,
+2651,tzg2wasi,s2,182.5,210.0,0.5,0.875,2.0,-0.3,54.0,6.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2655,u05n8azt,s2,200.0,22.5,0.3333333333333333,0.9166666666666666,7.0,-0.050000000000000044,58.0,9.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2658,u0t97oqm,s4,170.0,70.0,0.5,0.75,1.0,-0.4000000000000001,58.0,6.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2660,u1p7mo4t,s1,187.5,205.0,0.5,0.6875,2.0,-0.4666666666666666,61.0,8.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,5.0,5.0
+2664,u1swf5e0,s2,172.5,210.0,0.25,0.75,5.0,-0.4166666666666667,8.0,11.0,Male,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",4.0,,
+2668,u1td0ijr,s4,210.0,155.0,0.25,0.8125,5.0,-0.3333333333333333,30.0,10.0,Male,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",2.0,,
+2672,u3hz8a3e,s1,190.0,187.5,0.125,0.8125,3.0,-0.36666666666666664,27.0,8.0,Male,0.0,0.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,4.0,2.0
+2676,u58jb243,s2,235.0,155.0,0.0,0.875,6.0,-0.06666666666666665,38.0,8.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,,
+2678,u5k2yr1l,s1,187.5,160.0,0.625,0.625,9.0,0.4,34.0,6.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,3.0,4.0
+2682,u6h8ym5d,s1,167.5,142.5,0.5,0.75,6.0,-0.31666666666666665,60.0,11.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,4.0,4.0
+2686,u8neqpub,s2,165.0,280.0,0.5,0.6666666666666666,5.0,-0.3333333333333333,51.0,10.0,Male,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2689,u8ox0cml,s1,170.0,210.0,0.5,0.6666666666666666,6.0,-0.4000000000000001,58.0,12.0,Female,0.0,0.0,0.0,Design 2,Design 1,Only trade on Design #1,,4.0,2.0
+2692,u9btjpoj,s1,202.5,210.0,0.5,0.5833333333333334,7.0,0.11666666666666659,45.0,7.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,5.0,4.0
+2695,uahv9t1m,s1,180.0,192.5,0.625,0.5,8.0,0.30000000000000004,58.0,6.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,3.0,5.0
+2699,uape7n26,s2,197.5,165.0,0.375,0.75,6.0,-0.15000000000000002,40.0,9.0,Female,0.0,1.0,1.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",5.0,,
+2703,ubosqypd,s3,195.0,212.5,0.5,0.625,5.0,-0.08333333333333337,27.0,7.0,Male,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,4.0,1.0
+2707,ue5pr7vi,s2,172.5,220.0,0.0,0.75,5.0,-0.08333333333333337,46.0,7.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2711,ug98i3o0,s1,160.0,140.0,1.0,0.8333333333333334,5.0,0.25,45.0,3.0,Male,0.0,0.0,0.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",,5.0,5.0
+2714,ugg8kibi,s2,155.0,210.0,0.5,0.625,4.0,-0.35,27.0,9.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2716,ugke48av,s4,240.0,225.0,0.5,0.75,5.0,-0.33333333333333337,59.0,10.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2718,ugucwcch,s3,182.5,190.0,0.5,0.6666666666666666,8.0,0.13333333333333341,31.0,8.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,3.0,4.0
+2721,uj15n3gs,s3,197.5,235.0,0.5,0.9166666666666666,6.0,-0.15000000000000002,21.0,9.0,Other,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",4.0,2.0,2.0
+2725,ujz9l4rj,s1,182.5,175.0,0.5,0.6666666666666666,5.0,-0.08333333333333337,64.0,7.0,Female,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,5.0,5.0
+2728,uk6kb2a3,s2,165.0,180.0,0.5,0.625,5.0,-0.25,42.0,9.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2730,uk9x02vi,s2,130.0,225.0,0.0,0.75,6.0,0.09999999999999998,31.0,6.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2732,ulbvfleh,s1,215.0,182.5,0.5,0.875,5.0,-0.25,36.0,9.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,4.0,3.0
+2736,um1e80s2,s3,135.0,192.5,0.3333333333333333,0.8333333333333334,7.0,0.11666666666666659,64.0,7.0,Female,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,3.0,1.0,1.0
+2739,um877c6y,s1,167.5,205.0,0.125,0.875,3.0,-0.6166666666666667,34.0,11.0,Male,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,,1.0,1.0
+2743,umpv3n8i,s4,165.0,205.0,0.0,1.0,9.0,0.15000000000000002,44.0,9.0,Male,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,,
+2746,up9c5sqq,s3,190.0,240.0,0.5,0.75,7.0,-0.21666666666666667,65.0,11.0,Male,0.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,3.0,1.0,1.0
+2750,urqyrd34,s1,202.5,172.5,0.625,0.75,3.0,-0.7,54.0,12.0,Male,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,,1.0,4.0
+2754,urtfe0gt,s1,175.0,172.5,0.0,0.6875,3.0,-0.2833333333333334,30.0,7.0,Male,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,2.0,1.0
+2758,usplsdb1,s1,135.0,200.0,0.0,1.0,7.0,-0.21666666666666665,20.0,11.0,Male,1.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,1.0,4.0
+2762,uta6xrd0,s1,177.5,200.0,0.5,0.625,5.0,-0.33333333333333337,52.0,10.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,3.0,1.0
+2766,utz9z50j,s1,195.0,165.0,0.5,0.6666666666666666,7.0,0.28333333333333327,27.0,5.0,Male,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,3.0,4.0
+2769,uwjwviq1,s1,197.5,235.0,0.0,0.75,8.0,-0.033333333333333326,50.0,10.0,Male,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,,1.0,1.0
+2773,uwm7lg6h,s1,130.0,202.5,0.0,0.75,7.0,-0.2166666666666667,23.0,11.0,Male,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,4.0,1.0
+2777,uwtirc0q,s4,190.0,187.5,0.0,1.0,2.0,-0.4666666666666666,42.0,8.0,Male,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",1.0,,
+2780,ux0kqiye,s2,187.5,217.5,0.5,0.75,4.0,0.3166666666666667,24.0,1.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,,
+2784,ux86dfgk,s4,180.0,185.0,0.5,0.75,0.0,-0.4166666666666667,55.0,5.0,Female,1.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2786,uzeq57ga,s3,222.5,180.0,0.25,0.75,10.0,0.0,49.0,12.0,Male,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,2.0,2.0
+2790,uzqo81lf,s1,147.5,65.0,0.5,0.9166666666666666,9.0,-0.016666666666666607,66.0,11.0,Female,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,5.0,5.0
+2793,v2eoq73r,s3,,185.0,0.5,0.5,7.0,-0.21666666666666667,61.0,11.0,Male,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,4.0,2.0,1.0
+2794,v41h3m8f,s4,215.0,150.0,0.5,0.75,3.0,0.04999999999999999,38.0,3.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2797,v55duffv,s2,190.0,240.0,0.5,0.8333333333333334,8.0,-0.11666666666666659,47.0,11.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2800,v7j0zsrl,s2,180.0,207.5,0.5,0.75,6.0,-0.31666666666666665,25.0,11.0,Female,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2804,vahl0jz2,s2,215.0,195.0,0.5,1.0,2.0,-0.55,66.0,9.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2806,vej3xrsy,s4,235.0,157.5,0.3333333333333333,0.6666666666666666,5.0,0.0,66.0,6.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2809,vfl8bhqg,s2,205.0,165.0,1.0,0.6666666666666666,6.0,-0.15000000000000002,24.0,9.0,Male,1.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2812,vh9fhkf1,s2,170.0,172.5,0.0,0.5625,7.0,-0.13333333333333341,34.0,10.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2816,vi457sfs,s2,,137.5,0.5,0.375,5.0,-0.25,72.0,9.0,Male,0.0,0.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2818,vi8uw2lb,s3,115.0,157.5,0.625,0.875,0.0,-0.3333333333333333,60.0,4.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",2.0,5.0,5.0
+2822,viuzs06i,s2,195.0,157.5,0.375,0.875,5.0,-0.16666666666666663,42.0,8.0,Female,1.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",5.0,,
+2826,vj7zfbtg,s1,162.5,220.0,0.625,0.5625,4.0,-0.35,30.0,9.0,Male,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,4.0,4.0
+2830,vmdvy96a,s3,185.0,197.5,0.125,0.75,0.0,-0.16666666666666666,24.0,2.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",5.0,5.0,1.0
+2834,vrv9n2m1,s2,155.0,172.5,0.5,0.75,6.0,-0.2333333333333334,58.0,10.0,Male,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,4.0,,
+2838,vs8vnmgu,s2,207.5,130.0,0.5,0.9375,4.0,0.3166666666666667,34.0,1.0,Female,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,1.0,,
+2842,vy0rzzf2,s2,172.5,167.5,0.0,0.875,4.0,-0.43333333333333335,38.0,10.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",4.0,,
+2846,vyp3lf7p,s3,212.5,227.5,0.375,0.75,7.0,-0.13333333333333341,45.0,10.0,Female,0.0,1.0,0.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",4.0,2.0,3.0
+2850,vz43s9da,s2,185.0,205.0,0.375,0.5625,1.0,-0.65,36.0,9.0,Male,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",2.0,,
+2854,w3b5pjv3,s3,180.0,225.0,0.5,0.6875,4.0,-0.5166666666666666,42.0,11.0,Male,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",4.0,3.0,1.0
+2858,w3rksdqk,s2,217.5,197.5,0.375,0.6875,5.0,-0.16666666666666663,44.0,8.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+2862,w4frvtef,s1,187.5,180.0,0.5,0.75,8.0,-0.19999999999999996,61.0,12.0,Male,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,5.0,1.0
+2865,w4wtmpqa,s1,167.5,192.5,0.375,0.75,4.0,-0.5166666666666666,31.0,11.0,Male,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,3.0,2.0
+2869,w7w7x62d,s4,192.5,142.5,0.375,0.75,6.0,-0.06666666666666665,28.0,8.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2873,w92jas1a,s1,185.0,160.0,0.25,0.875,4.0,-0.43333333333333335,40.0,10.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,4.0,2.0
+2877,w9blgaah,s1,,147.5,0.5,1.0,7.0,0.28333333333333327,50.0,5.0,Female,0.0,0.0,0.0,Design 1,Design 2,"Have an option between Design #1 and Design #2,",,5.0,4.0
+2879,wa6rf520,s1,182.5,205.0,0.5,0.75,5.0,-0.41666666666666663,56.0,11.0,Female,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,,1.0,1.0
+2883,waicfe0l,s3,217.5,137.5,0.5,0.8125,7.0,-0.30000000000000004,57.0,12.0,Male,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,4.0,1.0,1.0
+2887,wczbyrzl,s2,205.0,225.0,0.0,0.75,7.0,-0.050000000000000044,23.0,9.0,Male,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",2.0,,
+2891,wfupunlf,s4,197.5,150.0,0.5,0.75,2.0,-0.4666666666666666,41.0,8.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2894,whkurwmq,s3,205.0,155.0,0.5,0.875,3.0,-0.36666666666666664,59.0,8.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,2.0,5.0
+2898,wkf9n3yy,s1,135.0,180.0,0.0,1.0,6.0,-0.4,58.0,12.0,Male,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,,1.0,1.0
+2900,wkpos09w,s2,185.0,197.5,0.6666666666666666,0.8333333333333334,4.0,-0.016666666666666663,47.0,5.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2903,wkqooepx,s2,190.0,197.5,0.3333333333333333,0.5833333333333334,8.0,-0.19999999999999996,50.0,12.0,Male,0.0,1.0,0.0,Design 1,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2906,wlsysmy1,s4,190.0,205.0,0.5,0.75,7.0,-0.30000000000000004,75.0,12.0,Male,0.0,0.0,0.0,Design 1,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2909,won7l0n8,s2,162.5,165.0,0.625,0.875,2.0,-0.7166666666666666,67.0,11.0,Male,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,3.0,,
+2913,wp3s0mvt,s3,220.0,117.5,0.75,0.6875,6.0,-0.4,60.0,12.0,Male,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,2.0,2.0,2.0
+2917,wqgq2tb3,s4,137.5,190.0,0.25,0.8125,4.0,-0.18333333333333335,40.0,7.0,Male,0.0,0.0,0.0,Design 2,Design 2,Only trade on Design #1,5.0,,
+2921,wt95vmfm,s1,207.5,80.0,0.3333333333333333,0.6666666666666666,5.0,-0.25,44.0,9.0,Male,0.0,0.0,1.0,Design 1,Design 2,Only trade on Design #1,,1.0,1.0
+2924,wtsbqb4c,s3,155.0,187.5,0.3333333333333333,0.8333333333333334,5.0,-0.25,69.0,9.0,Female,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,2.0,2.0
+2927,wu7604em,s2,152.5,182.5,0.125,0.75,4.0,-0.09999999999999998,19.0,6.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2931,wu8te4ug,s1,187.5,252.5,0.25,0.75,6.0,-0.31666666666666665,59.0,11.0,Male,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,3.0,4.0
+2935,wubp5eoe,s2,220.0,202.5,0.375,0.6875,6.0,-0.2333333333333334,32.0,10.0,Male,1.0,1.0,0.0,Design 1,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+2939,wx36tllg,s2,187.5,175.0,0.375,0.5,7.0,0.033333333333333326,58.0,8.0,Male,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,,
+2943,wxfgqkua,s1,207.5,210.0,0.25,0.75,5.0,-0.41666666666666663,54.0,11.0,Male,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,3.0,5.0
+2947,wy0v8uu8,s2,220.0,200.0,0.0,0.6875,1.0,-0.2333333333333333,27.0,4.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,,
+2951,wy71vwis,s1,130.0,130.0,0.5,0.6666666666666666,6.0,0.18333333333333332,21.0,5.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,4.0,5.0
+2954,wyw2hyvt,s2,200.0,170.0,0.5,1.0,2.0,-0.21666666666666667,21.0,5.0,Female,1.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2956,x1habtb1,s2,210.0,197.5,0.5,0.75,3.0,-0.45,627.0,9.0,Female,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2960,x5bs4keh,s1,170.0,95.0,0.6666666666666666,0.6666666666666666,2.0,-0.38333333333333336,63.0,7.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,2.0,1.0
+2963,x79xheqh,s3,197.5,167.5,0.125,0.625,3.0,-0.5333333333333334,45.0,10.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,3.0,1.0
+2967,x8xbgsjt,s1,167.5,197.5,0.5,0.875,7.0,-0.13333333333333341,66.0,10.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,3.0,2.0
+2971,xa7cgrbx,s1,140.0,190.0,0.5,0.75,6.0,-0.2333333333333334,28.0,10.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,2.0,1.0
+2975,xbxuf7k6,s3,222.5,175.0,0.375,0.8125,0.0,0.0,34.0,0.0,Female,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,3.0,1.0,2.0
+2979,xdn1kyqc,s4,210.0,167.5,0.5,0.6666666666666666,5.0,-0.41666666666666663,61.0,11.0,Male,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",4.0,,
+2982,xebk96r4,s3,200.0,,0.0,1.0,6.0,0.016666666666666607,19.0,7.0,Male,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,1.0,2.0,1.0
+2984,xefzk3no,s1,207.5,205.0,0.6666666666666666,0.8333333333333334,1.0,-0.5666666666666667,64.0,8.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,4.0,4.0
+2987,xenvi73b,s4,222.5,177.5,0.0,0.9375,6.0,-0.2333333333333334,38.0,10.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+2991,xgf4lps1,s4,190.0,145.0,0.5,0.6666666666666666,6.0,-0.06666666666666665,49.0,8.0,Female,0.0,0.0,0.0,Design 2,Design 1,Only trade on Design #1,5.0,,
+2994,xl0yiaci,s2,250.0,152.5,0.5,0.6666666666666666,7.0,-0.13333333333333341,61.0,10.0,Male,0.0,1.0,1.0,Design 1,Design 1,Only trade on Design #1,3.0,,
+2997,xlotn3ez,s2,217.5,195.0,0.125,0.6875,4.0,0.3166666666666667,34.0,1.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+3001,xobycdz8,s2,215.0,165.0,0.6666666666666666,0.5,7.0,-0.30000000000000004,54.0,12.0,Male,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+3004,xr7r5oc4,s2,195.0,,0.5,0.5,8.0,0.13333333333333341,55.0,8.0,Female,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",5.0,,
+3005,xsabi7e5,s2,210.0,240.0,0.5,0.8333333333333334,5.0,-0.16666666666666663,61.0,8.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+3008,xsv7rx07,s1,212.5,167.5,0.625,0.75,6.0,0.016666666666666607,26.0,7.0,Male,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,3.0,5.0
+3012,xt48k4cj,s1,187.5,135.0,0.0,0.8333333333333334,7.0,-0.30000000000000004,64.0,12.0,Male,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,2.0,2.0
+3015,xu0atehv,s3,105.0,167.5,0.5,0.75,3.0,0.04999999999999999,24.0,3.0,Female,0.0,0.0,0.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",3.0,3.0,5.0
+3018,xugz05p0,s2,207.5,172.5,0.5,0.625,2.0,-0.6333333333333333,62.0,10.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+3022,xuozyvm0,s1,152.5,175.0,0.5,0.5833333333333334,6.0,-0.4,58.0,12.0,Male,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,1.0,1.0
+3025,xw84vxfs,s1,135.0,,0.5,0.75,7.0,0.11666666666666659,66.0,7.0,Male,0.0,0.0,0.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",,3.0,5.0
+3026,xwf8mvpf,s1,185.0,210.0,0.375,0.6875,4.0,-0.09999999999999998,34.0,6.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,3.0,4.0
+3030,y25j826l,s2,192.5,162.5,0.625,0.6875,7.0,0.28333333333333327,31.0,5.0,Male,0.0,0.0,0.0,Design 1,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+3034,y42uim9y,s1,167.5,,0.5,1.0,6.0,0.09999999999999998,66.0,6.0,Male,1.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,4.0,3.0
+3036,y53tq7rf,s4,167.5,,0.5,0.625,8.0,0.46666666666666673,27.0,4.0,Male,1.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",5.0,,
+3038,y6kz9xlw,s3,165.0,142.5,0.5,0.875,5.0,0.0,45.0,6.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,4.0,4.0
+3042,y8w2mo94,s4,160.0,165.0,0.5,0.75,9.0,0.31666666666666665,30.0,7.0,Female,1.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",4.0,,
+3046,y9f5mjgx,s1,187.5,195.0,0.5,0.75,8.0,0.46666666666666673,42.0,4.0,Male,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,4.0,4.0
+3050,y9i0amtg,s4,165.0,200.0,0.375,0.625,3.0,-0.6166666666666667,44.0,11.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+3054,yb64ve4r,s3,170.0,207.5,0.3333333333333333,0.75,3.0,-0.2833333333333334,30.0,7.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,3.0,3.0
+3057,ybda8j8o,s1,187.5,227.5,0.25,0.9375,1.0,-0.7333333333333334,19.0,10.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,5.0,4.0
+3061,ybzvub41,s2,177.5,125.0,0.25,0.625,5.0,-0.33333333333333337,30.0,10.0,Male,0.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",1.0,,
+3065,ydbzysor,s2,175.0,192.5,0.25,0.8125,5.0,-0.41666666666666663,43.0,11.0,Male,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",2.0,,
+3069,ydd4cgy4,s2,187.5,240.0,0.0,0.75,4.0,-0.5166666666666666,23.0,11.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+3073,ykf2c73c,s2,200.0,212.5,0.5,0.6875,5.0,-0.16666666666666663,61.0,8.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+3077,yktydr5k,s1,115.0,200.0,0.5,0.8333333333333334,8.0,-0.11666666666666659,62.0,11.0,Male,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,3.0,4.0
+3080,yls08jh6,s3,200.0,230.0,0.3333333333333333,0.6666666666666666,5.0,-0.41666666666666663,30.0,11.0,Female,1.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,3.0,3.0
+3083,ynpfh9uw,s1,,255.0,0.0,0.5,2.0,-0.55,50.0,9.0,Male,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,,2.0,1.0
+3084,yo3ruzp1,s2,222.5,200.0,0.5,0.6666666666666666,6.0,-0.06666666666666665,26.0,8.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+3087,yoiipct2,s2,187.5,187.5,0.5,0.75,2.0,-0.38333333333333336,49.0,7.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+3091,yojpfwc2,s1,175.0,172.5,0.5,0.75,7.0,-0.13333333333333341,26.0,10.0,Female,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,4.0,3.0
+3095,yqilo1a3,s3,220.0,205.0,0.625,0.6875,5.0,-0.33333333333333337,67.0,10.0,Male,0.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,5.0,3.0,3.0
+3099,yta6se00,s3,170.0,,0.0,0.5,2.0,-0.7166666666666666,51.0,11.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,5.0,5.0
+3100,yuvqeqzz,s4,225.0,157.5,0.5,0.75,7.0,0.28333333333333327,25.0,5.0,Male,1.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",3.0,,
+3103,yw7p5bb3,s2,140.0,185.0,0.5,0.8333333333333334,2.0,-0.6333333333333333,56.0,10.0,Female,0.0,0.0,0.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",4.0,,
+3106,yy424w14,s2,165.0,197.5,0.375,0.75,5.0,-0.41666666666666663,67.0,11.0,Male,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",5.0,,
+3110,yyd11cri,s2,182.5,170.0,0.5,0.6875,1.0,-0.06666666666666665,38.0,2.0,Female,0.0,0.0,0.0,Design 1,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+3114,z00p7ho0,s4,195.0,177.5,0.375,0.8125,3.0,-0.1166666666666667,58.0,5.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+3118,z13igtbt,s1,227.5,177.5,0.5,0.75,7.0,-0.21666666666666667,61.0,11.0,Female,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,3.0,3.0
+3122,z330msio,s1,190.0,212.5,0.0,0.6666666666666666,8.0,-0.19999999999999996,38.0,12.0,Male,1.0,1.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,1.0,1.0
+3125,z35c6ivb,s2,197.5,190.0,0.3333333333333333,0.8333333333333334,0.0,-0.5833333333333334,21.0,7.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+3128,z4bhhsmf,s2,195.0,195.0,0.25,0.75,0.0,-0.4166666666666667,64.0,5.0,Female,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,1.0,,
+3130,zc5q2k3e,s1,160.0,230.0,0.0,0.8125,6.0,-0.31666666666666665,49.0,11.0,Male,0.0,0.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",,1.0,1.0
+3134,zce04v9h,s4,170.0,135.0,0.3333333333333333,0.875,6.0,0.26666666666666666,42.0,4.0,Male,1.0,0.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+3137,ze2fmlqq,s2,212.5,180.0,0.0,0.75,7.0,-0.21666666666666667,61.0,11.0,Female,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+3140,zffmivvm,s4,200.0,205.0,0.5,0.75,4.0,-0.5166666666666666,22.0,11.0,Male,0.0,0.0,1.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",4.0,,
+3144,zfk4778l,s1,275.0,160.0,0.5,0.875,7.0,0.19999999999999998,56.0,6.0,Female,1.0,1.0,1.0,Design 2,Design 1,"Have an option between Design #1 and Design #2,",,1.0,1.0
+3147,zgb7bx9j,s1,135.0,235.0,0.5,0.75,7.0,0.11666666666666659,58.0,7.0,Female,0.0,1.0,0.0,Design 2,Design 2,Only trade on Design #1,,5.0,4.0
+3149,zhf652r9,s2,187.5,187.5,0.5,0.875,1.0,-0.15,45.0,3.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+3153,zijtqpsq,s1,,177.5,0.5,0.625,7.0,-0.13333333333333341,42.0,10.0,Female,1.0,0.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,2.0,5.0
+3155,zjlsjrpb,s3,145.0,170.0,0.0,0.5,7.0,-0.21666666666666667,57.0,11.0,Male,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,3.0,5.0
+3157,zkd1hhc6,s2,165.0,175.0,0.375,0.9375,5.0,-0.08333333333333337,49.0,7.0,Female,0.0,1.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+3161,zltx6x3a,s2,195.0,167.5,0.5,0.6875,8.0,0.050000000000000044,66.0,9.0,Female,0.0,1.0,0.0,Design 1,Design 1,Only trade on Design #1,4.0,,
+3165,zlvs5b2m,s1,220.0,172.5,0.5,0.75,3.0,-0.5333333333333334,43.0,10.0,Female,0.0,0.0,0.0,Design 1,Design 1,Only trade on Design #1,,3.0,4.0
+3169,znbrd664,s3,140.0,190.0,0.0,1.0,5.0,-0.5,58.0,12.0,Male,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,4.0,3.0
+3171,zo4qx2nu,s2,,210.0,0.5,0.75,8.0,-0.19999999999999996,48.0,12.0,Male,1.0,1.0,1.0,Design 1,Design 2,"Have an option between Design #1 and Design #2,",5.0,,
+3173,zozqv7nt,s2,170.0,235.0,0.0,0.6666666666666666,8.0,-0.19999999999999996,45.0,12.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,,
+3176,zrpyxu73,s1,170.0,205.0,0.5,0.8125,3.0,0.13333333333333333,38.0,2.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",,5.0,5.0
+3180,zsb9wxmu,s2,165.0,175.0,0.3333333333333333,0.8333333333333334,5.0,-0.41666666666666663,20.0,11.0,Female,1.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",4.0,,
+3183,zt9go1gv,s3,,150.0,0.5,0.75,2.0,-0.7166666666666666,21.0,11.0,Female,0.0,0.0,0.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",5.0,4.0,4.0
+3184,zu9xsn1z,s1,225.0,152.5,0.5,0.8333333333333334,4.0,-0.35,47.0,9.0,Female,1.0,0.0,1.0,Design 1,Design 1,Only trade on Design #1,,2.0,4.0
+3187,zv3e3yn9,s1,175.0,190.0,1.0,0.5,7.0,-0.13333333333333341,43.0,10.0,Male,1.0,1.0,1.0,Design 2,Design 2,Only trade on Design #1,,3.0,5.0
+3189,zvvavfew,s4,162.5,152.5,0.5,0.75,7.0,-0.2166666666666667,63.0,11.0,Male,0.0,1.0,0.0,Design 1,Design 1,"Have an option between Design #1 and Design #2,",5.0,,
+3193,zwmlry0i,s4,182.5,195.0,0.0,0.9375,7.0,-0.21666666666666667,60.0,11.0,Male,0.0,1.0,1.0,Design 2,Design 2,"Have an option between Design #1 and Design #2,",3.0,,

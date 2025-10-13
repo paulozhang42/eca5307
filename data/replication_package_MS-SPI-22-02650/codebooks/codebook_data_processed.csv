@@ -1,0 +1,312 @@
+filename,variable_name,description
+jackknife_finquiz.csv,participant_code,Unique participant code
+jackknife_finquiz.csv,player.payoff_Q1," The sum of correct answers given by a participant across all quiz questions, excluding their response to this question"
+jackknife_finquiz.csv,player.payoff_Q2," The sum of correct answers given by a participant across all quiz questions, excluding their response to this question"
+jackknife_finquiz.csv,player.payoff_Q3," The sum of correct answers given by a participant across all quiz questions, excluding their response to this question"
+jackknife_finquiz.csv,player.payoff_Q4," The sum of correct answers given by a participant across all quiz questions, excluding their response to this question"
+jackknife_finquiz.csv,player.payoff_Q5," The sum of correct answers given by a participant across all quiz questions, excluding their response to this question"
+jackknife_finquiz.csv,player.payoff_Q6," The sum of correct answers given by a participant across all quiz questions, excluding their response to this question"
+jackknife_finquiz.csv,player.payoff_Q7," The sum of correct answers given by a participant across all quiz questions, excluding their response to this question"
+jackknife_finquiz.csv,player.payoff_Q8," The sum of correct answers given by a participant across all quiz questions, excluding their response to this question"
+jackknife_finquiz.csv,player.payoff_Q9," The sum of correct answers given by a participant across all quiz questions, excluding their response to this question"
+jackknife_finquiz.csv,player.payoff_Q10," The sum of correct answers given by a participant across all quiz questions, excluding their response to this question"
+jackknife_finquiz.csv,player.payoff_Q11," The sum of correct answers given by a participant across all quiz questions, excluding their response to this question"
+jackknife_finquiz.csv,player.payoff_Q12," The sum of correct answers given by a participant across all quiz questions, excluding their response to this question"
+self_reflection_uoft.csv,participant_code,Unique participant code
+self_reflection_uoft.csv,player.inner_name,Internal (abbreviated) treatment name
+self_reflection_uoft.csv,profit_nongamified,The average non-gamified payoff for each participant.
+self_reflection_uoft.csv,profit_gamified, The average gamified payoff for each participant.
+self_reflection_uoft.csv,accuracy_pred_zero_mean,Participant's average normalized accuracy of first-tick predictions.
+self_reflection_uoft.csv,prediction_accuracy_mean,"The average of a participantÕs prediction accuracy scores, where each score is normalized between zero (not accurate) and one (perfectly accurate)."
+self_reflection_uoft.csv,player.knowledge,Self-reported assessment of the player's knowledge in trading
+self_reflection_uoft.csv,overconfidence,"the difference between a participant's self-rated knowledge and their actual payoff, both normalized to a scale from 0 to 1"
+self_reflection_uoft.csv,player.age,Age of the player.
+self_reflection_uoft.csv,player.payoff,Payoff for the player in this round
+self_reflection_uoft.csv,player.gender,Gender of the player.
+self_reflection_uoft.csv,player.course_financial,Did you take any course focused on financial markets
+self_reflection_uoft.csv,player.trading_experience,Do you have any trading experience?
+self_reflection_uoft.csv,player.online_trading_experience,Do you use mobile trading apps?
+self_reflection_uoft.csv,player.sr_prefs,"If you could trade again, would you rather trade on a platform with Design #1 or Design #2?"
+self_reflection_uoft.csv,player.sr_better_decs,"If you could trade again, would you expect to make better decisions when the market looks as in Design #1 or #2?"
+self_reflection_uoft.csv,player.sr_better_have_option,"If you could trade again, would you prefer to be given an option between Design #1 and Design #2, or only trade on Design #1"
+self_reflection_uoft.csv,player.sr_notifications,Please rate the following trading app features on a scale from 1 (strongly dislike) to 5 (strongly like): Price notifications
+self_reflection_uoft.csv,player.sr_badges,Please rate the following trading app features on a scale from 1 (strongly dislike) to 5 (strongly like): Achievement badges
+self_reflection_uoft.csv,player.sr_confetti,Please rate the following trading app features on a scale from 1 (strongly dislike) to 5 (strongly like): Achievement messages and confetti
+panel_trades_uoft.csv,id,Unique identifier for each event recorded in the file.
+panel_trades_uoft.csv,round_number,Indicates the round number of the experiment or activity the participant was engaged in at the time of the page visit.
+panel_trades_uoft.csv,owner,The entity (likely the participant or system component) responsible for the event.
+panel_trades_uoft.csv,name,"The name or type of the event (e.g. GAME_STARTS, GAME_ENDS)."
+panel_trades_uoft.csv,timestamp,The exact time when the event occurred.
+panel_trades_uoft.csv,body,Detailed description or content of the event (specifics may vary depending on the event type).
+panel_trades_uoft.csv,balance,The participant's balance at the time of the event.
+panel_trades_uoft.csv,tick_number,The specific tick (time point) in the trading day (round) when the event occurred.
+panel_trades_uoft.csv,n_transactions,The number of transactions completed by the participant up to the point of this event.
+panel_trades_uoft.csv,participant_code,Unique participant code
+panel_trades_uoft.csv,session_code,Unique code identifying the experimental session during which the event occurred.
+panel_trades_uoft.csv,treatment,The treatment  applied during the session/event.
+panel_trades_uoft.csv,player.intermediary_payoff,player's payoff in specific round (it becomes his/her actual payoff if this round is selected for payment)
+panel_trades_uoft.csv,player.inner_name,Internal (abbreviated) treatment name
+panel_trades_uoft.csv,round_starts,Counts the number of times each round was initiated or restarted for each participant
+panel_trades_uoft.csv,price,Stock price at a given tick
+panel_trades_uoft.csv,price_shift,Lagged tick's price for the same participant and round
+panel_trades_uoft.csv,trade_direction,"the direction of the trade made by the participant. If the trade is a 'buy,' it is coded as -1, and if the trade is a 'sell,' it is coded as 1."
+panel_trades_uoft.csv,capital_gains," The financial gain calculated for each transaction, determined by subtracting the purchase price of an asset from its selling price"
+panel_trades_uoft.csv,trades_within_tick,The count of trades executed by a participant in the same round and tick
+panel_trades_uoft.csv,prev_name,the type of the previous trade (either 'buy' or 'sell') for the same participant within the same round.
+panel_trades_uoft.csv,duplicate_order,"Flags if a trade is the same type (buy or sell) as the previous one for a participant in the same round, with 1 indicating a repeated action and potential error."
+panel_trades_uoft.csv,first_trade, Records the type of the first trade (either 'buy' or 'sell') made by each participant in each round.
+panel_trades_uoft.csv,filtered_prob,the probability of a price movement in a favorable direction as determined by a Markovian model of price changes.
+panel_trades_uoft.csv,optimal_trade_count,"Sum of absolute optimal trade signs per round, representing the total number of optimal trades."
+panel_trades_uoft.csv,red_alert,"A binary indicator that flags a sequence where the price has decreased for three consecutive ticks within the same round. It is set to 1 only for the first tick in such a sequence, indicating the initiation of a downward trend."
+panel_trades_uoft.csv,green_alert," Similar to red_alert, but for upward trends. It flags when the price has increased for three consecutive ticks within a round. The indicator is set to 1 only for the first tick in such a sequence, signaling the start of an upward price movement."
+panel_trades_uoft.csv,player.block_name,name of the block (specific experimental condition for this round/trading day)
+panel_trades_uoft.csv,player.age,Age of the player.
+panel_trades_uoft.csv,player.payoff,Payoff for the player in this round
+panel_trades_uoft.csv,player.gender,Gender of the player.
+panel_trades_uoft.csv,player.course_financial,Did you take any course focused on financial markets
+panel_trades_uoft.csv,player.trading_experience,Do you have any trading experience?
+panel_trades_uoft.csv,player.online_trading_experience,Do you use mobile trading apps?
+panel_trades_uoft.csv,round_block,name of the block (specific experimental condition for this round/trading day)
+panel_trades_uoft.csv,gamified,"Indicates if a round is gamified (1) or not (0), based on round and block criteria."
+panel_trades_uoft.csv,salient,"Marks a round as salient (1) or non-salient (0), depending on the specific round and block combination."
+panel_trades_uoft.csv,ingame_experience,"A binary indicator where 1 represents participants who were in specific game blocks (""block 3 (G second)"" or ""block 4 (G second)"") or 0 otherwise"
+panel_trades_uoft.csv,accuracy_pred_zero, Participant's average normalized accuracy of first-tick predictions.
+panel_trades_uoft.csv,player.knowledge,Self-reported assessment of the player's knowledge in trading
+panel_trades_uoft.csv,overconfidence,"the difference between a participant's self-rated knowledge and their actual payoff, both normalized to a scale from 0 to 1"
+panel_trades_uoft.csv,PGR,The ratio of a participant's realized gains to their total recognized and unrealized gains within a round.
+panel_trades_uoft.csv,PLR, The ratio of a participant's realized losses to their total recognized and unrealized losses within a round.
+panel_trades_uoft.csv,PGR_alerts, The ratio of realized gains to the total of realized and paper gains during ticks where a green or red alert was triggered
+panel_trades_uoft.csv,PLR_alerts, The ratio of realized losses to the total of realized and paper losses during ticks where a green or red alert was triggered
+panel_trades_uoft.csv,prediction,"A participant's assessment of the likelihood of the stock price increasing, provided both before trading begins and midway through the trading day, in response to the question ""How likely is the stock to go up next?"""
+panel_trades_uoft.csv,prediction_accuracy,Normalized measure of how closely a participant's prediction aligns with the perceived probability.
+panel_trades_uoft.csv,prediction_confidence,Normalized value representing a participant's self-reported confidence in their prediction.
+panel_trades_uoft.csv,player.sr_prefs,"If you could trade again, would you rather trade on a platform with Design #1 or Design #2?"
+panel_trades_uoft.csv,player.sr_better_decs,"If you could trade again, would you expect to make better decisions when the market looks as in Design #1 or #2?"
+panel_trades_uoft.csv,player.sr_better_have_option,"If you could trade again, would you prefer to be given an option between Design #1 and Design #2, or only trade on Design #1"
+panel_trades_uoft.csv,player.sr_notifications,Please rate the following trading app features on a scale from 1 (strongly dislike) to 5 (strongly like): Price notifications
+panel_trades_uoft.csv,player.sr_badges,Please rate the following trading app features on a scale from 1 (strongly dislike) to 5 (strongly like): Achievement badges
+panel_trades_uoft.csv,player.sr_confetti,Please rate the following trading app features on a scale from 1 (strongly dislike) to 5 (strongly like): Achievement messages and confetti
+panel_tick_data.csv,player.inner_name,Internal (abbreviated) treatment name
+panel_tick_data.csv,participant_code,Unique participant code
+panel_tick_data.csv,round_number,Indicates the round number of the experiment or activity the participant was engaged in at the time of the page visit.
+panel_tick_data.csv,price,Stock price at a given tick
+panel_tick_data.csv,tick_number,The specific tick (time point) in the trading day (round) when the event occurred.
+panel_tick_data.csv,filtered_prob,the probability of a price movement in a favorable direction as determined by a Markovian model of price changes.
+panel_tick_data.csv,red_alert,"A binary indicator that flags a sequence where the price has decreased for three consecutive ticks within the same round. It is set to 1 only for the first tick in such a sequence, indicating the initiation of a downward trend."
+panel_tick_data.csv,green_alert," Similar to red_alert, but for upward trends. It flags when the price has increased for three consecutive ticks within a round. The indicator is set to 1 only for the first tick in such a sequence, signaling the start of an upward price movement."
+panel_tick_data.csv,optimal_trade_sign,"Adjusted trade sign, neutralized at the first instance when cumulative position equals or exceeds 2, then follows original trade sign."
+panel_tick_data.csv,name,"The name or type of the event (e.g. GAME_STARTS, GAME_ENDS)."
+panel_tick_data.csv,position_delta,"Reflects position change: 1 for a 'buy' (increase), -1 for a 'sell' (decrease), and 0 for no change."
+panel_tick_data.csv,position,"Cumulative trading position per participant per round, based on net buys and sells."
+panel_tick_data.csv,position_lag,Previous tick's trading position for each participant and round.
+panel_tick_data.csv,purchase_price,"Price at which the current position was taken, carried forward until the next position change."
+panel_tick_data.csv,capital_gains," The financial gain calculated for each transaction, determined by subtracting the purchase price of an asset from its selling price"
+panel_tick_data.csv,red_alert_L1,Indicates if a red alert (downward price trend signal) was triggered in the previous tick for the same participant and round.
+panel_tick_data.csv,red_alert_L2,Indicates if a red alert was triggered two ticks ago for the same participant and round.
+panel_tick_data.csv,red_alert_L3,Indicates if a red alert was triggered three ticks ago for the same participant and round.
+panel_tick_data.csv,green_alert_L1, Indicates if a green alert (upward price trend signal) was triggered in the previous tick for the same participant and round.
+panel_tick_data.csv,green_alert_L2,Indicates if a green alert was triggered two ticks ago for the same participant and round.
+panel_tick_data.csv,green_alert_L3,Indicates if a green alert was triggered three ticks ago for the same participant and round.
+panel_tick_data.csv,player.block_name,name of the block (specific experimental condition for this round/trading day)
+panel_tick_data.csv,player.age,Age of the player.
+panel_tick_data.csv,player.payoff,Payoff for the player in this round
+panel_tick_data.csv,player.gender,Gender of the player.
+panel_tick_data.csv,player.course_financial,Did you take any course focused on financial markets
+panel_tick_data.csv,player.trading_experience,Do you have any trading experience?
+panel_tick_data.csv,player.online_trading_experience,Do you use mobile trading apps?
+panel_tick_data.csv,ingame_experience,"A binary indicator where 1 represents participants who were in specific game blocks (""block 3 (G second)"" or ""block 4 (G second)"") or 0 otherwise"
+panel_tick_data.csv,gamified,"Indicates if a round is gamified (1) or not (0), based on round and block criteria."
+panel_tick_data.csv,salient,"Marks a round as salient (1) or non-salient (0), depending on the specific round and block combination."
+panel_tick_data.csv,prediction,"A participant's assessment of the likelihood of the stock price increasing, provided both before trading begins and midway through the trading day, in response to the question ""How likely is the stock to go up next?"""
+panel_tick_data.csv,prediction_accuracy,Normalized measure of how closely a participant's prediction aligns with the perceived probability.
+panel_tick_data.csv,player.knowledge,Self-reported assessment of the player's knowledge in trading
+panel_tick_data.csv,accuracy_pred_zero, Participant's average normalized accuracy of first-tick predictions.
+self_reflection.csv,participant_code,Unique participant code
+self_reflection.csv,player.inner_name,Internal (abbreviated) treatment name
+self_reflection.csv,profit_nongamified,The average non-gamified payoff for each participant.
+self_reflection.csv,profit_gamified, The average gamified payoff for each participant.
+self_reflection.csv,accuracy_pred_zero_mean,Participant's average normalized accuracy of first-tick predictions.
+self_reflection.csv,prediction_accuracy_mean,"The average of a participantÕs prediction accuracy scores, where each score is normalized between zero (not accurate) and one (perfectly accurate)."
+self_reflection.csv,player.knowledge,Self-reported assessment of the player's knowledge in trading
+self_reflection.csv,overconfidence,"the difference between a participant's self-rated knowledge and their actual payoff, both normalized to a scale from 0 to 1"
+self_reflection.csv,player.age,Age of the player.
+self_reflection.csv,player.payoff,Payoff for the player in this round
+self_reflection.csv,player.gender,Gender of the player.
+self_reflection.csv,player.course_financial,Did you take any course focused on financial markets
+self_reflection.csv,player.trading_experience,Do you have any trading experience?
+self_reflection.csv,player.online_trading_experience,Do you use mobile trading apps?
+self_reflection.csv,player.sr_prefs,"If you could trade again, would you rather trade on a platform with Design #1 or Design #2?"
+self_reflection.csv,player.sr_better_decs,"If you could trade again, would you expect to make better decisions when the market looks as in Design #1 or #2?"
+self_reflection.csv,player.sr_better_have_option,"If you could trade again, would you prefer to be given an option between Design #1 and Design #2, or only trade on Design #1"
+self_reflection.csv,player.sr_notifications,Please rate the following trading app features on a scale from 1 (strongly dislike) to 5 (strongly like): Price notifications
+self_reflection.csv,player.sr_badges,Please rate the following trading app features on a scale from 1 (strongly dislike) to 5 (strongly like): Achievement badges
+self_reflection.csv,player.sr_confetti,Please rate the following trading app features on a scale from 1 (strongly dislike) to 5 (strongly like): Achievement messages and confetti
+panel_trader_round.csv,participant_code,Unique participant code
+panel_trader_round.csv,round_number,Indicates the round number of the experiment or activity the participant was engaged in at the time of the page visit.
+panel_trader_round.csv,player.inner_name,Internal (abbreviated) treatment name
+panel_trader_round.csv,n_transactions,The number of transactions completed by the participant up to the point of this event.
+panel_trader_round.csv,optimal_trade_count,"Sum of absolute optimal trade signs per round, representing the total number of optimal trades."
+panel_trader_round.csv,gamified,"Indicates if a round is gamified (1) or not (0), based on round and block criteria."
+panel_trader_round.csv,salient,"Marks a round as salient (1) or non-salient (0), depending on the specific round and block combination."
+panel_trader_round.csv,player.intermediary_payoff,player's payoff in specific round (it becomes his/her actual payoff if this round is selected for payment)
+panel_trader_round.csv,ingame_experience,"A binary indicator where 1 represents participants who were in specific game blocks (""block 3 (G second)"" or ""block 4 (G second)"") or 0 otherwise"
+panel_trader_round.csv,accuracy_pred_zero, Participant's average normalized accuracy of first-tick predictions.
+panel_trader_round.csv,player.knowledge,Self-reported assessment of the player's knowledge in trading
+panel_trader_round.csv,overconfidence,"the difference between a participant's self-rated knowledge and their actual payoff, both normalized to a scale from 0 to 1"
+panel_trader_round.csv,PGR,The ratio of a participant's realized gains to their total recognized and unrealized gains within a round.
+panel_trader_round.csv,PLR, The ratio of a participant's realized losses to their total recognized and unrealized losses within a round.
+panel_trader_round.csv,PGR_alerts, The ratio of realized gains to the total of realized and paper gains during ticks where a green or red alert was triggered
+panel_trader_round.csv,PLR_alerts, The ratio of realized losses to the total of realized and paper losses during ticks where a green or red alert was triggered
+panel_trader_round.csv,excessive_trading,"Ratio of actual to optimal trades, with NaN indicating no optimal trades."
+panel_trader_round.csv,diff_PGR_PLR,The net difference between a participant's gain ratio and loss ratio.
+panel_trader_round.csv,diff_PGR_PLR_alerts,The difference between the count of gain-related alerts and loss-related alerts for a participant.
+panel_trader_round.csv,player.age,Age of the player.
+panel_trader_round.csv,player.payoff,Payoff for the player in this round
+panel_trader_round.csv,player.gender,Gender of the player.
+panel_trader_round.csv,player.course_financial,Did you take any course focused on financial markets
+panel_trader_round.csv,player.trading_experience,Do you have any trading experience?
+panel_trader_round.csv,player.online_trading_experience,Do you use mobile trading apps?
+panel_trader_round.csv,count_buy,The total number of buy trades a participant makes in each round within each specific internal treatment category.
+panel_trader_round.csv,count_sell,The total number of sell trades a participant makes in each round within each specific internal treatment category.
+panel_trader_round.csv,filtered_prob_buy,The average Markovian model-based probability of a favorable price movement associated with buy trades for each participant per round.
+panel_trader_round.csv,filtered_prob_sell,The average Markovian model-based probability of a favorable price movement associated with sell trades for each participant per round.
+panel_trader_round.csv,std_buy_prob," Standard deviation of Markovian probabilities associated with buy trades, reflecting the variability in price movement estimates for each participant per round."
+panel_trader_round.csv,std_sell_prob,"Standard deviation of Markovian probabilities associated with sell trades, indicating the variability in price movement estimates for each participant per round."
+panel_trader_round.csv,prediction,"A participant's assessment of the likelihood of the stock price increasing, provided both before trading begins and midway through the trading day, in response to the question ""How likely is the stock to go up next?"""
+panel_trader_round.csv,prediction_accuracy,Normalized measure of how closely a participant's prediction aligns with the perceived probability.
+panel_trader_round.csv,prediction_confidence,Normalized value representing a participant's self-reported confidence in their prediction.
+panel_trader_round.csv,player.sr_prefs,"If you could trade again, would you rather trade on a platform with Design #1 or Design #2?"
+panel_trader_round.csv,player.sr_better_decs,"If you could trade again, would you expect to make better decisions when the market looks as in Design #1 or #2?"
+panel_trader_round.csv,player.sr_better_have_option,"If you could trade again, would you prefer to be given an option between Design #1 and Design #2, or only trade on Design #1"
+panel_trader_round.csv,player.sr_notifications,Please rate the following trading app features on a scale from 1 (strongly dislike) to 5 (strongly like): Price notifications
+panel_trader_round.csv,player.sr_badges,Please rate the following trading app features on a scale from 1 (strongly dislike) to 5 (strongly like): Achievement badges
+panel_trader_round.csv,player.sr_confetti,Please rate the following trading app features on a scale from 1 (strongly dislike) to 5 (strongly like): Achievement messages and confetti
+panel_trader_round_uoft.csv,participant_code,Unique participant code
+panel_trader_round_uoft.csv,round_number,Indicates the round number of the experiment or activity the participant was engaged in at the time of the page visit.
+panel_trader_round_uoft.csv,player.inner_name,Internal (abbreviated) treatment name
+panel_trader_round_uoft.csv,n_transactions,The number of transactions completed by the participant up to the point of this event.
+panel_trader_round_uoft.csv,optimal_trade_count,"Sum of absolute optimal trade signs per round, representing the total number of optimal trades."
+panel_trader_round_uoft.csv,gamified,"Indicates if a round is gamified (1) or not (0), based on round and block criteria."
+panel_trader_round_uoft.csv,salient,"Marks a round as salient (1) or non-salient (0), depending on the specific round and block combination."
+panel_trader_round_uoft.csv,player.intermediary_payoff,player's payoff in specific round (it becomes his/her actual payoff if this round is selected for payment)
+panel_trader_round_uoft.csv,ingame_experience,"A binary indicator where 1 represents participants who were in specific game blocks (""block 3 (G second)"" or ""block 4 (G second)"") or 0 otherwise"
+panel_trader_round_uoft.csv,accuracy_pred_zero, Participant's average normalized accuracy of first-tick predictions.
+panel_trader_round_uoft.csv,player.knowledge,Self-reported assessment of the player's knowledge in trading
+panel_trader_round_uoft.csv,overconfidence,"the difference between a participant's self-rated knowledge and their actual payoff, both normalized to a scale from 0 to 1"
+panel_trader_round_uoft.csv,PGR,The ratio of a participant's realized gains to their total recognized and unrealized gains within a round.
+panel_trader_round_uoft.csv,PLR, The ratio of a participant's realized losses to their total recognized and unrealized losses within a round.
+panel_trader_round_uoft.csv,PGR_alerts, The ratio of realized gains to the total of realized and paper gains during ticks where a green or red alert was triggered
+panel_trader_round_uoft.csv,PLR_alerts, The ratio of realized losses to the total of realized and paper losses during ticks where a green or red alert was triggered
+panel_trader_round_uoft.csv,excessive_trading,"Ratio of actual to optimal trades, with NaN indicating no optimal trades."
+panel_trader_round_uoft.csv,diff_PGR_PLR,The net difference between a participant's gain ratio and loss ratio.
+panel_trader_round_uoft.csv,diff_PGR_PLR_alerts,The difference between the count of gain-related alerts and loss-related alerts for a participant.
+panel_trader_round_uoft.csv,player.age,Age of the player.
+panel_trader_round_uoft.csv,player.payoff,Payoff for the player in this round
+panel_trader_round_uoft.csv,player.gender,Gender of the player.
+panel_trader_round_uoft.csv,player.course_financial,Did you take any course focused on financial markets
+panel_trader_round_uoft.csv,player.trading_experience,Do you have any trading experience?
+panel_trader_round_uoft.csv,player.online_trading_experience,Do you use mobile trading apps?
+panel_trader_round_uoft.csv,count_buy,The total number of buy trades a participant makes in each round within each specific internal treatment category.
+panel_trader_round_uoft.csv,count_sell,The total number of sell trades a participant makes in each round within each specific internal treatment category.
+panel_trader_round_uoft.csv,filtered_prob_buy,The average Markovian model-based probability of a favorable price movement associated with buy trades for each participant per round.
+panel_trader_round_uoft.csv,filtered_prob_sell,The average Markovian model-based probability of a favorable price movement associated with sell trades for each participant per round.
+panel_trader_round_uoft.csv,std_buy_prob," Standard deviation of Markovian probabilities associated with buy trades, reflecting the variability in price movement estimates for each participant per round."
+panel_trader_round_uoft.csv,std_sell_prob,"Standard deviation of Markovian probabilities associated with sell trades, indicating the variability in price movement estimates for each participant per round."
+panel_trader_round_uoft.csv,prediction,"A participant's assessment of the likelihood of the stock price increasing, provided both before trading begins and midway through the trading day, in response to the question ""How likely is the stock to go up next?"""
+panel_trader_round_uoft.csv,prediction_accuracy,Normalized measure of how closely a participant's prediction aligns with the perceived probability.
+panel_trader_round_uoft.csv,prediction_confidence,Normalized value representing a participant's self-reported confidence in their prediction.
+panel_trader_round_uoft.csv,player.sr_prefs,"If you could trade again, would you rather trade on a platform with Design #1 or Design #2?"
+panel_trader_round_uoft.csv,player.sr_better_decs,"If you could trade again, would you expect to make better decisions when the market looks as in Design #1 or #2?"
+panel_trader_round_uoft.csv,player.sr_better_have_option,"If you could trade again, would you prefer to be given an option between Design #1 and Design #2, or only trade on Design #1"
+panel_trader_round_uoft.csv,player.sr_notifications,Please rate the following trading app features on a scale from 1 (strongly dislike) to 5 (strongly like): Price notifications
+panel_trader_round_uoft.csv,player.sr_badges,Please rate the following trading app features on a scale from 1 (strongly dislike) to 5 (strongly like): Achievement badges
+panel_trader_round_uoft.csv,player.sr_confetti,Please rate the following trading app features on a scale from 1 (strongly dislike) to 5 (strongly like): Achievement messages and confetti
+panel_tick_data_uoft.csv,player.inner_name,Internal (abbreviated) treatment name
+panel_tick_data_uoft.csv,participant_code,Unique participant code
+panel_tick_data_uoft.csv,round_number,Indicates the round number of the experiment or activity the participant was engaged in at the time of the page visit.
+panel_tick_data_uoft.csv,price,Stock price at a given tick
+panel_tick_data_uoft.csv,tick_number,The specific tick (time point) in the trading day (round) when the event occurred.
+panel_tick_data_uoft.csv,filtered_prob,the probability of a price movement in a favorable direction as determined by a Markovian model of price changes.
+panel_tick_data_uoft.csv,red_alert,"A binary indicator that flags a sequence where the price has decreased for three consecutive ticks within the same round. It is set to 1 only for the first tick in such a sequence, indicating the initiation of a downward trend."
+panel_tick_data_uoft.csv,green_alert," Similar to red_alert, but for upward trends. It flags when the price has increased for three consecutive ticks within a round. The indicator is set to 1 only for the first tick in such a sequence, signaling the start of an upward price movement."
+panel_tick_data_uoft.csv,optimal_trade_sign,"Adjusted trade sign, neutralized at the first instance when cumulative position equals or exceeds 2, then follows original trade sign."
+panel_tick_data_uoft.csv,name,"The name or type of the event (e.g. GAME_STARTS, GAME_ENDS)."
+panel_tick_data_uoft.csv,position_delta,"Reflects position change: 1 for a 'buy' (increase), -1 for a 'sell' (decrease), and 0 for no change."
+panel_tick_data_uoft.csv,position,"Cumulative trading position per participant per round, based on net buys and sells."
+panel_tick_data_uoft.csv,position_lag,Previous tick's trading position for each participant and round.
+panel_tick_data_uoft.csv,purchase_price,"Price at which the current position was taken, carried forward until the next position change."
+panel_tick_data_uoft.csv,capital_gains," The financial gain calculated for each transaction, determined by subtracting the purchase price of an asset from its selling price"
+panel_tick_data_uoft.csv,red_alert_L1,Indicates if a red alert (downward price trend signal) was triggered in the previous tick for the same participant and round.
+panel_tick_data_uoft.csv,red_alert_L2,Indicates if a red alert was triggered two ticks ago for the same participant and round.
+panel_tick_data_uoft.csv,red_alert_L3,Indicates if a red alert was triggered three ticks ago for the same participant and round.
+panel_tick_data_uoft.csv,green_alert_L1, Indicates if a green alert (upward price trend signal) was triggered in the previous tick for the same participant and round.
+panel_tick_data_uoft.csv,green_alert_L2,Indicates if a green alert was triggered two ticks ago for the same participant and round.
+panel_tick_data_uoft.csv,green_alert_L3,Indicates if a green alert was triggered three ticks ago for the same participant and round.
+panel_tick_data_uoft.csv,player.block_name,name of the block (specific experimental condition for this round/trading day)
+panel_tick_data_uoft.csv,player.age,Age of the player.
+panel_tick_data_uoft.csv,player.payoff,Payoff for the player in this round
+panel_tick_data_uoft.csv,player.gender,Gender of the player.
+panel_tick_data_uoft.csv,player.course_financial,Did you take any course focused on financial markets
+panel_tick_data_uoft.csv,player.trading_experience,Do you have any trading experience?
+panel_tick_data_uoft.csv,player.online_trading_experience,Do you use mobile trading apps?
+panel_tick_data_uoft.csv,ingame_experience,"A binary indicator where 1 represents participants who were in specific game blocks (""block 3 (G second)"" or ""block 4 (G second)"") or 0 otherwise"
+panel_tick_data_uoft.csv,gamified,"Indicates if a round is gamified (1) or not (0), based on round and block criteria."
+panel_tick_data_uoft.csv,salient,"Marks a round as salient (1) or non-salient (0), depending on the specific round and block combination."
+panel_tick_data_uoft.csv,prediction,"A participant's assessment of the likelihood of the stock price increasing, provided both before trading begins and midway through the trading day, in response to the question ""How likely is the stock to go up next?"""
+panel_tick_data_uoft.csv,prediction_accuracy,Normalized measure of how closely a participant's prediction aligns with the perceived probability.
+panel_tick_data_uoft.csv,player.knowledge,Self-reported assessment of the player's knowledge in trading
+panel_tick_data_uoft.csv,accuracy_pred_zero, Participant's average normalized accuracy of first-tick predictions.
+panel_trades.csv,id,Unique identifier for each event recorded in the file.
+panel_trades.csv,round_number,Indicates the round number of the experiment or activity the participant was engaged in at the time of the page visit.
+panel_trades.csv,owner,The entity (likely the participant or system component) responsible for the event.
+panel_trades.csv,name,"The name or type of the event (e.g. GAME_STARTS, GAME_ENDS)."
+panel_trades.csv,timestamp,The exact time when the event occurred.
+panel_trades.csv,body,Detailed description or content of the event (specifics may vary depending on the event type).
+panel_trades.csv,balance,The participant's balance at the time of the event.
+panel_trades.csv,tick_number,The specific tick (time point) in the trading day (round) when the event occurred.
+panel_trades.csv,n_transactions,The number of transactions completed by the participant up to the point of this event.
+panel_trades.csv,participant_code,Unique participant code
+panel_trades.csv,session_code,Unique code identifying the experimental session during which the event occurred.
+panel_trades.csv,treatment,The treatment  applied during the session/event.
+panel_trades.csv,player.intermediary_payoff,player's payoff in specific round (it becomes his/her actual payoff if this round is selected for payment)
+panel_trades.csv,player.inner_name,Internal (abbreviated) treatment name
+panel_trades.csv,round_starts,Counts the number of times each round was initiated or restarted for each participant
+panel_trades.csv,price,Stock price at a given tick
+panel_trades.csv,price_shift,Lagged tick's price for the same participant and round
+panel_trades.csv,trade_direction,"the direction of the trade made by the participant. If the trade is a 'buy,' it is coded as -1, and if the trade is a 'sell,' it is coded as 1."
+panel_trades.csv,capital_gains," The financial gain calculated for each transaction, determined by subtracting the purchase price of an asset from its selling price"
+panel_trades.csv,trades_within_tick,The count of trades executed by a participant in the same round and tick
+panel_trades.csv,prev_name,the type of the previous trade (either 'buy' or 'sell') for the same participant within the same round.
+panel_trades.csv,duplicate_order,"Flags if a trade is the same type (buy or sell) as the previous one for a participant in the same round, with 1 indicating a repeated action and potential error."
+panel_trades.csv,first_trade, Records the type of the first trade (either 'buy' or 'sell') made by each participant in each round.
+panel_trades.csv,filtered_prob,the probability of a price movement in a favorable direction as determined by a Markovian model of price changes.
+panel_trades.csv,optimal_trade_count,"Sum of absolute optimal trade signs per round, representing the total number of optimal trades."
+panel_trades.csv,red_alert,"A binary indicator that flags a sequence where the price has decreased for three consecutive ticks within the same round. It is set to 1 only for the first tick in such a sequence, indicating the initiation of a downward trend."
+panel_trades.csv,green_alert," Similar to red_alert, but for upward trends. It flags when the price has increased for three consecutive ticks within a round. The indicator is set to 1 only for the first tick in such a sequence, signaling the start of an upward price movement."
+panel_trades.csv,player.block_name,name of the block (specific experimental condition for this round/trading day)
+panel_trades.csv,player.age,Age of the player.
+panel_trades.csv,player.payoff,Payoff for the player in this round
+panel_trades.csv,player.gender,Gender of the player.
+panel_trades.csv,player.course_financial,Did you take any course focused on financial markets
+panel_trades.csv,player.trading_experience,Do you have any trading experience?
+panel_trades.csv,player.online_trading_experience,Do you use mobile trading apps?
+panel_trades.csv,round_block,name of the block (specific experimental condition for this round/trading day)
+panel_trades.csv,gamified,"Indicates if a round is gamified (1) or not (0), based on round and block criteria."
+panel_trades.csv,salient,"Marks a round as salient (1) or non-salient (0), depending on the specific round and block combination."
+panel_trades.csv,ingame_experience,"A binary indicator where 1 represents participants who were in specific game blocks (""block 3 (G second)"" or ""block 4 (G second)"") or 0 otherwise"
+panel_trades.csv,accuracy_pred_zero, Participant's average normalized accuracy of first-tick predictions.
+panel_trades.csv,player.knowledge,Self-reported assessment of the player's knowledge in trading
+panel_trades.csv,overconfidence,"the difference between a participant's self-rated knowledge and their actual payoff, both normalized to a scale from 0 to 1"
+panel_trades.csv,PGR,The ratio of a participant's realized gains to their total recognized and unrealized gains within a round.
+panel_trades.csv,PLR, The ratio of a participant's realized losses to their total recognized and unrealized losses within a round.
+panel_trades.csv,PGR_alerts, The ratio of realized gains to the total of realized and paper gains during ticks where a green or red alert was triggered
+panel_trades.csv,PLR_alerts, The ratio of realized losses to the total of realized and paper losses during ticks where a green or red alert was triggered
+panel_trades.csv,prediction,"A participant's assessment of the likelihood of the stock price increasing, provided both before trading begins and midway through the trading day, in response to the question ""How likely is the stock to go up next?"""
+panel_trades.csv,prediction_accuracy,Normalized measure of how closely a participant's prediction aligns with the perceived probability.
+panel_trades.csv,prediction_confidence,Normalized value representing a participant's self-reported confidence in their prediction.
+panel_trades.csv,player.sr_prefs,"If you could trade again, would you rather trade on a platform with Design #1 or Design #2?"
+panel_trades.csv,player.sr_better_decs,"If you could trade again, would you expect to make better decisions when the market looks as in Design #1 or #2?"
+panel_trades.csv,player.sr_better_have_option,"If you could trade again, would you prefer to be given an option between Design #1 and Design #2, or only trade on Design #1"
+panel_trades.csv,player.sr_notifications,Please rate the following trading app features on a scale from 1 (strongly dislike) to 5 (strongly like): Price notifications
+panel_trades.csv,player.sr_badges,Please rate the following trading app features on a scale from 1 (strongly dislike) to 5 (strongly like): Achievement badges
+panel_trades.csv,player.sr_confetti,Please rate the following trading app features on a scale from 1 (strongly dislike) to 5 (strongly like): Achievement messages and confetti

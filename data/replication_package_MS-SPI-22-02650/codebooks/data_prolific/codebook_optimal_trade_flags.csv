@@ -1,0 +1,7 @@
+variable_name,description
+round_number,Indicates the round number of the experiment or activity the participant was engaged in at the time of the page visit.
+tick_number,The specific tick (time point) in the trading day (round) when the event occurred.
+filtered_prob,the probability of a price movement in a favorable direction as determined by a Markovian model of price changes.
+trade_flag,a binary indicator (1 or 0) to signal whether a trade should be executed based on changes in the optimal trading position.
+optimal_trade_count,"The total number of trades indicated as optimal within a specific round, calculated based on the trade_flag values."
+price,Price level at this tick (time point)

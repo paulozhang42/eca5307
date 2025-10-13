@@ -1,0 +1,11 @@
+variable_name,description
+session_code,A unique identifier for the specific session of the experiment or study.
+participant_id_in_session,An identifier for the participant within the context of the session
+participant_code,A unique code assigned to each participant
+page_index,Numerical index representing the order or sequence of the page visited by the participant within an app or module.
+app_name,The name of the application or specific module within the study that the participant was interacting with.
+page_name,The specific name of the page that the participant visited or interacted with.
+epoch_time,The time at which the page interaction was recorded
+round_number,Indicates the round number of the experiment or activity the participant was engaged in at the time of the page visit.
+timeout_happened,A flag or indicator showing whether a timeout occurred on the page (e.g.
+is_wait_page,A boolean indicator or flag showing whether the page is a wait page

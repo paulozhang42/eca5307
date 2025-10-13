@@ -1,0 +1,53 @@
+variable_name,description
+participant.id_in_session,Identifier for the participant within the session.
+participant.code,Unique code for the participant in the study.
+participant.label,label - used for storing and associating with prolific user id
+participant._is_bot,Not used; internal otree
+participant._index_in_pages,page index reached by a particiapnt
+participant._max_page_index,Not used; internal otree;
+participant._current_app_name,app reached by a participant
+participant._current_page_name,page name reached by a particiapnt
+participant.time_started,Timestamp when the participant started the session (internally measured by oTree)
+participant.visited,Not used; internal otree
+participant.mturk_worker_id,Not used; internal otree
+participant.mturk_assignment_id,Not used; internal otree
+participant.payoff,Total payoff for the participant in the study.
+player.id_in_group,Identifier for the player within their group; Not used; internal otree;
+player.role,Role assigned to the player in the study; Not used; internal otree
+player.payoff,Payoff for the player in this round
+player.block_name,name of the block (specific experimental condition for this round/trading day)
+player.treatment_name,Treatment name
+player.inner_name,Internal (abbreviated) treatment name
+player.notifications,Boolean: whether a player gets notifications about price changes
+player.hedonic,Boolean: hedonic dimension of gamification in platfrom
+player.sr_prefs,"If you could trade again, would you rather trade on a platform with Design #1 or Design #2?"
+player.sr_better_decs,"If you could trade again, would you expect to make better decisions when the market looks as in Design #1 or #2?"
+player.sr_better_have_option,"If you could trade again, would you prefer to be given an option between Design #1 and Design #2, or only trade on Design #1"
+player.sr_notifications,Please rate the following trading app features on a scale from 1 (strongly dislike) to 5 (strongly like): Price notifications
+player.sr_badges,Please rate the following trading app features on a scale from 1 (strongly dislike) to 5 (strongly like): Achievement badges
+player.sr_confetti,Please rate the following trading app features on a scale from 1 (strongly dislike) to 5 (strongly like): Achievement messages and confetti
+player.gender,Gender of the player.
+player.age,Age of the player.
+player.nationality,Nationality of the player.
+player.education,Educational background of the player.
+player.study_major,The major or field of study of the player.
+player.course_financial,Did you take any course focused on financial markets
+player.experiment_before,Have you been taken part in an experiment before?
+player.trading_experience,Do you have any trading experience?
+player.online_trading_experience,Do you use mobile trading apps?
+player.trading_frequency,How often do you trade online?
+player.portfolio_frequency,How often do you check the value of your portfolio?
+player.asset_class,Which asset class do you trade the most?
+player.use_leverage,"Do you use leverage (e.g., trading on margin)?"
+player.purpose,What do you think is the purpose of this study?
+player.difficulty,Did you encounter any difficulty throughout the experiment?
+player.vars_dump,Dump of various runtime variables associated with the  participant
+group.id_in_subsession,Identifier for the group within the subsession; ; Not used; internal otree;
+subsession.round_number,Round number
+session.code,Unique code identifying the session.
+session.label,Label  of the session.
+session.mturk_HITId,Not used; internal otree;
+session.mturk_HITGroupId,Not used; internal otree;
+session.comment,Not used; internal otree;
+session.is_demo,"Boolean: true if it is not a real session, but has been run for testing or demo purposes"
+cad_payoff,Final payoff in CAD

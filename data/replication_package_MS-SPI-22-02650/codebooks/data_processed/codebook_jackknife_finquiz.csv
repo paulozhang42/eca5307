@@ -1,0 +1,13 @@
+variable_name,description
+player.payoff_Q1,"The sum of correct answers given by a participant across all quiz questions, excluding their response to this question"
+player.payoff_Q2,"The sum of correct answers given by a participant across all quiz questions, excluding their response to this question"
+player.payoff_Q3,"The sum of correct answers given by a participant across all quiz questions, excluding their response to this question"
+player.payoff_Q4,"The sum of correct answers given by a participant across all quiz questions, excluding their response to this question"
+player.payoff_Q5,"The sum of correct answers given by a participant across all quiz questions, excluding their response to this question"
+player.payoff_Q6,"The sum of correct answers given by a participant across all quiz questions, excluding their response to this question"
+player.payoff_Q7,"The sum of correct answers given by a participant across all quiz questions, excluding their response to this question"
+player.payoff_Q8,"The sum of correct answers given by a participant across all quiz questions, excluding their response to this question"
+player.payoff_Q9,"The sum of correct answers given by a participant across all quiz questions, excluding their response to this question"
+player.payoff_Q10,"The sum of correct answers given by a participant across all quiz questions, excluding their response to this question"
+player.payoff_Q11,"The sum of correct answers given by a participant across all quiz questions, excluding their response to this question"
+player.payoff_Q12,"The sum of correct answers given by a participant across all quiz questions, excluding their response to this question"

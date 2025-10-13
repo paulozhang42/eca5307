@@ -1,0 +1,9 @@
+variable_name,description
+Question Label,The label of the financial question (FinQ).
+Answer,The answer provided by the player for the respective financial question.
+Participant Code,The unique code assigned to the participant who answered the question.
+Session Code,The unique code for the session in which the participant answered the question.
+Session Display Name,The display name of the session
+Player Age,The age of the player who answered the question.
+Player Gender,The gender of the player.
+Player Education,The educational background of the player.

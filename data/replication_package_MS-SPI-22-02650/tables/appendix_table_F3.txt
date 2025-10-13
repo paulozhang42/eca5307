@@ -1,0 +1,30 @@
+		(1)	(2)	(3)	(4)	(5)	(6)
+VARIABLES	LABELS	Prediction accuracy	Prediction accuracy	Prediction accuracy	Prediction accuracy	Prediction accuracy	Prediction accuracy
+							
+gamified	Gamified	0.01	-0.01*	0.01	0.01	-0.02**	0.02**
+		(0.76)	(-1.87)	(1.28)	(0.59)	(-2.05)	(2.25)
+salient	Salient purchase price	0.02	-0.01	0.01	0.02	-0.01	0.01
+		(1.31)	(-0.75)	(0.97)	(1.09)	(-0.53)	(0.91)
+age_std	Age	0.00	0.00*	0.00	0.00	0.00*	0.00
+		(0.85)	(1.67)	(1.27)	(0.40)	(1.84)	(1.58)
+d_gender	Gender (female)	0.04***	0.01	0.03***	0.04***	0.02	0.03**
+		(2.91)	(0.91)	(2.64)	(2.76)	(1.56)	(2.50)
+finquiz_std	Financial quiz score	0.00	-0.00	0.01	0.00	-0.00	0.01
+		(0.39)	(-0.51)	(1.04)	(0.02)	(-0.37)	(1.05)
+finknowledge_std	Self-assessed financial literacy	-0.00	0.00	-0.00	-0.00	0.00	-0.00
+		(-0.30)	(0.25)	(-0.27)	(-0.57)	(0.52)	(-0.53)
+playertrading_experience	Trading experience	-0.02	0.00	-0.01	-0.01	0.00	-0.01
+		(-1.09)	(0.13)	(-0.64)	(-0.61)	(0.27)	(-0.46)
+playercourse_financial	Finance course taken	0.01	-0.01	-0.00	0.00	-0.01	-0.01
+		(0.51)	(-0.72)	(-0.10)	(0.09)	(-0.54)	(-0.60)
+ingame_experience	In-game experience	-0.02	-0.00	-0.03***	-0.02	-0.00	-0.04***
+		(-1.36)	(-0.24)	(-3.52)	(-1.46)	(-0.59)	(-4.34)
+accuracy_pred_zero	First-tick prediction	-0.02	-0.03**	0.04**	-0.02	-0.04***	0.02
+		(-0.95)	(-2.39)	(2.22)	(-0.81)	(-2.59)	(0.97)
+Constant	Constant	0.74***	0.50***	0.93***	0.72***	0.49***	0.93***
+		(37.72)	(53.33)	(66.05)	(32.84)	(38.82)	(56.87)
+							
+Observations		1,058	452	606	1,027	446	581
+Adjusted R-squared		0.26	0.02	0.08	0.28	0.05	0.09
+Robust t-statistics in parentheses							
+*** p<0.01, ** p<0.05, * p<0.1							

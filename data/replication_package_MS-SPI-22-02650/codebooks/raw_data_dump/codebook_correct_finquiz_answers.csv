@@ -1,0 +1,4 @@
+variable_name,description
+Question,The actual text of the financial literacy quiz question.
+Question Code,The corresponding code used to identify the question in the oTree code.
+Correct Answer,The correct answer for the given financial literacy question.

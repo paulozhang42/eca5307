@@ -1,0 +1,26 @@
+		(1)	(2)	(3)	(4)	(5)	(6)	(7)	(8)
+VARIABLES	LABELS	prefer_gamified	prefer_gamified	prefer_gamified	better_gamified	better_gamified	better_gamified	option_value	option_value
+									
+finquiz_std	Financial quiz score	-0.09***	0.01	-0.10**	-0.07**	0.01	-0.09*	-0.02	-0.01
+		(-2.91)	(0.42)	(-2.01)	(-2.15)	(0.28)	(-1.80)	(-0.65)	(-0.54)
+age_std	Age	0.03	0.01	-0.02	0.06	0.01	0.06	-0.04	-0.01
+		(0.52)	(0.93)	(-0.34)	(1.23)	(1.30)	(0.88)	(-0.75)	(-0.67)
+d_gender	Gender (female)	0.08	0.08	0.05	0.04	0.05	-0.02	0.07	0.04
+		(1.37)	(1.30)	(0.58)	(0.65)	(0.76)	(-0.22)	(1.21)	(0.84)
+finknowledge_std	Self-assesed financial literacy	0.01	-0.02	0.03	0.01	-0.04	-0.00	0.02	-0.03
+		(0.25)	(-0.60)	(0.66)	(0.31)	(-1.12)	(-0.10)	(0.78)	(-1.13)
+playertrading_experience	Trading experience	0.02	-0.01	-0.02	0.04	0.03	0.01	-0.01	0.04
+		(0.26)	(-0.20)	(-0.26)	(0.65)	(0.47)	(0.07)	(-0.16)	(0.65)
+playercourse_financial	Finance course taken	0.08	0.10	0.05	0.10	0.06	0.01	-0.04	0.02
+		(0.93)	(1.23)	(0.41)	(1.20)	(0.69)	(0.06)	(-0.47)	(0.39)
+prediction_accuracy_mean_std	Prediction accuracy	-0.02	0.01	-0.07	0.00	0.01	-0.03	-0.03	0.02
+		(-0.62)	(0.27)	(-1.59)	(0.08)	(0.37)	(-0.74)	(-1.14)	(0.75)
+diff_payoff	Payoff difference	0.05**	0.05	-0.02	0.06**	0.03	0.04	0.00	0.03
+		(2.03)	(1.37)	(-0.53)	(2.31)	(1.02)	(1.23)	(0.21)	(1.19)
+Constant	Constant	0.38***	0.55***	0.40***	0.35***	0.57***	0.40***	0.66***	0.78***
+		(6.81)	(9.53)	(4.70)	(6.19)	(10.08)	(4.87)	(11.82)	(16.76)
+									
+Observations		291	297	148	291	297	148	291	297
+R-squared		0.05	0.02	0.07	0.04	0.01	0.05	0.02	0.02
+Robust t-statistics in parentheses									
+*** p<0.01, ** p<0.05, * p<0.1									

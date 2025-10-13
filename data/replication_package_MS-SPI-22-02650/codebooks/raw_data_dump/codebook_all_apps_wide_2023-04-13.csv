@@ -1,0 +1,204 @@
+variable_name,description
+participant.id_in_session,Identifier for the participant within the session.
+participant.code,Unique code for the participant in the study.
+participant.label,label - used for storing and associating with prolific user id
+participant._is_bot,Not used; internal otree
+participant._index_in_pages,page index reached by a particiapnt
+participant._max_page_index,Not used; internal otree;
+participant._current_app_name,app reached by a participant
+participant._current_page_name,page name reached by a particiapnt
+participant.time_started,Timestamp when the participant started the session (internally measured by oTree)
+participant.visited,Not used; internal otree
+participant.mturk_worker_id,Not used; internal otree
+participant.mturk_assignment_id,Not used; internal otree
+participant.payoff,Total payoff for the participant in the study.
+session.code,Unique code identifying the session.
+session.label,Label  of the session.
+session.mturk_HITId,Not used; internal otree;
+session.mturk_HITGroupId,Not used; internal otree;
+session.comment,Not used; internal otree;
+session.is_demo,"Boolean: true if it is not a real session, but has been run for testing or demo purposes"
+session.config.real_world_currency_per_point,The conversion rate from points earned in the session to real-world currency.
+session.config.tick_frequency,The frequency at which updates or 'ticks' occur in a trading or experimental session.
+session.config.trading_at,Configuration parameter indicating the time or conditions under which trading activities occur.
+session.config.prediction_at,Configuration setting defining when predictions are made or required in the session.
+session.config.for_prolific,A flag or setting indicating whether the session is designed for Prolific participants.
+session.config.awards_at,Configuration details about when awards or rewards are given out in the session.
+session.config.training_round_name,The name or identifier of the training round as configured in the session.
+session.config.participation_fee,The fixed participation fee for the session
+session.config.prolific_redirect_url,The URL to redirect participants to after completing the session
+pretrade.1.player.id_in_group,app: pretrade; round number: 1. Identifier for the player within their group; Not used; internal otree;
+pretrade.1.player.role,app: pretrade; round number: 1. Role assigned to the player in the study; Not used; internal otree
+pretrade.1.player.payoff,app: pretrade; round number: 1. Payoff for the player in this round
+pretrade.1.player.treatment,app: pretrade; round number: 1. The treatment  applied during the session/event.
+pretrade.1.player.martingale,app: pretrade; round number: 1. Informs if the martingale pricing method was employed to generate the price
+pretrade.1.player.consent,app: pretrade; round number: 1. Confirmation of the player's consent to participate in the study.
+pretrade.1.player.knowledge,app: pretrade; round number: 1. Self-reported assessment of the player's knowledge in trading
+pretrade.1.player.cq1,app: pretrade; round number: 1. Comprehension check: question 1
+pretrade.1.player.cq2,app: pretrade; round number: 1. Comprehension check: question 2
+pretrade.1.player.cq4,app: pretrade; round number: 1. Comprehension check: question 4
+pretrade.1.player.cq5,app: pretrade; round number: 1. Comprehension check: question 5
+pretrade.1.group.id_in_subsession,Not used; internal otree;
+pretrade.1.subsession.round_number,app: pretrade; round number: 1. Indicates the round number of the experiment or activity the participant was engaged in at the time of the page visit.
+trader_wrapper.1.player.id_in_group,app: trader_wrapper; round number: 1. Identifier for the player within their group; Not used; internal otree;
+trader_wrapper.1.player.role,app: trader_wrapper; round number: 1. Role assigned to the player in the study; Not used; internal otree
+trader_wrapper.1.player.payoff,app: trader_wrapper; round number: 1. Payoff for the player in this round
+trader_wrapper.1.player.martingale,app: trader_wrapper; round number: 1. Informs if the martingale pricing method was employed to generate the price
+trader_wrapper.1.player.stock_prices_A,app: trader_wrapper; round number: 1. List of prices a partiticant observes during the specific trading day (round)
+trader_wrapper.1.player.intermediary_payoff,app: trader_wrapper; round number: 1. player's payoff in specific round (it becomes his/her actual payoff if this round is selected for payment)
+trader_wrapper.1.player.gamified,app: trader_wrapper; round number: 1. Was the trading platform gamified in this round
+trader_wrapper.1.player.salient,app: trader_wrapper; round number: 1. Saliency (boolean)
+trader_wrapper.1.player.notifications,app: trader_wrapper; round number: 1. Boolean: whether a player gets notifications about price changes
+trader_wrapper.1.player.hedonic,app: trader_wrapper; round number: 1. Boolean: hedonic dimension of gamification in platfrom
+trader_wrapper.1.player.treatment,app: trader_wrapper; round number: 1. The treatment  applied during the session/event.
+trader_wrapper.1.player.block,app: trader_wrapper; round number: 1. which block of experimental condition was applied during this round
+trader_wrapper.1.player.training,app: trader_wrapper; round number: 1. Was it a training (practicing) round
+trader_wrapper.1.player.start_time,app: trader_wrapper; round number: 1. Timestamp marking the beginning of the player's participation in trading
+trader_wrapper.1.player.end_time,app: trader_wrapper; round number: 1. Timestamp marking the end of the player's participation in trading
+trader_wrapper.1.player.payable_round,app: trader_wrapper; round number: 1. Was this round randomly selected for payment
+trader_wrapper.1.player.day_params,app: trader_wrapper; round number: 1. specific parameters of trading platform for this round
+trader_wrapper.1.player.block_name,app: trader_wrapper; round number: 1. name of the block (specific experimental condition for this round/trading day)
+trader_wrapper.1.player.treatment_name,app: trader_wrapper; round number: 1. Treatment name
+trader_wrapper.1.player.inner_treatment_name,app: trader_wrapper; round number: 1. treatment abbreviation (for internal use)
+trader_wrapper.1.group.id_in_subsession,Not used; internal otree;
+trader_wrapper.1.subsession.round_number,app: trader_wrapper; round number: 1. Indicates the round number of the experiment or activity the participant was engaged in at the time of the page visit.
+trader_wrapper.1.subsession.tick_frequency,app: trader_wrapper; round number: 1. The frequency of ticks (updates or events) within the subsession.
+trader_wrapper.1.subsession.max_length,app: trader_wrapper; round number: 1. The maximum duration or length of the subsession.
+trader_wrapper.1.subsession.round_name,app: trader_wrapper; round number: 1. The name or identifier of a particular round within the subsession.
+trader_wrapper.1.subsession.corrected_round_number,app: trader_wrapper; round number: 1. The adjusted round number
+trader_wrapper.2.player.id_in_group,app: trader_wrapper; round number: 2. Identifier for the player within their group; Not used; internal otree;
+trader_wrapper.2.player.role,app: trader_wrapper; round number: 2. Role assigned to the player in the study; Not used; internal otree
+trader_wrapper.2.player.payoff,app: trader_wrapper; round number: 2. Payoff for the player in this round
+trader_wrapper.2.player.martingale,app: trader_wrapper; round number: 2. Informs if the martingale pricing method was employed to generate the price
+trader_wrapper.2.player.stock_prices_A,app: trader_wrapper; round number: 2. List of prices a partiticant observes during the specific trading day (round)
+trader_wrapper.2.player.intermediary_payoff,app: trader_wrapper; round number: 2. player's payoff in specific round (it becomes his/her actual payoff if this round is selected for payment)
+trader_wrapper.2.player.gamified,app: trader_wrapper; round number: 2. Was the trading platform gamified in this round
+trader_wrapper.2.player.salient,app: trader_wrapper; round number: 2. Saliency (boolean)
+trader_wrapper.2.player.notifications,app: trader_wrapper; round number: 2. Boolean: whether a player gets notifications about price changes
+trader_wrapper.2.player.hedonic,app: trader_wrapper; round number: 2. Boolean: hedonic dimension of gamification in platfrom
+trader_wrapper.2.player.treatment,app: trader_wrapper; round number: 2. The treatment  applied during the session/event.
+trader_wrapper.2.player.block,app: trader_wrapper; round number: 2. which block of experimental condition was applied during this round
+trader_wrapper.2.player.training,app: trader_wrapper; round number: 2. Was it a training (practicing) round
+trader_wrapper.2.player.start_time,app: trader_wrapper; round number: 2. Timestamp marking the beginning of the player's participation in trading
+trader_wrapper.2.player.end_time,app: trader_wrapper; round number: 2. Timestamp marking the end of the player's participation in trading
+trader_wrapper.2.player.payable_round,app: trader_wrapper; round number: 2. Was this round randomly selected for payment
+trader_wrapper.2.player.day_params,app: trader_wrapper; round number: 2. specific parameters of trading platform for this round
+trader_wrapper.2.player.block_name,app: trader_wrapper; round number: 2. name of the block (specific experimental condition for this round/trading day)
+trader_wrapper.2.player.treatment_name,app: trader_wrapper; round number: 2. Treatment name
+trader_wrapper.2.player.inner_treatment_name,app: trader_wrapper; round number: 2. treatment abbreviation (for internal use)
+trader_wrapper.2.group.id_in_subsession,Not used; internal otree;
+trader_wrapper.2.subsession.round_number,app: trader_wrapper; round number: 2. Indicates the round number of the experiment or activity the participant was engaged in at the time of the page visit.
+trader_wrapper.2.subsession.tick_frequency,app: trader_wrapper; round number: 2. The frequency of ticks (updates or events) within the subsession.
+trader_wrapper.2.subsession.max_length,app: trader_wrapper; round number: 2. The maximum duration or length of the subsession.
+trader_wrapper.2.subsession.round_name,app: trader_wrapper; round number: 2. The name or identifier of a particular round within the subsession.
+trader_wrapper.2.subsession.corrected_round_number,app: trader_wrapper; round number: 2. The adjusted round number
+trader_wrapper.3.player.id_in_group,app: trader_wrapper; round number: 3. Identifier for the player within their group; Not used; internal otree;
+trader_wrapper.3.player.role,app: trader_wrapper; round number: 3. Role assigned to the player in the study; Not used; internal otree
+trader_wrapper.3.player.payoff,app: trader_wrapper; round number: 3. Payoff for the player in this round
+trader_wrapper.3.player.martingale,app: trader_wrapper; round number: 3. Informs if the martingale pricing method was employed to generate the price
+trader_wrapper.3.player.stock_prices_A,app: trader_wrapper; round number: 3. List of prices a partiticant observes during the specific trading day (round)
+trader_wrapper.3.player.intermediary_payoff,app: trader_wrapper; round number: 3. player's payoff in specific round (it becomes his/her actual payoff if this round is selected for payment)
+trader_wrapper.3.player.gamified,app: trader_wrapper; round number: 3. Was the trading platform gamified in this round
+trader_wrapper.3.player.salient,app: trader_wrapper; round number: 3. Saliency (boolean)
+trader_wrapper.3.player.notifications,app: trader_wrapper; round number: 3. Boolean: whether a player gets notifications about price changes
+trader_wrapper.3.player.hedonic,app: trader_wrapper; round number: 3. Boolean: hedonic dimension of gamification in platfrom
+trader_wrapper.3.player.treatment,app: trader_wrapper; round number: 3. The treatment  applied during the session/event.
+trader_wrapper.3.player.block,app: trader_wrapper; round number: 3. which block of experimental condition was applied during this round
+trader_wrapper.3.player.training,app: trader_wrapper; round number: 3. Was it a training (practicing) round
+trader_wrapper.3.player.start_time,app: trader_wrapper; round number: 3. Timestamp marking the beginning of the player's participation in trading
+trader_wrapper.3.player.end_time,app: trader_wrapper; round number: 3. Timestamp marking the end of the player's participation in trading
+trader_wrapper.3.player.payable_round,app: trader_wrapper; round number: 3. Was this round randomly selected for payment
+trader_wrapper.3.player.day_params,app: trader_wrapper; round number: 3. specific parameters of trading platform for this round
+trader_wrapper.3.player.block_name,app: trader_wrapper; round number: 3. name of the block (specific experimental condition for this round/trading day)
+trader_wrapper.3.player.treatment_name,app: trader_wrapper; round number: 3. Treatment name
+trader_wrapper.3.player.inner_treatment_name,app: trader_wrapper; round number: 3. treatment abbreviation (for internal use)
+trader_wrapper.3.group.id_in_subsession,Not used; internal otree;
+trader_wrapper.3.subsession.round_number,app: trader_wrapper; round number: 3. Indicates the round number of the experiment or activity the participant was engaged in at the time of the page visit.
+trader_wrapper.3.subsession.tick_frequency,app: trader_wrapper; round number: 3. The frequency of ticks (updates or events) within the subsession.
+trader_wrapper.3.subsession.max_length,app: trader_wrapper; round number: 3. The maximum duration or length of the subsession.
+trader_wrapper.3.subsession.round_name,app: trader_wrapper; round number: 3. The name or identifier of a particular round within the subsession.
+trader_wrapper.3.subsession.corrected_round_number,app: trader_wrapper; round number: 3. The adjusted round number
+trader_wrapper.4.player.id_in_group,app: trader_wrapper; round number: 4. Identifier for the player within their group; Not used; internal otree;
+trader_wrapper.4.player.role,app: trader_wrapper; round number: 4. Role assigned to the player in the study; Not used; internal otree
+trader_wrapper.4.player.payoff,app: trader_wrapper; round number: 4. Payoff for the player in this round
+trader_wrapper.4.player.martingale,app: trader_wrapper; round number: 4. Informs if the martingale pricing method was employed to generate the price
+trader_wrapper.4.player.stock_prices_A,app: trader_wrapper; round number: 4. List of prices a partiticant observes during the specific trading day (round)
+trader_wrapper.4.player.intermediary_payoff,app: trader_wrapper; round number: 4. player's payoff in specific round (it becomes his/her actual payoff if this round is selected for payment)
+trader_wrapper.4.player.gamified,app: trader_wrapper; round number: 4. Was the trading platform gamified in this round
+trader_wrapper.4.player.salient,app: trader_wrapper; round number: 4. Saliency (boolean)
+trader_wrapper.4.player.notifications,app: trader_wrapper; round number: 4. Boolean: whether a player gets notifications about price changes
+trader_wrapper.4.player.hedonic,app: trader_wrapper; round number: 4. Boolean: hedonic dimension of gamification in platfrom
+trader_wrapper.4.player.treatment,app: trader_wrapper; round number: 4. The treatment  applied during the session/event.
+trader_wrapper.4.player.block,app: trader_wrapper; round number: 4. which block of experimental condition was applied during this round
+trader_wrapper.4.player.training,app: trader_wrapper; round number: 4. Was it a training (practicing) round
+trader_wrapper.4.player.start_time,app: trader_wrapper; round number: 4. Timestamp marking the beginning of the player's participation in trading
+trader_wrapper.4.player.end_time,app: trader_wrapper; round number: 4. Timestamp marking the end of the player's participation in trading
+trader_wrapper.4.player.payable_round,app: trader_wrapper; round number: 4. Was this round randomly selected for payment
+trader_wrapper.4.player.day_params,app: trader_wrapper; round number: 4. specific parameters of trading platform for this round
+trader_wrapper.4.player.block_name,app: trader_wrapper; round number: 4. name of the block (specific experimental condition for this round/trading day)
+trader_wrapper.4.player.treatment_name,app: trader_wrapper; round number: 4. Treatment name
+trader_wrapper.4.player.inner_treatment_name,app: trader_wrapper; round number: 4. treatment abbreviation (for internal use)
+trader_wrapper.4.group.id_in_subsession,Not used; internal otree;
+trader_wrapper.4.subsession.round_number,app: trader_wrapper; round number: 4. Indicates the round number of the experiment or activity the participant was engaged in at the time of the page visit.
+trader_wrapper.4.subsession.tick_frequency,app: trader_wrapper; round number: 4. The frequency of ticks (updates or events) within the subsession.
+trader_wrapper.4.subsession.max_length,app: trader_wrapper; round number: 4. The maximum duration or length of the subsession.
+trader_wrapper.4.subsession.round_name,app: trader_wrapper; round number: 4. The name or identifier of a particular round within the subsession.
+trader_wrapper.4.subsession.corrected_round_number,app: trader_wrapper; round number: 4. The adjusted round number
+trader_wrapper.5.player.id_in_group,app: trader_wrapper; round number: 5. Identifier for the player within their group; Not used; internal otree;
+trader_wrapper.5.player.role,app: trader_wrapper; round number: 5. Role assigned to the player in the study; Not used; internal otree
+trader_wrapper.5.player.payoff,app: trader_wrapper; round number: 5. Payoff for the player in this round
+trader_wrapper.5.player.martingale,app: trader_wrapper; round number: 5. Informs if the martingale pricing method was employed to generate the price
+trader_wrapper.5.player.stock_prices_A,app: trader_wrapper; round number: 5. List of prices a partiticant observes during the specific trading day (round)
+trader_wrapper.5.player.intermediary_payoff,app: trader_wrapper; round number: 5. player's payoff in specific round (it becomes his/her actual payoff if this round is selected for payment)
+trader_wrapper.5.player.gamified,app: trader_wrapper; round number: 5. Was the trading platform gamified in this round
+trader_wrapper.5.player.salient,app: trader_wrapper; round number: 5. Saliency (boolean)
+trader_wrapper.5.player.notifications,app: trader_wrapper; round number: 5. Boolean: whether a player gets notifications about price changes
+trader_wrapper.5.player.hedonic,app: trader_wrapper; round number: 5. Boolean: hedonic dimension of gamification in platfrom
+trader_wrapper.5.player.treatment,app: trader_wrapper; round number: 5. The treatment  applied during the session/event.
+trader_wrapper.5.player.block,app: trader_wrapper; round number: 5. which block of experimental condition was applied during this round
+trader_wrapper.5.player.training,app: trader_wrapper; round number: 5. Was it a training (practicing) round
+trader_wrapper.5.player.start_time,app: trader_wrapper; round number: 5. Timestamp marking the beginning of the player's participation in trading
+trader_wrapper.5.player.end_time,app: trader_wrapper; round number: 5. Timestamp marking the end of the player's participation in trading
+trader_wrapper.5.player.payable_round,app: trader_wrapper; round number: 5. Was this round randomly selected for payment
+trader_wrapper.5.player.day_params,app: trader_wrapper; round number: 5. specific parameters of trading platform for this round
+trader_wrapper.5.player.block_name,app: trader_wrapper; round number: 5. name of the block (specific experimental condition for this round/trading day)
+trader_wrapper.5.player.treatment_name,app: trader_wrapper; round number: 5. Treatment name
+trader_wrapper.5.player.inner_treatment_name,app: trader_wrapper; round number: 5. treatment abbreviation (for internal use)
+trader_wrapper.5.group.id_in_subsession,Not used; internal otree;
+trader_wrapper.5.subsession.round_number,app: trader_wrapper; round number: 5. Indicates the round number of the experiment or activity the participant was engaged in at the time of the page visit.
+trader_wrapper.5.subsession.tick_frequency,app: trader_wrapper; round number: 5. The frequency of ticks (updates or events) within the subsession.
+trader_wrapper.5.subsession.max_length,app: trader_wrapper; round number: 5. The maximum duration or length of the subsession.
+trader_wrapper.5.subsession.round_name,app: trader_wrapper; round number: 5. The name or identifier of a particular round within the subsession.
+trader_wrapper.5.subsession.corrected_round_number,app: trader_wrapper; round number: 5. The adjusted round number
+post_experimental.1.player.id_in_group,app: post_experimental; round number: 1. Identifier for the player within their group; Not used; internal otree;
+post_experimental.1.player.role,app: post_experimental; round number: 1. Role assigned to the player in the study; Not used; internal otree
+post_experimental.1.player.payoff,app: post_experimental; round number: 1. Payoff for the player in this round
+post_experimental.1.player.block_name,app: post_experimental; round number: 1. name of the block (specific experimental condition for this round/trading day)
+post_experimental.1.player.treatment_name,app: post_experimental; round number: 1. Treatment name
+post_experimental.1.player.inner_name,app: post_experimental; round number: 1. Internal (abbreviated) treatment name
+post_experimental.1.player.notifications,app: post_experimental; round number: 1. Boolean: whether a player gets notifications about price changes
+post_experimental.1.player.hedonic,app: post_experimental; round number: 1. Boolean: hedonic dimension of gamification in platfrom
+post_experimental.1.player.sr_prefs,"app: post_experimental; round number: 1. If you could trade again, would you rather trade on a platform with Design #1 or Design #2?"
+post_experimental.1.player.sr_better_decs,"app: post_experimental; round number: 1. If you could trade again, would you expect to make better decisions when the market looks as in Design #1 or #2?"
+post_experimental.1.player.sr_better_have_option,"app: post_experimental; round number: 1. If you could trade again, would you prefer to be given an option between Design #1 and Design #2, or only trade on Design #1"
+post_experimental.1.player.sr_notifications,app: post_experimental; round number: 1. Please rate the following trading app features on a scale from 1 (strongly dislike) to 5 (strongly like): Price notifications
+post_experimental.1.player.sr_badges,app: post_experimental; round number: 1. Please rate the following trading app features on a scale from 1 (strongly dislike) to 5 (strongly like): Achievement badges
+post_experimental.1.player.sr_confetti,app: post_experimental; round number: 1. Please rate the following trading app features on a scale from 1 (strongly dislike) to 5 (strongly like): Achievement messages and confetti
+post_experimental.1.player.gender,app: post_experimental; round number: 1. Gender of the player.
+post_experimental.1.player.age,app: post_experimental; round number: 1. Age of the player.
+post_experimental.1.player.nationality,app: post_experimental; round number: 1. Nationality of the player.
+post_experimental.1.player.education,app: post_experimental; round number: 1. Educational background of the player.
+post_experimental.1.player.study_major,app: post_experimental; round number: 1. The major or field of study of the player.
+post_experimental.1.player.course_financial,app: post_experimental; round number: 1. Did you take any course focused on financial markets
+post_experimental.1.player.experiment_before,app: post_experimental; round number: 1. Have you been taken part in an experiment before?
+post_experimental.1.player.trading_experience,app: post_experimental; round number: 1. Do you have any trading experience?
+post_experimental.1.player.online_trading_experience,app: post_experimental; round number: 1. Do you use mobile trading apps?
+post_experimental.1.player.trading_frequency,app: post_experimental; round number: 1. How often do you trade online?
+post_experimental.1.player.portfolio_frequency,app: post_experimental; round number: 1. How often do you check the value of your portfolio?
+post_experimental.1.player.asset_class,app: post_experimental; round number: 1. Which asset class do you trade the most?
+post_experimental.1.player.use_leverage,"app: post_experimental; round number: 1. Do you use leverage (e.g., trading on margin)?"
+post_experimental.1.player.purpose,app: post_experimental; round number: 1. What do you think is the purpose of this study?
+post_experimental.1.player.difficulty,app: post_experimental; round number: 1. Did you encounter any difficulty throughout the experiment?
+post_experimental.1.player.vars_dump,app: post_experimental; round number: 1. Dump of various runtime variables associated with the  participant
+post_experimental.1.group.id_in_subsession,Not used; internal otree;
+post_experimental.1.subsession.round_number,app: post_experimental; round number: 1. Indicates the round number of the experiment or activity the participant was engaged in at the time of the page visit.

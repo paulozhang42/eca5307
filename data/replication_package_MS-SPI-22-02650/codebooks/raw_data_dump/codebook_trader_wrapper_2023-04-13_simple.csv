@@ -1,0 +1,18 @@
+variable_name,description
+player.martingale,Informs if the martingale pricing method was employed to generate the price
+player.stock_prices_A,List of prices a partiticant observes during the specific trading day (round)
+player.intermediary_payoff,player's payoff in specific round (it becomes his/her actual payoff if this round is selected for payment)
+player.gamified,Was the trading platform gamified in this round
+player.salient,Saliency (boolean)
+player.treatment,The treatment  applied during the session/event.
+player.block,which block of experimental condition was applied during this round
+player.training,Was it a training (practicing) round
+player.start_time,Timestamp marking the beginning of the player's participation in trading
+player.end_time,Timestamp marking the end of the player's participation in trading
+player.payable_round,Was this round randomly selected for payment
+player.day_params,specific parameters of trading platform for this round
+player.inner_treatment_name,treatment abbreviation (for internal use)
+subsession.tick_frequency,Frequency at which updates or 'ticks' occurred in the trading.
+subsession.max_length,Maximum number of ticks in trading session
+subsession.round_name,"The name of the round shown to participants (Training round or Round 1,2,etc)"
+subsession.corrected_round_number,Adjusted round number (taking into account training rounds)

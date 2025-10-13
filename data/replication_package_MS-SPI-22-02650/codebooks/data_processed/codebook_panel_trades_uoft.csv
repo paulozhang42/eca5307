@@ -1,0 +1,55 @@
+variable_name,description
+id,Unique identifier for each event recorded in the file.
+round_number,Indicates the round number of the experiment or activity the participant was engaged in at the time of the page visit.
+owner,The entity (likely the participant or system component) responsible for the event.
+name,"The name or type of the event (e.g. GAME_STARTS, GAME_ENDS)."
+timestamp,The exact time when the event occurred.
+body,Detailed description or content of the event (specifics may vary depending on the event type).
+balance,The participant's balance at the time of the event.
+tick_number,The specific tick (time point) in the trading day (round) when the event occurred.
+n_transactions,The number of transactions completed by the participant up to the point of this event.
+participant_code,Unique participant code
+session_code,Unique code identifying the experimental session during which the event occurred.
+treatment,The treatment  applied during the session/event.
+player.intermediary_payoff,player's payoff in specific round (it becomes his/her actual payoff if this round is selected for payment)
+player.inner_name,Internal (abbreviated) treatment name
+round_starts,Counts the number of times each round was initiated or restarted for each participant
+price,Stock price at a given tick
+price_shift,Lagged tick's price for the same participant and round
+trade_direction,"the direction of the trade made by the participant. If the trade is a 'buy,' it is coded as -1, and if the trade is a 'sell,' it is coded as 1."
+capital_gains,"The financial gain calculated for each transaction, determined by subtracting the purchase price of an asset from its selling price"
+trades_within_tick,The count of trades executed by a participant in the same round and tick
+prev_name,the type of the previous trade (either 'buy' or 'sell') for the same participant within the same round.
+duplicate_order,"Flags if a trade is the same type (buy or sell) as the previous one for a participant in the same round, with 1 indicating a repeated action and potential error."
+first_trade,Records the type of the first trade (either 'buy' or 'sell') made by each participant in each round.
+filtered_prob,the probability of a price movement in a favorable direction as determined by a Markovian model of price changes.
+optimal_trade_count,"Sum of absolute optimal trade signs per round, representing the total number of optimal trades."
+red_alert,"A binary indicator that flags a sequence where the price has decreased for three consecutive ticks within the same round. It is set to 1 only for the first tick in such a sequence, indicating the initiation of a downward trend."
+green_alert,"Similar to red_alert, but for upward trends. It flags when the price has increased for three consecutive ticks within a round. The indicator is set to 1 only for the first tick in such a sequence, signaling the start of an upward price movement."
+player.block_name,name of the block (specific experimental condition for this round/trading day)
+player.age,Age of the player.
+player.payoff,Payoff for the player in this round
+player.gender,Gender of the player.
+player.course_financial,Did you take any course focused on financial markets
+player.trading_experience,Do you have any trading experience?
+player.online_trading_experience,Do you use mobile trading apps?
+round_block,name of the block (specific experimental condition for this round/trading day)
+gamified,"Indicates if a round is gamified (1) or not (0), based on round and block criteria."
+salient,"Marks a round as salient (1) or non-salient (0), depending on the specific round and block combination."
+ingame_experience,"A binary indicator where 1 represents participants who were in specific game blocks (""block 3 (G second)"" or ""block 4 (G second)"") or 0 otherwise"
+accuracy_pred_zero,Participant's average normalized accuracy of first-tick predictions.
+player.knowledge,Self-reported assessment of the player's knowledge in trading
+overconfidence,"the difference between a participant's self-rated knowledge and their actual payoff, both normalized to a scale from 0 to 1"
+PGR,The ratio of a participant's realized gains to their total recognized and unrealized gains within a round.
+PLR,The ratio of a participant's realized losses to their total recognized and unrealized losses within a round.
+PGR_alerts,The ratio of realized gains to the total of realized and paper gains during ticks where a green or red alert was triggered
+PLR_alerts,The ratio of realized losses to the total of realized and paper losses during ticks where a green or red alert was triggered
+prediction,"A participant's assessment of the likelihood of the stock price increasing, provided both before trading begins and midway through the trading day, in response to the question ""How likely is the stock to go up next?"""
+prediction_accuracy,Normalized measure of how closely a participant's prediction aligns with the perceived probability.
+prediction_confidence,Normalized value representing a participant's self-reported confidence in their prediction.
+player.sr_prefs,"If you could trade again, would you rather trade on a platform with Design #1 or Design #2?"
+player.sr_better_decs,"If you could trade again, would you expect to make better decisions when the market looks as in Design #1 or #2?"
+player.sr_better_have_option,"If you could trade again, would you prefer to be given an option between Design #1 and Design #2, or only trade on Design #1"
+player.sr_notifications,Please rate the following trading app features on a scale from 1 (strongly dislike) to 5 (strongly like): Price notifications
+player.sr_badges,Please rate the following trading app features on a scale from 1 (strongly dislike) to 5 (strongly like): Achievement badges
+player.sr_confetti,Please rate the following trading app features on a scale from 1 (strongly dislike) to 5 (strongly like): Achievement messages and confetti

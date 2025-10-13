@@ -1,0 +1,21 @@
+variable_name,description
+Submission id,Unique identifier for each submission of the demographic survey.
+Participant id,Unique Prolific  identifier. Coincides with participant.label in oTree files
+Status,"Status of the submission (e.g. completed, in review, accepted, rejected)."
+Started at,Timestamp marking when the participant started the survey on Prolific
+Completed at,Timestamp marking when the participant finalized the survey on Prolific
+Reviewed at,Timestamp indicating when the submission was reviewed.
+Archived at,Timestamp of when the submission was archived.
+Time taken,The total time taken by the participant to complete the study (measured by Prolific).
+Completion code,Completion code submitted by Prolific participant
+Total approvals,The total number of approvals the participant has received on the Prolific platform
+Fluent languages,Languages in which the participant is fluent.
+Age,Age of the participant.
+Sex,Sex of the participant.
+Ethnicity simplified,Simplified category of the participant's ethnicity.
+Country of birth,The country where the participant was born.
+Country of residence,The country where the participant currently resides.
+Nationality,Nationality of the participant.
+Language,Primary language spoken by the participant.
+Student status,Indicates whether the participant is a student.
+Employment status,Current employment status of the participant.

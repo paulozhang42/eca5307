@@ -1,0 +1,9 @@
+variable_name,description
+player.treatment,The treatment  applied during the session/event.
+player.martingale,Informs if the martingale pricing method was employed to generate the price
+player.consent,Confirmation of the player's consent to participate in the study.
+player.knowledge,Self-reported assessment of the player's knowledge in trading
+player.cq1,Comprehension check: question 1
+player.cq2,Comprehension check: question 2
+player.cq4,Comprehension check: question 4
+player.cq5,Comprehension check: question 5

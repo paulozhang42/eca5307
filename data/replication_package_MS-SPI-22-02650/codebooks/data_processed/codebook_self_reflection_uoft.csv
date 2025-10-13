@@ -1,0 +1,21 @@
+variable_name,description
+participant_code,Unique participant code
+player.inner_name,Internal (abbreviated) treatment name
+profit_nongamified,The average non-gamified payoff for each participant.
+profit_gamified,The average gamified payoff for each participant.
+accuracy_pred_zero_mean,Participant's average normalized accuracy of first-tick predictions.
+prediction_accuracy_mean,"The average of a participantÕs prediction accuracy scores, where each score is normalized between zero (not accurate) and one (perfectly accurate)."
+player.knowledge,Self-reported assessment of the player's knowledge in trading
+overconfidence,"the difference between a participant's self-rated knowledge and their actual payoff, both normalized to a scale from 0 to 1"
+player.age,Age of the player.
+player.payoff,Payoff for the player in this round
+player.gender,Gender of the player.
+player.course_financial,Did you take any course focused on financial markets
+player.trading_experience,Do you have any trading experience?
+player.online_trading_experience,Do you use mobile trading apps?
+player.sr_prefs,"If you could trade again, would you rather trade on a platform with Design #1 or Design #2?"
+player.sr_better_decs,"If you could trade again, would you expect to make better decisions when the market looks as in Design #1 or #2?"
+player.sr_better_have_option,"If you could trade again, would you prefer to be given an option between Design #1 and Design #2, or only trade on Design #1"
+player.sr_notifications,Please rate the following trading app features on a scale from 1 (strongly dislike) to 5 (strongly like): Price notifications
+player.sr_badges,Please rate the following trading app features on a scale from 1 (strongly dislike) to 5 (strongly like): Achievement badges
+player.sr_confetti,Please rate the following trading app features on a scale from 1 (strongly dislike) to 5 (strongly like): Achievement messages and confetti

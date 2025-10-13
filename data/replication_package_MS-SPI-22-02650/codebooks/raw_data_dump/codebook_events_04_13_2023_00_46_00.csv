@@ -1,0 +1,14 @@
+variable_name,description
+owner__participant__code,a code for participant who generated the event
+owner__session__code,a session code within which an event has been generated
+owner__round_number,Round number
+name,"event type. Possible values: GAME_ENDS, GAME_STARTS, PREDICTIONS_SENT, assignAward, buy, sell"
+balance,The participant's balance at the time of the event.
+tick_number,The specific tick (time point) in the trading day (round) when the event occurred.
+n_transactions,The number of transactions completed by the participant up to the point of this event.
+timestamp,The exact time when the event was recorded.
+body,Detailed description or content of the event (specifics may vary depending on the event type).
+owner__gamified,Was the trading platform gamified
+owner__training,Was it a training (practicing) round
+owner__subsession__tick_frequency,Frequency at which updates or 'ticks' occurred in the trading.
+secs_since_round_starts,The number of seconds elapsed since the start of the current round.

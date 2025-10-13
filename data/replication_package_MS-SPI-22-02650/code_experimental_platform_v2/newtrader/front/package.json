@@ -1,0 +1,69 @@
+{
+  "name": "front",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "deploy": "node scripts/gh-pages-deploy.js"
+  },
+  "dependencies": {
+    "@babel/runtime-corejs2": "^7.16.0",
+    "@tweenjs/tween.js": "^18.6.4",
+    "@vue/babel-preset-app": "^4.5.15",
+    "animate.css": "^4.1.1",
+    "babel-plugin-module-resolver": "^4.1.0",
+    "caniuse-lite": "^1.0.30001355",
+    "core-js": "^3.19.1",
+    "date-fns": "^2.25.0",
+    "gsap": "^3.7.1",
+    "highcharts": "^9.2.2",
+    "highcharts-vue": "^1.4.0",
+    "lodash": "^4.17.21",
+    "particles-bg-vue": "^1.3.5",
+    "v-snackbars": "^3.2.7",
+    "vue": "^2.6.11",
+    "vue-awesome-countdown": "^1.1.4",
+    "vue-confetti": "^2.3.0",
+    "vue-native-websocket": "^2.0.15",
+    "vue-slider-component": "^3.2.17",
+    "vue-typical": "1.6.2",
+    "vuetify": "^2.4.0",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": ">1.0.0",
+    "eslint-plugin-vue": "^8.0.3",
+    "node-sass": "^6.0.1",
+    "sass": "~1.32.0",
+    "sass-loader": "^10.0.5",
+    "vue-cli-plugin-vuetify": "~2.4.2",
+    "vue-template-compiler": "^2.6.11",
+    "vuetify-loader": "^1.7.0"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}

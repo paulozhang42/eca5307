@@ -1,0 +1,7 @@
+# config.yaml
+# when running on mac, comment out the windows path and uncomment the mac path
+# Stata path for windows
+# stata_path: "C:/Program Files/Stata17/StataMP-64.exe"
+# Stata path for mac
+# You may need to change from StataSE to StataMP depending on your version
+stata_path: "/Applications/Stata/StataSE.app/Contents/MacOS/StataSE"

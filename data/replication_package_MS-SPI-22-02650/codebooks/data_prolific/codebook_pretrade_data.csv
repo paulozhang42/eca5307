@@ -1,0 +1,33 @@
+variable_name,description
+participant.id_in_session,Identifier for the participant within the session.
+participant.code,Unique code for the participant in the study.
+participant.label,label - used for storing and associating with prolific user id
+participant._is_bot,Not used; internal otree
+participant._index_in_pages,page index reached by a particiapnt
+participant._max_page_index,Not used; internal otree;
+participant._current_app_name,app reached by a participant
+participant._current_page_name,page name reached by a particiapnt
+participant.time_started,Timestamp when the participant started the session (internally measured by oTree)
+participant.visited,Not used; internal otree
+participant.mturk_worker_id,Not used; internal otree
+participant.mturk_assignment_id,Not used; internal otree
+participant.payoff,Total payoff for the participant in the study.
+player.id_in_group,Identifier for the player within their group; Not used; internal otree;
+player.role,Role assigned to the player in the study; Not used; internal otree
+player.payoff,Payoff for the player in this round
+player.treatment,The treatment  applied during the session/event.
+player.martingale,Informs if the martingale pricing method was employed to generate the price
+player.consent,Confirmation of the player's consent to participate in the study.
+player.knowledge,Self-reported assessment of the player's knowledge in trading
+player.cq1,Comprehension check: question 1
+player.cq2,Comprehension check: question 2
+player.cq4,Comprehension check: question 4
+player.cq5,Comprehension check: question 5
+group.id_in_subsession,Identifier for the group within the subsession; ; Not used; internal otree;
+subsession.round_number,Round number
+session.code,Unique code identifying the session.
+session.label,Label  of the session.
+session.mturk_HITId,Not used; internal otree;
+session.mturk_HITGroupId,Not used; internal otree;
+session.comment,Not used; internal otree;
+session.is_demo,"Boolean: true if it is not a real session, but has been run for testing or demo purposes"

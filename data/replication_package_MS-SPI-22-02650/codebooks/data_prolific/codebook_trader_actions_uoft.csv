@@ -1,0 +1,14 @@
+variable_name,description
+id,Unique identifier for each event recorded in the file.
+round_number,Indicates the round number of the experiment or activity the participant was engaged in at the time of the page visit.
+owner,The entity (likely the participant or system component) responsible for the event.
+name,"The name or type of the event (e.g. GAME_STARTS, GAME_ENDS)."
+timestamp,The exact time when the event occurred.
+body,Detailed description or content of the event (specifics may vary depending on the event type).
+balance,The participant's balance at the time of the event.
+tick_number,The specific tick (time point) in the trading day (round) when the event occurred.
+n_transactions,The number of transactions completed by the participant up to the point of this event.
+participant_code,Unique participant code
+session_code,Unique code identifying the experimental session during which the event occurred.
+treatment,The treatment  applied during the session/event.
+player.intermediary_payoff,player's payoff in specific round (it becomes his/her actual payoff if this round is selected for payment)

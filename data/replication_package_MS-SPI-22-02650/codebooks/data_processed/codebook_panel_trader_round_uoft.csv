@@ -1,0 +1,41 @@
+variable_name,description
+participant_code,Unique participant code
+round_number,Indicates the round number of the experiment or activity the participant was engaged in at the time of the page visit.
+player.inner_name,Internal (abbreviated) treatment name
+n_transactions,The number of transactions completed by the participant up to the point of this event.
+optimal_trade_count,"Sum of absolute optimal trade signs per round, representing the total number of optimal trades."
+gamified,"Indicates if a round is gamified (1) or not (0), based on round and block criteria."
+salient,"Marks a round as salient (1) or non-salient (0), depending on the specific round and block combination."
+player.intermediary_payoff,player's payoff in specific round (it becomes his/her actual payoff if this round is selected for payment)
+ingame_experience,"A binary indicator where 1 represents participants who were in specific game blocks (""block 3 (G second)"" or ""block 4 (G second)"") or 0 otherwise"
+accuracy_pred_zero,Participant's average normalized accuracy of first-tick predictions.
+player.knowledge,Self-reported assessment of the player's knowledge in trading
+overconfidence,"the difference between a participant's self-rated knowledge and their actual payoff, both normalized to a scale from 0 to 1"
+PGR,The ratio of a participant's realized gains to their total recognized and unrealized gains within a round.
+PLR,The ratio of a participant's realized losses to their total recognized and unrealized losses within a round.
+PGR_alerts,The ratio of realized gains to the total of realized and paper gains during ticks where a green or red alert was triggered
+PLR_alerts,The ratio of realized losses to the total of realized and paper losses during ticks where a green or red alert was triggered
+excessive_trading,"Ratio of actual to optimal trades, with NaN indicating no optimal trades."
+diff_PGR_PLR,The net difference between a participant's gain ratio and loss ratio.
+diff_PGR_PLR_alerts,The difference between the count of gain-related alerts and loss-related alerts for a participant.
+player.age,Age of the player.
+player.payoff,Payoff for the player in this round
+player.gender,Gender of the player.
+player.course_financial,Did you take any course focused on financial markets
+player.trading_experience,Do you have any trading experience?
+player.online_trading_experience,Do you use mobile trading apps?
+count_buy,The total number of buy trades a participant makes in each round within each specific internal treatment category.
+count_sell,The total number of sell trades a participant makes in each round within each specific internal treatment category.
+filtered_prob_buy,The average Markovian model-based probability of a favorable price movement associated with buy trades for each participant per round.
+filtered_prob_sell,The average Markovian model-based probability of a favorable price movement associated with sell trades for each participant per round.
+std_buy_prob,"Standard deviation of Markovian probabilities associated with buy trades, reflecting the variability in price movement estimates for each participant per round."
+std_sell_prob,"Standard deviation of Markovian probabilities associated with sell trades, indicating the variability in price movement estimates for each participant per round."
+prediction,"A participant's assessment of the likelihood of the stock price increasing, provided both before trading begins and midway through the trading day, in response to the question ""How likely is the stock to go up next?"""
+prediction_accuracy,Normalized measure of how closely a participant's prediction aligns with the perceived probability.
+prediction_confidence,Normalized value representing a participant's self-reported confidence in their prediction.
+player.sr_prefs,"If you could trade again, would you rather trade on a platform with Design #1 or Design #2?"
+player.sr_better_decs,"If you could trade again, would you expect to make better decisions when the market looks as in Design #1 or #2?"
+player.sr_better_have_option,"If you could trade again, would you prefer to be given an option between Design #1 and Design #2, or only trade on Design #1"
+player.sr_notifications,Please rate the following trading app features on a scale from 1 (strongly dislike) to 5 (strongly like): Price notifications
+player.sr_badges,Please rate the following trading app features on a scale from 1 (strongly dislike) to 5 (strongly like): Achievement badges
+player.sr_confetti,Please rate the following trading app features on a scale from 1 (strongly dislike) to 5 (strongly like): Achievement messages and confetti
